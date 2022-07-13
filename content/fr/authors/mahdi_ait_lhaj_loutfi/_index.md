@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-     - course: X
+      course: X
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: X
 
