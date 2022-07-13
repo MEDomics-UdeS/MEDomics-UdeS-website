@@ -14,7 +14,7 @@ organizations:
     url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: short_bio_MV
+bio: 
 
 
 interests:

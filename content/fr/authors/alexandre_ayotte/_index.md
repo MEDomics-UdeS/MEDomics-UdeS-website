@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Simon Giard-Leroux
+title: Alexandre Ayotte
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Étudiant à la maîtrise en informatique, ingénieur électrique
+role: Étudiant à la maîtrise en informatique (imagerie)
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,16 @@ bio:
 
 
 interests:
-  - Énergie électrique
-  - Détection d'objets
+  - Classification de tumeurs rénales
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Informatique (cheminement en imagerie et médias numériques)
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2020-aujourd'hui
-    - course: B. Ing. Génie électrique
+    - course: B. Sc. Mathématiques (cheminement en statistique)
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2012-2016
+      year: 2016-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,13 +36,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Simon.Giard-Leroux@USherbrooke.ca'
+    link: 'mailto:Alexandre.Ayotte2@USherbrooke.ca'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/simon-giard-leroux-ing-954891ab/
+    link: https://www.linkedin.com/in/alexandre-ayotte-a4770b176/
   - icon: github
     icon_pack: fab
-    link: https://github.com/sgiardl
+    link: https://github.com/AleAyotte
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +61,4 @@ user_groups:
   - Étudiants (M. Sc.)
 ---
 
-Simon Giard-Leroux est étudiant à la maîtrise en informatique depuis l'automne 2020 et se consacre à appliquer des méthodes de détection d'objets dans un contexte industriel en énergie électrique.
+Alexandre Ayotte est étudiant à la maîtrise en informatique depuis l'hiver 2020 et se consacre à l'apprentissage multi-tâches et à la classification d'images de tumeurs rénales.
