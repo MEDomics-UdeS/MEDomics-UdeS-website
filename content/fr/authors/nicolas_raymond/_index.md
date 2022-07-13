@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants (M. Sc.)
+  - Étudiants et étudiantes (M. Sc.)
 ---
 
 Nicolas Raymond est étudiant à la maîtrise en informatique depuis l'été 2020 et se consacre aux réseaux de neurones graphiques.

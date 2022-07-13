@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants (M. Sc.)
+  - Étudiants et étudiantes (M. Sc.)
 ---
 
 Olivier Lefebvre est étudiant à la maîtrise en informatique depuis 2021 et se consacre à l'apprentissage fédéré.
