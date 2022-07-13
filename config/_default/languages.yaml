@@ -4,7 +4,7 @@
 
 # Default language
 fr:
-  languageCode: fr-ca
+  languageCode: fr
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/fr
 
