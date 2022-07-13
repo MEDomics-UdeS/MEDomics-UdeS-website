@@ -21,7 +21,7 @@ en:
       url: about
       weight: 10
     - name: News
-      url: news
+      url: post
       weight: 20
     - name: Team
       url: team
