@@ -4,7 +4,7 @@ widget_id: MEDomics-UdeS
 headless: true
 weight: 10
 title: ""
-hero_media: welcome.jpg
+hero_media: icon.png
 design:
   columns: "1"
   css_style: null
