@@ -4,7 +4,7 @@
 
 # Default language
 fr:
-  languageCode: fr
+  languageCode: fr-ca
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/fr
 
@@ -18,5 +18,5 @@ en:
   menu:
     main:
       - name: test-fr
-        url: '#about'
+        url: '#Tour'
         weight: 1
