@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants (M. Sc.)
+  - Étudiants et étudiantes (M. Sc.)
 ---
 
 Simon Giard-Leroux est étudiant à la maîtrise en informatique depuis l'automne 2020 et se consacre à appliquer des méthodes de détection d'objets dans un contexte industriel en énergie électrique.
