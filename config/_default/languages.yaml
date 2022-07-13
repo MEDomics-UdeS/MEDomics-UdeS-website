@@ -20,6 +20,9 @@ en:
     - name: About
       url: about
       weight: 10
+    - name: Courses
+      url: courses
+      weight: 15
     - name: News
       url: post
       weight: 20

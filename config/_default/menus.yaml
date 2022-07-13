@@ -7,6 +7,9 @@ main:
   - name: À propos
     url: about
     weight: 10
+  - name: Cours
+    url: courses
+    weight: 15
   - name: Nouvelles
     url: post
     weight: 20
