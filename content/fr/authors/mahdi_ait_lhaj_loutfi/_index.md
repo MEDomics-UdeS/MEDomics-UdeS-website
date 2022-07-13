@@ -6,7 +6,7 @@ title: Mahdi Ait Lhaj Loutfi
 superuser: false
 
 # Role/position
-role: Étudiant à la maîtrise en informatique
+role: Étudiant à la maîtrise en informatique (imagerie)
 
 # Organizations/Affiliations
 organizations:
