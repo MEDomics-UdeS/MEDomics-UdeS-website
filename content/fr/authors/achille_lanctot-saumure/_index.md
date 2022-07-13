@@ -22,7 +22,12 @@ interests:
 
 education:
   courses:
-    - 
+    - course: X
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: X
+    - course: X
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: X
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
