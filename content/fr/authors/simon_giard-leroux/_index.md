@@ -39,7 +39,7 @@ social:
     icon_pack: fas
     link: 'mailto:Simon.Giard-Leroux@USherbrooke.ca'
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/simon-giard-leroux-ing-954891ab/
   - icon: github
     icon_pack: fab
