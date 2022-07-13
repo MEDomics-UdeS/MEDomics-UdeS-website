@@ -11,11 +11,11 @@ fr:
 # Uncomment the lines below to configure your website in a second language.
 en:
  languageCode: en-us
-  contentDir: content/en
-  title: MEDomics UdeS Lab
-  params:
+ contentDir: content/en
+ title: MEDomics UdeS Lab
+ params:
     description: MEDomics UdeS Lab Website
-  menu:
+ menu:
     main:
       - name: Tour
         url: tour
