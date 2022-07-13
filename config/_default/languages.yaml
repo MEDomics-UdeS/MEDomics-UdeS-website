@@ -4,19 +4,19 @@
 
 # Default language
 fr:
-  languageCode: fr-ca
+  languageCode: "fr-ca"
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/fr
+  contentDir: "content/fr"
 
 # Uncomment the lines below to configure your website in a second language.
 en:
- languageCode: en-us
-  contentDir: content/en
-  title: MEDomics UdeS
+ languageCode: "en-us"
+  contentDir: "content/en"
+  title: "MEDomics UdeS"
   params:
-    description: Site web du laboratoire MEDomics UdeS
+    description: "Site web du laboratoire MEDomics UdeS"
   menu:
     main:
-      - name: test-fr
-        url: '#Tour'
+      - name: "test-fr"
+        url: "#Tour"
         weight: 1
