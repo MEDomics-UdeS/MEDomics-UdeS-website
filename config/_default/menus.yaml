@@ -5,16 +5,16 @@
 
 main:
   - name: À propos
-    url: a-propos
+    url: about
     weight: 10
   - name: Nouvelles
     url: post
     weight: 20
   - name: Équipe
-    url: equipe
+    url: team
     weight: 30
   - name: Événements
-    url: evenements
+    url: events
     weight: 40
   - name: Publications
     url: publications
