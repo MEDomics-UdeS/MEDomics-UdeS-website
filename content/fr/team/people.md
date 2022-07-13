@@ -17,8 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Directeur
-    - Étudiants (Ph. D.)
-    - Étudiants (M. Sc.)
+    - Étudiants et étudiantes (Ph. D.)
+    - Étudiants et étudiantes (M. Sc.)
     - Auxiliaires de recherche
     - Stagiaires
     - Anciens membres
