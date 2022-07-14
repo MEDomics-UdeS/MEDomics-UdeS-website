@@ -1,6 +1,6 @@
 ---
 # Display name
-title: François X
+title: François Marcoux
 
 # Is this the primary user of the site?
 superuser: false

@@ -29,8 +29,8 @@ en:
     - name: Team
       url: team
       weight: 30
-    - name: Events
-      url: events
+    - name: Projects
+      url: projets
       weight: 40
     - name: Publications
       url: publications
