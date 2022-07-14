@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The MEDomics-UdeS group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2020.
+Le laboratoire de recherche MEDomics UdeS, dirigé par le professeur Martin Vallières à l'Université de Sherbrooke, est axé sur la création de modèles prédictifs en informatique de la santé depuis sa fondation en 2020.
