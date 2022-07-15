@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./people/" cta_text=Rencontrez l'équipe →" %}}
+{{% cta cta_link="./people/" cta_text="Rencontrez l'équipe →" %}}
