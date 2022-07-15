@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day:
   theme_night: minimal
   font: native
   font_size: L
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} MEDomics UdeS. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,9 +53,9 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: fr-ca
 
 # Site features
 
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'google'
     api_key: ''
     zoom: 15
 

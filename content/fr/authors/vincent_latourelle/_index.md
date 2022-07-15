@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jonathan André Perron
+title: Vincent Latourelle
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ancien professionnel de recherche
+role: Ancien stagiaire
 
 # Organizations/Affiliations
 organizations:
@@ -55,4 +55,4 @@ user_groups:
   - Anciens membres
 ---
 
-Jonathan André Perron est 
+Vincent Latourelle est 
