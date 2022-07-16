@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 11
-title: "Martin Vallières"
+title: "Martin Vallières, Ph. D."
 hero_media: martin-vallieres.jpg
 design:
   columns: "2"
