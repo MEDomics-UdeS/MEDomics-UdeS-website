@@ -3,7 +3,7 @@ widget: hero
 widget_id: MEDomics-UdeS
 headless: true
 weight: 10
-title: ""
+title: "Laboratoire MEDomics UdeS"
 hero_media: icon.png
 design:
   columns: "1"
@@ -12,7 +12,7 @@ design:
 
 cta:
   url: author/martin-vallieres
-  label: Voir le profil de Martin Vallières
+  label: Consultez le profil de Martin Vallières
   icon_pack: fa
   icon: display-medical
 ---
