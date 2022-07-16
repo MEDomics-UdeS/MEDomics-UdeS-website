@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: ""
-hero_media: icon.png
+hero_media: icon-400x400.png
 design:
   columns: "2"
   css_style: null
