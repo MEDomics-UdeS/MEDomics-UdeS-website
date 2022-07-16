@@ -107,7 +107,6 @@ extensions:
 # Citation style
 
 publications:
-  link_authors: false
   date_format: January 2006
   citation_style: apa
 

@@ -6,7 +6,7 @@ title: Steven Robidas
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Ancien étudiant (B. Sc.)
 
 # Organizations/Affiliations
 organizations:
