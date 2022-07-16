@@ -11,10 +11,10 @@ design:
   css_class: null
 
 cta:
-  url: authors/martin-vallieres
+  url: author/martin-vallieres
   label: Voir le profil de Martin Vallières
   icon_pack: fa
-  icon: display-medtical
+  icon: display-medical
 ---
 <br>
 
