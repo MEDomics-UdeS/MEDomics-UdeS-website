@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '45.37995173234311'
     longitude: '-71.92660439775052'
-  directions: Pavillon D4, Faculté des sciences, Département d'informatique, Université de Sherbrooke
+  directions: Local D4-1010-20, Département d'informatique, Faculté des sciences, Université de Sherbrooke
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
