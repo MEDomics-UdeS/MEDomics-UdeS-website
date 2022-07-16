@@ -5,7 +5,7 @@ weight: 10
 title: ""
 hero_media: icon.png
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 
