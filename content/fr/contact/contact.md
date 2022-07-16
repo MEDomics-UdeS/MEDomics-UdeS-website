@@ -15,24 +15,24 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: Martin.Vallieres@usherbrooke.ca
+  # phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street:  2500 boul. de l'Université,
+    city: Sherbrooke
+    region: QC
+    postcode: 'J1K 2R1'
+    country: Canada
+    country_code: CA
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
+    latitude: '45.37995173234311'
+    longitude: '-71.92660439775052'
+  directions: Faculté des sciences, Département d'informatique, Local D4-1010-20
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
   #  - icon: comments
   #    icon_pack: fas
   #    name: Discuss on Forum
