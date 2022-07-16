@@ -3,7 +3,7 @@ title: 'Graph Attention Network for Prostate Cancer Lymph Node Invasion Predicti
 authors:
   - Maxence Larose
   - Nawar Touma
-  - admin
+  - Martin Vallières
 date: '2022-04-22T00:00:00Z'
 doi: ''
 
@@ -17,8 +17,8 @@ publishDate: '2022-04-22T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Medical Imaging with Deep Learning 2022*
-publication_short: In *MIDL 2022*
+publication: Dans *Medical Imaging with Deep Learning 2022*
+publication_short: Dans *MIDL 2022*
 
 abstract: This work proposes the use of a graph attention network (GAT) model combining radiomics and clinical data to improve the performance and interpretability of lymph node invasion (LNI) prediction in high-grade prostate cancer (PCa). Experiments were conducted using an in-house dataset of 170 high-grade PCa (Gleason ≥ 8), each with FDG-PET/CT images acquired prior to prostatectomy. To ensure interpretable connections between patients, the graph structure was constructed by merging the most important radiomic shape-based CT feature and first-order intensity-based PET feature to the clinically relevant features. The performance of the GAT model was compared to random forest (RF) and support vector machine (SVM) classifiers. On the 30 patients test set, the models reached {AUC=0.765, bACC= 0.705}, {AUC=0.748, bACC=0.66} and {AUC=0.725,bACC=0.725} for the GAT, RF and SVM models respectively. Even though SVM achieved higher balanced accuracy than GAT, the predictions made by the latter are more interpretable through the graph structure and attention mechanism.
 
@@ -29,24 +29,24 @@ tags:
   - Source Themes
 featured: true
 
-links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+#   - name: Custom Link
+#     url: http://example.org
+url_pdf: https://openreview.net/pdf?id=zIpx-MISaIA
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
