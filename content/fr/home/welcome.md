@@ -6,12 +6,19 @@ weight: 10
 title: ""
 hero_media: icon.png
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
+
+cta:
+  url: authors/martin-vallieres
+  label: Voir le profil de Martin Vallières
+  icon_pack: fa
+  icon: display-medtical
 ---
 <br>
 
-Le laboratoire de recherche MEDomics UdeS, dirigé par le professeur Martin Vallières à l'Université de Sherbrooke, est axé sur la création de modèles prédictifs en informatique de la santé depuis sa fondation en 2020.
+Le laboratoire de recherche MEDomics UdeS, situé à l'Université de Sherbrooke, est axé sur la création de modèles prédictifs en informatique de la santé depuis sa fondation en 2020.
 
-Ce laboratoire est une sous-branche de [MEDomics](https://www.medomics.ai/)
+Ce laboratoire est une sous-branche de [MEDomics](https://www.medomics.ai/) et est dirigé par le professeur Martin Vallières.
+
