@@ -6,7 +6,7 @@ title: Alexandre Ayotte
 superuser: false
 
 # Role/position
-role: Étudiant à la maîtrise en informatique (imagerie)
+role: Étudiant (M. Sc. Informatique, imagerie)
 
 # Organizations/Affiliations
 organizations:

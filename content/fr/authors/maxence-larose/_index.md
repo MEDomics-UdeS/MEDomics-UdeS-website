@@ -6,7 +6,7 @@ title: Maxence Larose
 superuser: false
 
 # Role/position
-role: Étudiant à la maîtrise en physique médicale
+role: Étudiant (M. Sc. Physique)
 
 # Organizations/Affiliations
 organizations:

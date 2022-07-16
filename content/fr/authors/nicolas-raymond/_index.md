@@ -6,7 +6,7 @@ title: Nicolas Raymond
 superuser: false
 
 # Role/position
-role: Étudiant à la maîtrise en informatique
+role: Étudiant (M. Sc. Informatique)
 
 # Organizations/Affiliations
 organizations:

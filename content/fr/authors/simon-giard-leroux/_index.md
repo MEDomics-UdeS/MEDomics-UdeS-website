@@ -6,7 +6,7 @@ title: Simon Giard-Leroux
 superuser: false
 
 # Role/position
-role: Étudiant à la maîtrise en informatique, ingénieur électrique
+role: Étudiant (M. Sc. Informatique), ingénieur électrique
 
 # Organizations/Affiliations
 organizations:

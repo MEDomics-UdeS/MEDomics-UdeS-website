@@ -6,7 +6,7 @@ title: Vincent Latourelle
 superuser: false
 
 # Role/position
-role: Ancien étudiant (B. Sc.)
+role: Ancien étudiant (B. Sc. Informatique)
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres
+  - Anciens membres (2022)
 ---
 
 Vincent Latourelle est 

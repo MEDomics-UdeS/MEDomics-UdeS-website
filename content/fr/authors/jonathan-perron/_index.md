@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres
+  - Anciens membres (2021)
 ---
 
 Analyste-programmeur au GRIIS, Jonathan Perron a suivi une formation universitaire en mathématiques et en informatique en France. Après avoir mis à profit ses compétences en sécurité des données au sein d’un laboratoire de recherche médicale à Montréal, il a voulu poursuivre dans le domaine de l’informatique de la santé. Au GRIIS, il travaille sur les bases de données qui sont au fondement des dossiers médicaux électroniques et qui aideront les médecins à offrir des suivis plus personnalisés à leurs patients.

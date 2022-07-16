@@ -6,7 +6,7 @@ title: Andréanne Allaire
 superuser: false
 
 # Role/position
-role: Étudiante à la maîtrise en informatique
+role: Étudiante (M. Sc. Informatique)
 
 # Organizations/Affiliations
 organizations:
