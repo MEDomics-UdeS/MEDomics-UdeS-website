@@ -3,7 +3,7 @@ widget: hero
 widget_id: MEDomics-UdeS
 headless: true
 weight: 10
-title: "Laboratoire MEDomics UdeS"
+title: ""
 hero_media: icon.png
 design:
   columns: "1"
@@ -16,11 +16,9 @@ cta:
   icon_pack: fas
   icon: id-card-clip
 
-cta:
+cta_alt:
   url: https://www.medomics.ai/
   label: Consultez le site de MEDomics
-  icon_pack: fas
-  icon: display-medical
 ---
 <br>
 
