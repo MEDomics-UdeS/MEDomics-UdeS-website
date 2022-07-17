@@ -9,6 +9,12 @@ design:
   css_style: null
   css_class: null
 
+cta:
+  url: projects
+  label: Voir nos projets
+  icon_pack: far
+  icon: list-check
+
 ---
 <br>
 
