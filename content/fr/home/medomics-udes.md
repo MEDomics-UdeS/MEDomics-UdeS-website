@@ -17,7 +17,7 @@ cta:
 
 cta_alt:
   url: https://github.com/MEDomics-UdeS
-  label: Consultez notre page GitHub
+  label: Notre page GitHub
 
 ---
 <br>
