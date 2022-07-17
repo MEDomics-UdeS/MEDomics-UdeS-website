@@ -13,7 +13,7 @@ banner:
 ---
 
 # Projets en cours
-- [Projet Maxence]({{< relref "/project/internal-project" >}})
+- [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate (2021-aujourd'hui)]({{< relref "/project/modeles-prostate" >}})
 
 
 # Projets disponibles
