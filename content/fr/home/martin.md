@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 11
 title: "Martin Vallières, Ph. D."
-hero_media: martin-vallieres-1000x1000.jpg
+hero_media: martin-vallieres-400x400.jpg
 design:
   columns: "2"
   css_style: null
