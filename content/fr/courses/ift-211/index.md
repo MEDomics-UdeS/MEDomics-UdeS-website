@@ -1,10 +1,11 @@
 ---
-title: IFT 211
-summary: Programmation scientifique en Python
+title: IFT 211 : Programmation scientifique en Python
 authors:
   - Martin Vallières
 
 share: false
 ---
 
-Voici
+## Liens
+
+[Fiche du cours](https://www.usherbrooke.ca/admission/fiches-cours/IFT211/)

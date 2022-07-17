@@ -1,10 +1,13 @@
 ---
-title: IFT 603 / IFT 712
-summary: Techniques d'apprentissage
+title: IFT 603 / IFT 712 : Techniques d'apprentissage
 authors:
   - Martin Vallières
 
 share: false
 ---
 
-Voici
+## Liens
+
+- [Fiche du cours IFT 603](https://www.usherbrooke.ca/admission/fiches-cours/IFT603/)
+- [Fiche du cours IFT 712](https://www.usherbrooke.ca/admission/fiches-cours/IFT712/)
+- [Contenu du cours (par Pierre-Marc Jodoin)](https://info.usherbrooke.ca/pmjodoin/cours/ift603/index.html)

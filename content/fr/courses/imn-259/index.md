@@ -1,10 +1,11 @@
 ---
-title: IMN 259
-summary: Analyse d'images
+title: IMN 259 : Analyse d'images
 authors:
   - Martin Vallières
 
 share: false
 ---
 
-Voici
+## Liens
+
+[Fiche du cours](https://www.usherbrooke.ca/admission/fiches-cours/IMN259/)
