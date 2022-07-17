@@ -11,7 +11,15 @@ role: Professeur adjoint
 # Organizations/Affiliations
 organizations:
   - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+    url: 'https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/martin-vallieres'
+  - name: Mila
+    url: 'https://mila.quebec/en/person/martin-vallieres/'
+  - name: GRIIS
+    url: 'https://griis.ca/a-propos/equipe/martin-vallieres/'
+  - name: MEDomics
+    url: 'https://www.medomics.ai/'
+  - name: Chaire CIFAR AI
+    url: 'https://cifar.ca/bios/martin-vallieres/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

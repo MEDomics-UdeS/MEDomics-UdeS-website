@@ -1,5 +1,5 @@
 ---
-title: Projets
+headless: true
 
 widget: blank
 
@@ -12,13 +12,18 @@ banner:
   image: ''
 ---
 
-intro
+# Projets en cours
+- [Projet Maxence]({{< relref "/project/internal-project" >}})
 
-## Projets en cours
-[Projet Maxence]({{< relref "/project/internal-project" >}})
 
-## Projets disponibles
+# Projets disponibles
 
-## Projets complétés
+Si l'un des projets disponibles vous intéresse, veuillez contacter 
+[Martin Vallières](mailto:Martin.Vallieres@usherbrooke.ca).
+
+- Traitement du langage naturel
+- Réseaux de neurones graphiques
+
+# Projets complétés
 
 

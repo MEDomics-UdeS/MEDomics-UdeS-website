@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Cours
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -15,3 +15,11 @@ header:
 ---
 
 content!
+
+## [IFT 211 : Programmation scientifique en Python]({{< relref "/course/ift-211" >}})
+
+## [IFT 603/712 : Techniques d'apprentissage]({{< relref "/course/ift-603-712" >}})
+
+## [IMN 259 : Analyse d'images]({{< relref "/course/imn-259" >}})
+
+## [IMN 714 : Extraction de caractéristiques d'images médicales]({{< relref "/course/imn-714" >}})
