@@ -1,5 +1,5 @@
 ---
-title: IFT 603 / IFT 712 : Techniques d'apprentissage
+title: "IFT 603 / IFT 712 : Techniques d'apprentissage"
 authors:
   - Martin Vallières
 

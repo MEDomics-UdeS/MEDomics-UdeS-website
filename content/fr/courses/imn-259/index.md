@@ -1,5 +1,5 @@
 ---
-title: IMN 259 : Analyse d'images
+title: "IMN 259 : Analyse d'images"
 authors:
   - Martin Vallières
 
