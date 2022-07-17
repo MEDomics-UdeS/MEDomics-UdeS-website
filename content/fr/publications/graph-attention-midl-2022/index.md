@@ -1,8 +1,8 @@
 ---
-title: 'Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction'
+title: "Article : Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction"
 authors:
   - Maxence Larose
-  - Nawar Touma
+  - Nicolas Raymond
   - Martin Vallières
 date: '2022-04-22T00:00:00Z'
 doi: ''
@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Dans *Medical Imaging with Deep Learning 2022*
-publication_short: Dans *MIDL 2022*
+publication_short: Dans *Medical Imaging with Deep Learning 2022*
 
 abstract: This work proposes the use of a graph attention network (GAT) model combining radiomics and clinical data to improve the performance and interpretability of lymph node invasion (LNI) prediction in high-grade prostate cancer (PCa). Experiments were conducted using an in-house dataset of 170 high-grade PCa (Gleason ≥ 8), each with FDG-PET/CT images acquired prior to prostatectomy. To ensure interpretable connections between patients, the graph structure was constructed by merging the most important radiomic shape-based CT feature and first-order intensity-based PET feature to the clinically relevant features. The performance of the GAT model was compared to random forest (RF) and support vector machine (SVM) classifiers. On the 30 patients test set, the models reached {AUC=0.765, bACC= 0.705}, {AUC=0.748, bACC=0.66} and {AUC=0.725,bACC=0.725} for the GAT, RF and SVM models respectively. Even though SVM achieved higher balanced accuracy than GAT, the predictions made by the latter are more interpretable through the graph structure and attention mechanism.
 
@@ -27,9 +27,9 @@ summary: A graph attention network (GAT) model combining radiomics and clinical 
 
 featured: true
 
-# links:
-#   - name: Custom Link
-#     url: http://example.org
+links:
+  - name: Lien
+    url: https://openreview.net/forum?id=zIpx-MISaIA
 url_pdf: https://openreview.net/pdf?id=zIpx-MISaIA
 # url_code: '#'
 # url_dataset: '#'
@@ -52,7 +52,7 @@ url_pdf: https://openreview.net/pdf?id=zIpx-MISaIA
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - internal-project
+  - modeles-prostate
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -62,8 +62,28 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+## Liste complète des auteurs
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+- [Maxence Larose]({{< relref "/authors/maxence-larose" >}})
+- Nawar Touma
+- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
+- Danahé LeBlanc
+- Fatemeh Rasekh
+- Bertrand Neveu
+- Hélène Hovington
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- Frédéric Pouliot
+- Louis Archambault
+
+## Abstract
+
+This work proposes the use of a graph attention network (GAT) model combining radiomics and clinical data to 
+improve the performance and interpretability of lymph node invasion (LNI) prediction in high-grade prostate 
+cancer (PCa). Experiments were conducted using an in-house dataset of 170 high-grade PCa (Gleason ≥ 8), each 
+with FDG-PET/CT images acquired prior to prostatectomy. To ensure interpretable connections between patients, 
+the graph structure was constructed by merging the most important radiomic shape-based CT feature and first-order 
+intensity-based PET feature to the clinically relevant features. The performance of the GAT model was compared to 
+random forest (RF) and support vector machine (SVM) classifiers. On the 30 patients test set, the models reached 
+{AUC=0.765, bACC= 0.705}, {AUC=0.748, bACC=0.66} and {AUC=0.725,bACC=0.725} for the GAT, RF and SVM models 
+respectively. Even though SVM achieved higher balanced accuracy than GAT, the predictions made by the latter are 
+more interpretable through the graph structure and attention mechanism.

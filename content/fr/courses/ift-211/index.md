@@ -1,6 +1,7 @@
 ---
-title: "IFT 211 : Programmation scientifique en Python"
+title: IFT 211
 subtitle: Programmation scientifique en Python
+summary: Programmation scientifique en Python
 authors:
   - Martin Vallières
 

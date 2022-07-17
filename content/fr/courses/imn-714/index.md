@@ -1,5 +1,7 @@
 ---
-title: "IMN 714 : Extraction de caractéristiques d'images médicales"
+title: IMN 714
+subtitle: Extraction de caractéristiques d'images médicales
+summary: Extraction de caractéristiques d'images médicales
 authors:
   - Martin Vallières
 
