@@ -25,8 +25,6 @@ abstract: This work proposes the use of a graph attention network (GAT) model co
 # Summary. An optional shortened abstract.
 summary: A graph attention network (GAT) model combining radiomics and clinical data to improve the performance and interpretability of lymph node invasion prediction in high-grade prostate cancer.
 
-tags:
-  - Source Themes
 featured: true
 
 # links:
