@@ -84,6 +84,6 @@ with FDG-PET/CT images acquired prior to prostatectomy. To ensure interpretable 
 the graph structure was constructed by merging the most important radiomic shape-based CT feature and first-order 
 intensity-based PET feature to the clinically relevant features. The performance of the GAT model was compared to 
 random forest (RF) and support vector machine (SVM) classifiers. On the 30 patients test set, the models reached 
-{AUC=0.765, bACC= 0.705}, {AUC=0.748, bACC=0.66} and {AUC=0.725,bACC=0.725} for the GAT, RF and SVM models 
+\{AUC=0.765, bACC= 0.705\}, \{AUC=0.748, bACC=0.66\} and \{AUC=0.725,bACC=0.725\} for the GAT, RF and SVM models 
 respectively. Even though SVM achieved higher balanced accuracy than GAT, the predictions made by the latter are 
 more interpretable through the graph structure and attention mechanism.
