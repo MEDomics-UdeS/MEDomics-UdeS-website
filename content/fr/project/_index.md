@@ -1,6 +1,8 @@
 ---
 title: Projets
 
+widget: blank
+
 # Listing view
 # view: compact
 
@@ -12,11 +14,11 @@ banner:
 
 intro
 
-# Projets en cours
+## Projets en cours
 [Projet Maxence]({{< relref "/project/internal-project" >}})
 
-# Projets disponibles
+## Projets disponibles
 
-# Projets complétés
+## Projets complétés
 
 
