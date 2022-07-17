@@ -13,7 +13,7 @@ cta:
   url: projects
   label: Voir nos projets
   icon_pack: far
-  icon: list-check
+  icon: bar-chart
 
 ---
 <br>
