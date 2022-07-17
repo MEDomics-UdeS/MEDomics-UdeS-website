@@ -11,9 +11,13 @@ design:
 
 cta:
   url: projects
-  label: Voir nos projets
+  label: Nos projets
   icon_pack: far
   icon: bar-chart
+
+cta_alt:
+  url: https://github.com/MEDomics-UdeS
+  label: Consultez notre page GitHub
 
 ---
 <br>
