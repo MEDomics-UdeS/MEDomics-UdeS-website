@@ -13,11 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-## [IFT 211 : Programmation scientifique en Python]({{< relref "/courses/ift-211" >}})
-
-## [IFT 603/712 : Techniques d'apprentissage]({{< relref "/courses/ift-603-712" >}})
-
-## [IMN 259 : Analyse d'images]({{< relref "/courses/imn-259" >}})
-
-## [IMN 714 : Extraction de caractéristiques d'images médicales]({{< relref "/courses/imn-714" >}})
