@@ -13,7 +13,7 @@ cta:
   url: https://www.medomics.ai/
   label: Consultez le site de MEDomics
   icon_pack: far
-  icon: laptop-medical
+  icon: book-medical
 ---
 <br>
 
