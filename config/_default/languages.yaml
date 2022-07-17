@@ -30,7 +30,7 @@ en:
       url: team
       weight: 30
     - name: Projects
-      url: projets
+      url: project
       weight: 40
     - name: Publications
       url: publications
