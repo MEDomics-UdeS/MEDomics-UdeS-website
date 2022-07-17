@@ -17,7 +17,7 @@ main:
     url: team
     weight: 30
   - name: Projets
-    url: project
+    url: projects
     weight: 40
   - name: Publications
     url: publications
