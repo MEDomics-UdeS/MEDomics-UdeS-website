@@ -1,11 +1,13 @@
 ---
-title: Publication d'un article court dans la conférence MIDL 2022
+title: "Nouvelle : Publication d'un article court dans la conférence MIDL 2022"
 date: 2022-04-22
 image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Maxence Larose
+  - Nicolas Raymond
+  - Martin Vallières
 ---
 
 Félicitations à [Maxence Larose]({{< relref "/authors/maxence-larose" >}}), 
