@@ -13,6 +13,8 @@ banner:
 ---
 
 # Projets en cours
+
+## Projets de maîtrise
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate (2021-aujourd'hui)]({{< relref "/project/modeles-prostate" >}})
 - [Analyse de profils de patients (2021-aujourd'hui)]({{< relref "/project/profils-patients" >}})
 - [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-aujourd'hui)]({{< relref "/project/energAI" >}})
@@ -29,3 +31,7 @@ Si l'un des projets disponibles vous intéresse, veuillez contacter
 - Réseaux de neurones graphiques
 
 # Projets complétés
+
+## Projets de fin de baccalauréat
+
+- [Forêts aléatoires dans un contexte d'apprentissage distribué (2022)]({{< relref "/project/forets-aleatoires-distribue" >}})
