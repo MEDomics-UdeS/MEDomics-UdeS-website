@@ -200,7 +200,8 @@ La figure 7 présente l’évolution de la justesse selon le nombre de données 
 (en pourcentage). La répartition des données ne semble pas avoir d’impact significatif sur les
 performances du modèle.
 
-Travaux futurs et conclusion
+## Travaux futurs et conclusion
+
 La solution permet actuellement d’avoir une hétérogénéité seulement quand deux clients sont
 utilisés. Il faudrait donc ajouter la possibilité d’avoir de l’hétérogénéité à plus de deux clients pour
 simuler une situation réelle d’apprentissage fédéré. Il serait aussi intéressant d’analyser les
