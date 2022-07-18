@@ -1,5 +1,5 @@
 ---
-title: Cours IMN 259
+title: "Cours : IMN 259"
 subtitle: Analyse d'images
 summary: Analyse d'images
 authors:

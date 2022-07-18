@@ -9,8 +9,8 @@ authors:
 ---
 
 Félicitations à [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) pour sa présentation
-intitulée « * Un outil conforme aux standards internationaux pour l'extraction de caractéristiques 
-radiomiques d'images médicales * » à la journée scientifique du RBIQ 2022!
+intitulée « * Un outil conforme aux standards internationaux pour l'extraction de caractéristiques radiomiques d'images médicales * » 
+à la journée scientifique du RBIQ 2022!
 
 ## Résumé 
 

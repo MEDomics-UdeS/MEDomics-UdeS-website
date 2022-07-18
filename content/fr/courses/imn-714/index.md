@@ -1,5 +1,5 @@
 ---
-title: Cours IMN 714
+title: "Cours : IMN 714"
 subtitle: Extraction de caractéristiques d'images médicales
 summary: Extraction de caractéristiques d'images médicales
 authors:

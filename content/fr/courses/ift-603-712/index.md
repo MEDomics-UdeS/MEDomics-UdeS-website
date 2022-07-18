@@ -1,5 +1,5 @@
 ---
-title: Cours IFT 603 / IFT 712
+title: "Cours : IFT 603 / IFT 712"
 subtitle: Techniques d'apprentissage
 summary: Techniques d'apprentissage
 authors:
