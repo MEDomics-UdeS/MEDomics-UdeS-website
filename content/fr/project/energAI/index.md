@@ -1,5 +1,5 @@
 ---
-title: "Projet : EnergAI - Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique
+title: "Projet : EnergAI - Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique"
 
 authors:
   - Simon Giard-Leroux
