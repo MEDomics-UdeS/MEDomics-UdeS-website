@@ -14,6 +14,7 @@ banner:
 
 # Projets en cours
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate (2021-aujourd'hui)]({{< relref "/project/modeles-prostate" >}})
+- [EnergAI - Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-aujourd'hui)]({{< relref "/project/energAI" >}})
 
 
 # Projets disponibles
