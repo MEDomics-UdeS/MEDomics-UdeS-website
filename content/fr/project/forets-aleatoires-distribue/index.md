@@ -117,31 +117,31 @@ _ServerManager_.
 ensemble d’entrainement.
 4. La _FederatedRandomForest_ construit _n_ arbres avec les clients:
 <ol type="a">
-  <li>La _FederatedRandomForest_ sélectionne au hasard un certain nombre de _features_.</li>
-  <li>Elle envoie les _features_ sélectionnés aux clients.</li>
+  <li>La <i>FederatedRandomForest</i> sélectionne au hasard un certain nombre de <i>features</i>.</li>
+  <li>Elle envoie les <i>features</i> sélectionnés aux clients.</li>
   <li>Les clients sélectionnent chacun une valeur située entre l’intervalle des valeurs
-  possibles pour chacun des _features_ obtenus du master, c’est-à-dire une valeur
-  située entre le minimum et le maximum inclusivement pour un _feature_ donné. Ils
-  renvoient ensuite ces valeurs au master (_FederatedRandomForest_). Les clients
+  possibles pour chacun des <i>features</i> obtenus du master, c’est-à-dire une valeur
+  située entre le minimum et le maximum inclusivement pour un <i>feature</i> donné. Ils
+  renvoient ensuite ces valeurs au master (<i>FederatedRandomForest</i>). Les clients
   séparent initialement leur ensemble d’entrainement en fonction des nœuds
   présents dans l’arbre actuellement en construction.</li>
-  <li>La _FederatedRandomForest_ choisit au hasard une valeur entre le minimum et le
-  maximum des valeurs obtenus des clients pour chaque _feature_. Elle renvoie
+  <li>La <i>FederatedRandomForest</i> choisit au hasard une valeur entre le minimum et le
+  maximum des valeurs obtenus des clients pour chaque <i>feature</i>. Elle renvoie
   ensuite ces valeurs aux clients.</li>
   <li>Les clients choisissent la valeur qui sépare le mieux leur ensemble d’entrainement
-  (à l’aide de Gini) parmi les valeurs obtenues de _FederatedRandomForest_. Les
+  (à l’aide de Gini) parmi les valeurs obtenues de <i>FederatedRandomForest</i>. Les
   clients séparent initialement leur ensemble d’entrainement en fonction des
   nœuds présents dans l’arbre actuellement en construction. Ils renvoient ensuite
-  cette valeur à la _FederatedRandomForest_ ainsi que le nombre de données dans
+  cette valeur à la <i>FederatedRandomForest</i> ainsi que le nombre de données dans
   leur ensemble d’entrainement.</li>
-  <li>La _FederatedRandomForest_ fait un vote majoritaire pondéré par le nombre de
+  <li>La <i>FederatedRandomForest</i> fait un vote majoritaire pondéré par le nombre de
   données de chaque client. Elle crée un nœud avec l’attribut sélectionné et
   construit récursivement les arbres de gauche et de droite.</li>
-  <li>Les étapes _a_ à _f_ seront donc répétées jusqu’à ce qu’une certaine profondeur
+  <li>Les étapes <i>a</i> à <i>f</i> seront donc répétées jusqu’à ce qu’une certaine profondeur
   d’arbre soit atteinte ou que le nombre de données chez les clients est insuffisant
   pour continuer à faire des séparations.</li>
-  <li>Lorsque ces critères sont remplis, la _FederatedRandomForest_ demande aux
-  clients d’envoyer la classe majoritaire actuelle. La _FederatedRandomForest_
+  <li>Lorsque ces critères sont remplis, la <i>FederatedRandomForest</i> demande aux
+  clients d’envoyer la classe majoritaire actuelle. La <i>FederatedRandomForest</i>
   effectue ensuite un vote majoritaire pondéré par le nombre de données totales
   dans l’ensemble d’entrainement du client pour construire la feuille de l’arbre.</li>
 </ol>
