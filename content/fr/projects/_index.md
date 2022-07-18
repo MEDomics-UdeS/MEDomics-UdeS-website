@@ -14,7 +14,10 @@ banner:
 
 # Projets en cours
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate (2021-aujourd'hui)]({{< relref "/project/modeles-prostate" >}})
-- [EnergAI - Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-aujourd'hui)]({{< relref "/project/energAI" >}})
+- [Analyse de profils de patients (2021-aujourd'hui)]({{< relref "/project/profils-patients" >}})
+- [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-aujourd'hui)]({{< relref "/project/energAI" >}})
+- [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë (2020-aujourd'hui)]({{< relref "/project/vo2max-obesite" >}})
+- [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales (2020-aujourd'hui)]({{< relref "/project/multitask-classification" >}})
 
 
 # Projets disponibles

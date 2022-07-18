@@ -1,5 +1,5 @@
 ---
-title: "Projet : EnergAI - Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique"
+title: "Projet : Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique"
 
 authors:
   - Simon Giard-Leroux
@@ -13,9 +13,7 @@ authors:
 ## Note
 
 Ce projet n'est pas relié au domaine de l'informatique médicale, mais il implique des principes de détection 
-d'objets qui peuvent être appliqués à l'imagerie médicale. C'est pourquoi 
-[Martin Vallières]({{< relref "/authors/martin-vallieres" >}}) a généreusement accepté de chapeauter 
-ce projet.
+d'objets qui seront appliqués à l'imagerie médicale dans le futur.
 
 ## Objectif
 
