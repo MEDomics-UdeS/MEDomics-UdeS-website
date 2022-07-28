@@ -19,6 +19,7 @@ bio:
 
 interests:
   - Classification de tumeurs rénales
+  - Apprentissage multi-tâches
 
 education:
   courses:
