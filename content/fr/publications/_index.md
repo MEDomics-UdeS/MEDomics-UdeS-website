@@ -10,6 +10,8 @@ banner:
   image: ''
 ---
 
-**Note :** Les noms des auteurs présentés sur cette page sont seulement ceux qui font partie de laboratoire 
-MEDomics UdeS. Pour connaître la liste exhaustive des auteurs, consultez la page détaillée de chaque publication. <br>
+_**Note :** Les noms des auteurs présentés sur cette page sont seulement ceux qui font partie de laboratoire 
+MEDomics UdeS. Pour connaître la liste exhaustive des auteurs, consultez la page détaillée de chaque publication._
+<br> 
+<br>
 
