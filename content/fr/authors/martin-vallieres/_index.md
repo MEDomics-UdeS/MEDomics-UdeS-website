@@ -6,19 +6,21 @@ title: Martin Vallières
 superuser: true
 
 # Role/position
-role: Professeur adjoint
+role: Professeur adjoint, département d'informatique
 
 # Organizations/Affiliations
 organizations:
   - name: Université de Sherbrooke
     url: 'https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/martin-vallieres'
+  - name: Centre de recherche du CHUS - Axes Cancer et Imagerie
+    url: 'https://www.crchus.ca/accueil'
   - name: Mila
     url: 'https://mila.quebec/en/person/martin-vallieres/'
   - name: GRIIS
     url: 'https://griis.ca/a-propos/equipe/martin-vallieres/'
   - name: MEDomics
     url: 'https://www.medomics.ai/'
-  - name: Chaire CIFAR AI
+  - name: Chaire en IA CIFAR
     url: 'https://cifar.ca/bios/martin-vallieres/'
 
 # Short bio (displayed in user profile at end of posts)
