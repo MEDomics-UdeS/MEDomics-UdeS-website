@@ -6,7 +6,7 @@ title: Julien Corriveau-Trudel
 superuser: false
 
 # Role/position
-role: Ancienne stagiaire
+role: Ancien stagiaire
 
 # Organizations/Affiliations
 organizations:
