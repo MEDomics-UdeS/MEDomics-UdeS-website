@@ -18,7 +18,7 @@ content:
   email: Martin.Vallieres@usherbrooke.ca
   # phone: 888 888 88 88
   address:
-    street:  Université de Sherbrooke,<br>2500 boul. de l'Université,<br>Faculté des sciences, Local D4-2005,
+    street:  Université de Sherbrooke,<br>2500, Boulevard de l'Université,<br>Faculté des sciences, Local D4-2005,
     city: Sherbrooke
     region: QC
     postcode: 'J1K 2R1'

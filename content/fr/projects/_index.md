@@ -16,7 +16,7 @@ banner:
 
 ## Maîtrise
 
-- [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "/project/mri-radiomics" >}})
+- [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique (2021-aujourd'hui)]({{< relref "/project/mri-radiomics" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate (2021-aujourd'hui)]({{< relref "/project/prostate-models" >}})
 - [Analyse de profils de patients (2021-aujourd'hui)]({{< relref "/project/patients-profiles" >}})
 - [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-aujourd'hui)]({{< relref "/project/energAI" >}})
