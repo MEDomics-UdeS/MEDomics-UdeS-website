@@ -1,5 +1,5 @@
 ---
-title: "Projet : Analyse de profils de patients"
+title: "Projet : Super-apprenant distribué"
 
 authors:
   - Olivier Lefebvre
