@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 60
 title: ""
 hero_media: logo-medomics.png
 design:
