@@ -20,10 +20,7 @@ cta_alt:
   label: Axes de recherche
 
 cta_note:
-  url: https://github.com/MEDomics-UdeS
-  label: Notre page GitHub
-
-
+  label: [Notre page GitHub](https://github.com/MEDomics-UdeS)
 
 ---
 <br>
