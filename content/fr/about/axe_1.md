@@ -11,7 +11,7 @@ design:
 
 ---
 
-## Axe de recherche 1 : Imagerie médicale
+## **Axe de recherche 1 : Imagerie médicale**
 
 - Les tumeurs les plus agressives ont tendance à être plus hétérogènes.
 
