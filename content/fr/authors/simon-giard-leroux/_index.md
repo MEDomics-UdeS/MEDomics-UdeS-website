@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Simon.Giard-Leroux@USherbrooke.ca'
+    link: 'mailto:Simon.Giard-Leroux@gmail.ca'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/simon-giard-leroux-ing-954891ab/
