@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 10
-title: 'Mission du laboratoire'
+title: 'Mission'
 design:
   columns: "1"
 ---

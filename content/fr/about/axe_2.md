@@ -11,6 +11,6 @@ design:
 
 ---
 
-# Axe de recherche 2 : Données hétérogènes
+## Axe de recherche 2 : Données hétérogènes
 
 À venir.

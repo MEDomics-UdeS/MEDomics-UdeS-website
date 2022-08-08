@@ -11,6 +11,6 @@ design:
 
 ---
 
-# Axe de recherche 3 : Apprentissage fédéré
+## Axe de recherche 3 : Apprentissage fédéré
 
 À venir.
