@@ -11,6 +11,8 @@ design:
 
 ---
 
-## Axe 1 : Imagerie médicale
+# Axe de recherche 1 : Imagerie médicale
 
-xxx
+- Les tumeurs les plus agressives ont tendance à être plus hétérogènes.
+
+- Les réseaux de neurones permettent détecter les tumeurs les plus hétérogènes.
