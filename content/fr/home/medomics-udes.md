@@ -28,7 +28,7 @@ est axé sur la création de modèles prédictifs en informatique de la santé d
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
 <div style="text-align: center;">
-  <a class="fa-brands fa-square-github fa-2x" href="https://www.linkedin.com/in/martvallieres/"></a>
+  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS"></a>
 </div>
 
 <br>

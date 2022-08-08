@@ -14,6 +14,10 @@ cta:
   label: Consultez le site de MEDomics
   icon_pack: far
   icon: at
+
+cta_alt:
+  url: https://www.nature.com/articles/s43018-021-00236-2
+  label: Publication principale du consortium MEDomics
 ---
 <br>
 
