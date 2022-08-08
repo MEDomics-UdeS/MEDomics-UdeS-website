@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 30
 title: ""
-hero_media: imagerie-medicale.png
+hero_media: imagerie-medicale-400x400.png
 design:
   columns: "2"
   css_style: null

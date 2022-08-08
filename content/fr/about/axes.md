@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 10
-title: 'Résumé'
+title: 'Mission du laboratoire'
 design:
   columns: "1"
 ---
@@ -34,7 +34,7 @@ domaine de la santé est un défi majeur. Ce programme de recherche propose de d
 **l'apprentissage GNN distribué préservant la vie privée à partir d'un réseau de bases de données de soins de santé fédérées**, 
 ce qui 
 constituera une étape importante pour le progrès de l'IA en médecine. Dans ce cadre d'apprentissage fédéré : (i) des 
-modèles GNN peuvent être développés à partir des  bases de données de plusieurs établissements de santé, augmentant 
+modèles GNN peuvent être développés à partir des bases de données de plusieurs établissements de santé, augmentant 
 ainsi la taille des données analysées ; et (ii) les données sont toujours conservées dans les limites de chaque 
 établissement de santé, évitant ainsi le transfert de données.
 

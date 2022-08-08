@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 40
 title: ""
-hero_media: donnees-heterogenes.png
+hero_media: donnees-heterogenes-400x400.png
 design:
   columns: "2"
   css_style: null
@@ -13,4 +13,4 @@ design:
 
 # Axe de recherche 2 : Données hétérogènes
 
-yyy
+À venir.
