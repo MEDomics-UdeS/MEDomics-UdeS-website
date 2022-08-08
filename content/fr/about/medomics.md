@@ -17,7 +17,7 @@ cta:
 
 cta_alt:
   url: https://www.nature.com/articles/s43018-021-00236-2
-  label: Publication principale du consortium MEDomics
+  label: Publication principale du consortium
 ---
 <br>
 
