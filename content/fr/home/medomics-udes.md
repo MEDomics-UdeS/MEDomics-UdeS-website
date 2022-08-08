@@ -30,3 +30,5 @@ est axé sur la création de modèles prédictifs en informatique de la santé d
 <div style="text-align: center;">
   <a class="fa-brands fa-square-github fa-2x" href="https://www.linkedin.com/in/martvallieres/"></a>
 </div>
+
+<br>

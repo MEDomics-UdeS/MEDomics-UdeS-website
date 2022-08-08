@@ -43,3 +43,5 @@ Martin Vallières est professeur adjoint au département d'informatique à l'Uni
   <a class="fa-brands fa-linkedin fa-2x" href="https://www.linkedin.com/in/martvallieres/"></a>&nbsp;&nbsp;
   <a class="ai ai-cv-square ai-2x" href="https://www.dropbox.com/s/07o4ee2kegsyya8/CCV-MartinVallieres-Full_CV.pdf?dl=0"></a>
 </div>
+
+<br>
