@@ -34,12 +34,10 @@ social:
 
 Martin Vallières est professeur adjoint au département d'informatique à l'Université de Sherbrooke depuis 2020.
 
-<br>
-
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 
-<div style="text-align: center;">
+<div style="text-align: center; text-decoration: none;">
   <a class="fa-solid fa-square-envelope fa-2x" href="mailto:Martin.Vallieres@USherbrooke.ca"></a>&nbsp;&nbsp;
   <a class="ai ai-google-scholar-square ai-2x" href="https://scholar.google.ca/citations?user=fRkjFK4AAAAJ"></a>&nbsp;&nbsp;
   <a class="fa-brands fa-linkedin fa-2x" href="https://www.linkedin.com/in/martvallieres/"></a>&nbsp;&nbsp;
