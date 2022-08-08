@@ -16,8 +16,14 @@ cta:
   icon: bar-chart
 
 cta_alt:
+  url: about
+  label: Axes de recherche
+
+cta_note:
   url: https://github.com/MEDomics-UdeS
   label: Notre page GitHub
+
+
 
 ---
 <br>
