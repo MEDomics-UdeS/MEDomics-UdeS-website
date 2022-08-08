@@ -1,7 +1,7 @@
 ---
 widget: about
 headless: true  # This file represents a page section.
-weight: 11
+weight: 12
 title: "Martin Vallières, Ph. D."
 
 author: 'martin-vallieres'
