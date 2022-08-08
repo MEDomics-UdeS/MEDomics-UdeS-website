@@ -18,6 +18,17 @@ cta:
 cta_alt:
   url: team
   label: Son équipe
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:Martin.Vallieres@USherbrooke.ca'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.ca/citations?user=fRkjFK4AAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/martvallieres/
 ---
 <br>
 
