@@ -25,6 +25,10 @@ Martin Vallières est professeur adjoint au département d'informatique à l'Uni
 
 <br>
 
-<a href="https://www.linkedin.com/in/martvallieres/" class="social-icon si-rounded si-small si-linkedin">
-  <i class="icon-linkedin"></i>
-</a>
+<a class="github-button" 
+href="https://github.com/wowchemy/wowchemy-hugo-modules" 
+data-icon="octicon-star" 
+data-size="large" 
+data-show-count="true" 
+aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
