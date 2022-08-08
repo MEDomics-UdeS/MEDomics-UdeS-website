@@ -39,8 +39,8 @@ Martin Vallières est professeur adjoint au département d'informatique à l'Uni
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 
-<div class="horizontalgap" style="width:10px; text-align:center;">
-  <a class="fa-regular fa-envelope fa-2x" href="mailto:Martin.Vallieres@USherbrooke.ca"></a>
+<div class="horizontalgap" style="width:2px; text-align:center;">
+  <a class="fa-solid fa-envelope fa-2x" href="mailto:Martin.Vallieres@USherbrooke.ca"></a>
   <a class="ai ai-google-scholar-square ai-2x" href="https://scholar.google.ca/citations?user=fRkjFK4AAAAJ"></a>
   <a class="fa-brands fa-linkedin fa-2x" href="https://www.linkedin.com/in/martvallieres/"></a>
   <a class="ai ai-cv-square ai-2x" href="https://www.dropbox.com/s/07o4ee2kegsyya8/CCV-MartinVallieres-Full_CV.pdf?dl=0"></a>
