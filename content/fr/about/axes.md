@@ -46,4 +46,6 @@ modèles GNN peuvent être développés à partir des bases de données de plusi
 ainsi la taille des données analysées ; et (ii) les données sont toujours conservées dans les limites de chaque 
 établissement de santé, évitant ainsi le transfert de données.
 
-{{< gallery album="about" resize_options="400x400" >}}
+<div style="text-align: center;">
+  {{< gallery album="about" >}}
+</div>
