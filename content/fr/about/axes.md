@@ -5,6 +5,14 @@ weight: 10
 title: 'Mission'
 design:
   columns: "1"
+
+gallery_item:
+- album: about
+  image: labo.png
+  caption: Laboratoire MEDomics UdeS
+- album: about
+  image: main-fig.png
+  caption: Cadre d'application pour l'apprentissage fédéré
 ---
 Avec les progrès de la médecine moderne, un grand nombre de rencontres médicales (visites médicales, examens, 
 médicaments, imagerie, tests moléculaires, etc.) ont lieu dans notre système de santé. En fait, la quantité de 
@@ -38,4 +46,4 @@ modèles GNN peuvent être développés à partir des bases de données de plusi
 ainsi la taille des données analysées ; et (ii) les données sont toujours conservées dans les limites de chaque 
 établissement de santé, évitant ainsi le transfert de données.
 
-{{< gallery album="about" >}}
+{{< gallery album="about" resize_options="400x400" >}}
