@@ -53,15 +53,18 @@ Ce cours vise à connaître, approfondir et implanter les concepts reliés à l�
 
 <div style="text-align: center;">
   <style>
-    .col1{width:400px}
+    .col1{width:50px}
+    .col2{width:100px}
+    .col3{width:200px}
+    .col4{width:200px}
   </style>
 <table>
   <thead>
     <tr>
-      <th class="col1">**Semaine**</th>
-      <th>**Date**</th>
-      <th>**Thèmes**</th>
-      <th>**Notes**</th>
+      <th class="col1"><b>Semaine</b></th>
+      <th class="col2"><b>Date</b></th>
+      <th class="col3"><b>Thèmes</b></th>
+      <th class="col4"><b>Notes</b></th>
     </tr>
   </thead>
   <tbody>
