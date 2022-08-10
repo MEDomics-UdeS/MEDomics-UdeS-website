@@ -12,7 +12,7 @@ address:
   postcode: 'J1K 2R1'
   country: Canada
 
-summary: 
+summary: Soutenance de mémoire de Simon Giard-Leroux
 abstract:
 
 # Talk start and end times.

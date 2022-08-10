@@ -1,7 +1,7 @@
 ---
 title: "Événement : Virée de laboratoire à Coaticook & Waterville!"
 
-event: "Événement : Virée de laboratoire à Coaticook & Waterville!"
+event: 
 event_url: 
 
 location: Coaticook & Waterville
@@ -12,12 +12,13 @@ address:
   postcode: 
   country: 
 
-summary: "Événement : Virée de laboratoire à Coaticook & Waterville!"
+summary: 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-08-05T00:00:00Z'
+date_end: '2022-08-05T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
