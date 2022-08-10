@@ -23,7 +23,9 @@ authors:
 - Louis Archambault<sup>1,2</sup>
 
 <sup>1</sup> Department of physics, engineering physics and optics, Université Laval, Québec (QC), Canada
+
 <sup>2</sup> CHU de Québec, Québec (QC), Canada
+
 <sup>3</sup> Department of Computer Science, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Résumé
