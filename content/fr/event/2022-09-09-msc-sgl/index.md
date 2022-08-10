@@ -1,10 +1,10 @@
 ---
-title: Identification de fusibles électriques de puissance par apprentissage profond
+title: "Soutenance de mémoire : Identification de fusibles électriques de puissance par apprentissage profond"
 
 event: Soutenance de mémoire de Simon Giard-Leroux
 event_url: https://bit.ly/3zSvNew
 
-location: Local D4-2011, Université de Sherbrooke
+location: Local D4-2011, Faculté des sciences, Université de Sherbrooke
 address:
   street: 2500, Boulevard de l'Université
   city: Sherbrooke
@@ -86,7 +86,7 @@ ingénieurs et ingénieures électriques dans cette tâche.
 Un article détaillant notre méthodologie afin d’obtenir une performance finale AP50 de 91,06 %, a été soumis pour 
 publication au journal _IEEE Transactions on Industrial Informatics_ et est actuellement en cours de révision. 
 Ce résultat démontre que les fusibles peuvent être adéquatement prédits dans des nouvelles photos de relevés 
-d’installations électriques. Le code développé, l’ensemble de données de plus de 12~000 fusibles ainsi qu'une 
+d’installations électriques. Le code développé, l’ensemble de données de plus de 12 000 fusibles ainsi qu'une 
 interface utilisateur permettant d’utiliser le modèle final en contexte industriel sont partagés ouvertement avec la 
 communauté scientifique.
 
@@ -101,4 +101,5 @@ communauté scientifique.
 Toutes les personnes intéressées sont cordialement invitées.
 
 Lien Teams : <https://bit.ly/3P6gR1E>
+
 [Contacter une personne responsable](mailto:pierre-marc.jodoin@usherbrooke.ca?subject=Identification de fusibles électriques de puissance par apprentissage profond)
