@@ -8,6 +8,12 @@ authors:
 share: false
 ---
 
+## Sessions antérieures
+
+- Automne 2022
+- Hiver 2022
+- Automne 2020
+
 ## Liens
 
 - [Fiche du cours IFT 603](https://www.usherbrooke.ca/admission/fiches-cours/IFT603/)
