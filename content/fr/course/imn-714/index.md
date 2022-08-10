@@ -51,12 +51,11 @@ Ce cours vise à connaître, approfondir et implanter les concepts reliés à l�
 
 ## Calendrier
 
-<div style="text-align: center;">
   <style>
     .col1{width:50px}
     .col2{width:100px}
     .col3{width:200px}
-    .col4{width:200px}
+    .col4{width:400px}
   </style>
 <table>
   <thead>
@@ -172,7 +171,6 @@ Ce cours vise à connaître, approfondir et implanter les concepts reliés à l�
     </tr>
   </tbody>
 </table>
-</div>
 
 ## Projet de session
 
