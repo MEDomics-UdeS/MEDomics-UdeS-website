@@ -73,6 +73,24 @@ Ce cours vise à connaître, approfondir et implanter les concepts reliés à l�
 |   **16**    | **2023-04-17** |  **Projet de session**   | **Remise des projets de session et présentations** |
 |   **17**    | **2023-04-24** |     **Examen final**     |                                                    |
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 </div>
 
 ## Projet de session
