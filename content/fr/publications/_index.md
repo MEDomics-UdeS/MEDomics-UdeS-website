@@ -9,7 +9,7 @@ banner:
   image: ''
 ---
 
-_**Note :** Les publications présentées ici sont celles spécifiques aux travaux du laboratoire **MEDomics UdeS**.
+_**Note :** Les publications présentées ici sont celles spécifiques aux travaux du laboratoire **MEDomics&nbsp;UdeS**.
 La liste des publications, présentations et activités de 
 [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 peut être trouvée dans son 
