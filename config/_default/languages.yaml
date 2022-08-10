@@ -23,6 +23,9 @@ en:
     - name: Courses
       url: courses
       weight: 15
+    - name: Events
+      url: event
+      weight: 16
     - name: News
       url: post
       weight: 20
@@ -32,9 +35,6 @@ en:
     - name: Projects
       url: projects
       weight: 40
-    - name: Events
-      url: event
-      weight: 45
     - name: Publications
       url: publications
       weight: 50

@@ -1,8 +1,12 @@
 ---
-title: "Nouvelle : Virée de laboratoire à Coaticook & Waterville!"
+title: "Événement : Virée de laboratoire à Coaticook & Waterville!"
 date: 2022-08-05
 image:
   focal_point: 'top'
+
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
+all_day: true
 
 authors:
   - Simon Giard-Leroux

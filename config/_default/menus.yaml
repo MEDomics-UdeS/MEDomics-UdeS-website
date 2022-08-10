@@ -10,6 +10,9 @@ main:
   - name: Cours
     url: courses
     weight: 15
+  - name: Événements
+    url: event
+    weight: 16
   - name: Nouvelles
     url: post
     weight: 20
@@ -19,9 +22,6 @@ main:
   - name: Projets
     url: projects
     weight: 40
-  - name: Événements
-    url: event
-    weight: 45
   - name: Publications
     url: publications
     weight: 50
