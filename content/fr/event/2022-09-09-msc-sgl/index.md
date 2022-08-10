@@ -102,4 +102,4 @@ Toutes les personnes intéressées sont cordialement invitées.
 
 Lien Teams : <https://bit.ly/3P6gR1E>
 
-[Contacter une personne responsable](mailto:pierre-marc.jodoin@usherbrooke.ca?subject="Identification de fusibles électriques de puissance par apprentissage profond")
+[Contacter une personne responsable](mailto:pierre-marc.jodoin@usherbrooke.ca)
