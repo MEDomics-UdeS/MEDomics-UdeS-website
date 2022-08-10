@@ -52,45 +52,123 @@ Ce cours vise à connaître, approfondir et implanter les concepts reliés à l�
 ## Calendrier
 
 <div style="text-align: center;">
-
-| **Semaine** |    **Date**    |        **Thèmes**        |                     **Notes**                      |
-|:-----------:|:--------------:|:------------------------:|:--------------------------------------------------:|
-|      1      |   2023-01-02   |                          |                                                    |
-|      2      |   2023-01-09   |                          |                                                    |
-|      3      |   2023-01-16   |                          |                                                    |
-|      4      |   2023-01-23   |                          |                                                    |
-|      5      |   2023-01-30   |                          |                                                    |
-|      6      |   2023-02-06   |                          |                                                    |
-|    **7**    | **2023-02-13** |     **Examen intra**     |                                                    |
-|    **8**    | **2023-02-20** |  **Semaine de lecture**  |                                                    |
-|      9      |   2023-02-27   |                          |                                                    |
-|     10      |   2023-03-06   |                          |                                                    |
-|     11      |   2023-03-13   |                          |                                                    |
-|     12      |   2023-03-20   |                          |                                                    |
-|     13      |   2023-03-27   |                          |                                                    |
-|     14      |   2023-04-03   |                          |                                                    |
-|     15      |   2023-04-10   |                          |                                                    |
-|   **16**    | **2023-04-17** |  **Projet de session**   | **Remise des projets de session et présentations** |
-|   **17**    | **2023-04-24** |     **Examen final**     |                                                    |
-
+  <style>
+    .col1{width:400px}
+  </style>
 <table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+  <thead>
+    <tr>
+      <th class="col1">**Semaine**</th>
+      <th>**Date**</th>
+      <th>**Thèmes**</th>
+      <th>**Notes**</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2023-01-02</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2021-01-09</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2023-01-16</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2023-01-23</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2023-01-30</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2023-02-06</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2023-02-13</td>
+      <td>Examen intra</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2023-02-20</td>
+      <td>Semaine de lecture</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2023-02-27</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2023-03-06</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2023-03-13</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2023-03-20</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>2023-03-27</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>2023-04-03</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>2023-04-10</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>2023-04-17</td>
+      <td>Projet de session</td>
+      <td>Remise des projets de session<br>et présentations</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2023-04-24</td>
+      <td>Examen final</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
-
 </div>
 
 ## Projet de session
