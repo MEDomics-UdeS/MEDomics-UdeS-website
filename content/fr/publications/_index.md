@@ -9,7 +9,8 @@ banner:
   image: ''
 ---
 
-Les publications présentées ici sont celles spécifiques aux travaux du laboratoire MEDomics UdeS.
+Les publications présentées ici sont celles spécifiques aux travaux du laboratoire **MEDomics UdeS**.
+
 La liste des publications, présentations et activités de 
 [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 peut être trouvée dans son 
@@ -26,6 +27,6 @@ peut être trouvée dans son
 
 # Présentations
 
-- [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2022). [Un outil conforme aux standards internationaux pour l’extraction de caractéristiques radiomiques d’images médicales]({{< relref "/post/2022-06-02-rbiq" >}}). _Journée scientifique du Réseau de bio-imagerie du Québec 2022_.
-- [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}) (2021). [Intégration de données génomiques dans la conception de modèles d'apprentissages en oncologie de précision](https://vimeo.com/542211700). _88e congrès de l'Acfas_.
-- [A. Ayotte]({{< relref "/authors/alexandre-ayotte" >}}) (2021). [Réseau de neurones à convolution 3D comme système d'aide à la décision pour de multiples tâches de classification de tumeurs rénales](https://vimeo.com/542213504/c5040822fa). _88e congrès de l'Acfas_.
+- [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2022). [Un outil conforme aux standards internationaux pour l’extraction de caractéristiques radiomiques d’images médicales]({{< relref "/publication/medomicslab-rbiq-2022" >}}). _Journée scientifique du Réseau de bio-imagerie du Québec 2022_.
+- [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}) (2021). [Intégration de données génomiques dans la conception de modèles d'apprentissages en oncologie de précision]({{< relref "/publication/genomics-acfas-2021" >}}). _88e congrès de l'Acfas_.
+- [A. Ayotte]({{< relref "/authors/alexandre-ayotte" >}}) (2021). [Réseau de neurones à convolution 3D comme système d'aide à la décision pour de multiples tâches de classification de tumeurs rénales]({{< relref "/publication/3d-conv-acfas-2021" >}}). _88e congrès de l'Acfas_.

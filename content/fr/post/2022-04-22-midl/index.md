@@ -5,9 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Maxence Larose
-  - Nicolas Raymond
-  - Martin Vallières
+  - Simon Giard-Leroux
 ---
 
 Félicitations à [Maxence Larose]({{< relref "/authors/maxence-larose" >}}), 
