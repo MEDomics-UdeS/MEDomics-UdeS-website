@@ -41,33 +41,39 @@ l’aide des réseaux de neurones convolutifs.
 
 Ce cours vise à connaître, approfondir et implanter les concepts reliés à l’extraction de caractéristiques d’images médicales, en particulier les caractéristiques reliées au domaine de la radiomique. Dans ce cours, ces concepts seront mis en pratique sur des images médicales réelles. À la fin de cette activité pédagogique, l’étudiante ou l’étudiant sera capable :
 
-    1. De comprendre les fondements du domaine de la radiomique et de ses applications en médecine ;
-    2. De comprendre les formats d’images et données médicales DICOM, NIfTI et NRRD, de façon à lire et traiter des images médicales de différentes modalités ;
-    3. De maîtriser les propriétés des filtres linéaires utilisés pour l’extraction de caractéristiques en imagerie médicale, de façon à calculer ces filtres sur des images médicales de différentes modalités ;
-    4. De maîtriser les propriétés des caractéristiques d’images médicales, de façon à extraire ces caractéristiques sur des images médicales de différentes modalités ;
-    5. De comprendre comment évaluer la robustesse des caractéristiques d’images médicales;
-    6. De comprendre comment utiliser les caractéristiques d’images médicales dans un contexte d’application clinique.
-    7. D’acquérir des compétences de travail pratique en radiomique.   
+1. De comprendre les fondements du domaine de la radiomique et de ses applications en médecine ;
+2. De comprendre les formats d’images et données médicales DICOM, NIfTI et NRRD, de façon à lire et traiter des images médicales de différentes modalités ;
+3. De maîtriser les propriétés des filtres linéaires utilisés pour l’extraction de caractéristiques en imagerie médicale, de façon à calculer ces filtres sur des images médicales de différentes modalités ;
+4. De maîtriser les propriétés des caractéristiques d’images médicales, de façon à extraire ces caractéristiques sur des images médicales de différentes modalités ;
+5. De comprendre comment évaluer la robustesse des caractéristiques d’images médicales;
+6. De comprendre comment utiliser les caractéristiques d’images médicales dans un contexte d’application clinique.
+7. D’acquérir des compétences de travail pratique en radiomique.   
 
 ## Calendrier
 
-| **Semaine** | **Date** | **Thèmes** | **Notes** |
-|:---:|:---:|:---:|:---:|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
-| 15 |  |  |  |
+<div style="text-align: center;">
+
+| **Semaine** |    **Date**    |       **Thèmes**       |                     **Notes**                      |
+|:-----------:|:--------------:|:----------------------:|:--------------------------------------------------:|
+|      1      |   2023-01-02   |                        |                                                    |
+|      2      |   2023-01-09   |                        |                                                    |
+|      3      |   2023-01-16   |                        |                                                    |
+|      4      |   2023-01-23   |                        |                                                    |
+|      5      |   2023-01-30   |                        |                                                    |
+|      6      |   2023-02-06   |                        |                                                    |
+|    **7**    | **2023-02-13** |    **Examen intra**    |                                                    |
+|    **8**    | **2023-02-20** | **Semaine de lecture** |                                                    |
+|      9      |   2023-02-27   |                        |                                                    |
+|     10      |   2023-03-06   |                        |                                                    |
+|     11      |   2023-03-13   |                        |                                                    |
+|     12      |   2023-03-20   |                        |                                                    |
+|     13      |   2023-03-27   |                        |                                                    |
+|     14      |   2023-04-03   |                        |                                                    |
+|     15      |   2023-04-10   |                        |                                                    |
+|   **16**    | **2023-04-17** | **Projet de session**  | **Remise des projets de session et présentations** |
+|   **17**    | **2023-04-24** |    **Examen final**    |                                                    |
+
+</div>
 
 ## Projet de session
 
