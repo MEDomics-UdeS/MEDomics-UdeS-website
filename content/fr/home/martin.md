@@ -11,7 +11,7 @@ design:
 
 cta:
   url: author/martin-vallieres
-  label: Qui est Martin Vallières?
+  label: Profil de Martin Vallières
   icon_pack: far
   icon: address-card
 

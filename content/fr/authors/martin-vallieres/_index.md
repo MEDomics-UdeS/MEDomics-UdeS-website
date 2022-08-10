@@ -28,7 +28,7 @@ bio:
 
 
 interests:
-  - Oncologie de précision via analyse d'images médicales
+  - Médecine de précision via analyse d'images médicales
   - Apprentissage machine
   - Réseaux de neurones graphiques
   - Traitement automatique des langues naturelles
