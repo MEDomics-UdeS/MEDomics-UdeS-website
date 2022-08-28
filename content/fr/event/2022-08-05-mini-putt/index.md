@@ -92,3 +92,7 @@ Les athlètes sont ensuite allés compenser les calories dépensées en allant s
 bières et de la pizza chez Martin à Waterville.
 
 Bonnes vacances Martin!
+
+<div style="text-align: center;">
+  {{< gallery album="2022-08-05-mini-putt" >}}
+</div>
