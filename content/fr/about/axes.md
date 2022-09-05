@@ -14,6 +14,7 @@ gallery_item:
   image: main-fig.png
   caption: Cadre d'application pour l'apprentissage fédéré
 ---
+<div style="text-align: center;">
 
 # Contexte
 
@@ -55,6 +56,6 @@ ce qui constituera une étape importante pour le progrès de l'IA en médecine. 
 
 Les figures ci-dessous présentent un aperçu du cadre de recherche principale du laboratoire MEDomics UdeS.
 
-<div style="text-align: center;">
-  {{< gallery album="about" >}}
+{{< gallery album="about" >}}
+
 </div>
