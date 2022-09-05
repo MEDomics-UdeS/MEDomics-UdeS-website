@@ -1,5 +1,5 @@
 ---
-title: "Événement : Souper de départ Clarisse!"
+title: "Événement : Souper de départ en l'honneur de Clarisse!"
 
 event: 
 event_url: 
@@ -55,7 +55,10 @@ featured: false
 # projects:
 ---
 
+Plusieurs membres du laboratoire se sont réunis au Siboire le 12 août en l'honneur de la fin du stage de Clarisse
+qui est venue passer son été au Québec en notre compagnie.
 
+Bon retour en France chère Clarisse!
 
 <div style="text-align: center;">
   {{< gallery album="2022-08-12-siboire" >}}

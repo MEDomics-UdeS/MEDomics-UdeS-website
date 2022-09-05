@@ -13,4 +13,6 @@ design:
 
 ## **Axe de recherche 2 : Données hétérogènes**
 
-À venir.
+- Les données de différentes sources peuvent être combinées pour effectuer de meilleures prédictions
+
+- Par exemple, l'imagerie médicale, les notes textuelles de médecins et les données cliniques regorgent d'informations pertinentes
