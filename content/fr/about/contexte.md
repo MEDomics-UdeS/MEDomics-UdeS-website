@@ -2,21 +2,11 @@
 widget: blank
 headless: true
 weight: 10
-
+title: Contexte
 design:
   columns: "1"
 
-gallery_item:
-- album: about
-  image: labo.png
-  caption: Laboratoire MEDomics UdeS
-- album: about
-  image: main-fig.png
-  caption: Cadre d'application pour l'apprentissage fédéré
 ---
-<div style="text-align: center;">
-
-# Contexte
 
 Avec les progrès de la médecine moderne, un grand nombre de rencontres médicales (visites médicales, examens, 
 médicaments, imagerie, tests moléculaires, etc.) ont lieu dans notre système de santé. En fait, la quantité de 
@@ -45,17 +35,3 @@ Cependant, étant donné que la puissance de l'apprentissage profond est forteme
 que les données médicales ne peuvent pas être facilement partagées entre les institutions médicales pour des raisons 
 de confidentialité des patients, le développement de modèles de GNN puissants pour la prédiction des maladies dans le 
 domaine de la santé est un défi majeur. 
-
-# Mission
-
-La mission principale du laboratoire MEDomicsUdeS est de développer un cadre pour 
-**l'apprentissage GNN distribué préservant la vie privée à partir d'un réseau de bases de données de soins de santé fédérées**, 
-ce qui constituera une étape importante pour le progrès de l'IA en médecine. Dans ce cadre d'apprentissage fédéré : 
-- (i) des modèles GNN peuvent être développés à partir des bases de données de plusieurs établissements de santé, augmentant ainsi la taille des données analysées ; et 
-- (ii) les données sont toujours conservées dans les limites de chaque établissement de santé, évitant ainsi le transfert de données.
-
-Les figures ci-dessous présentent un aperçu du cadre de recherche principale du laboratoire MEDomics UdeS.
-
-{{< gallery album="about" >}}
-
-</div>
