@@ -17,7 +17,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-08-05
+date: 2022-08-12
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -55,8 +55,8 @@ featured: false
 # projects:
 ---
 
-Plusieurs membres du laboratoire se sont réunis au Siboire le 12 août en l'honneur de la fin du stage de Clarisse
-qui est venue passer son été au Québec en notre compagnie.
+Plusieurs membres du laboratoire se sont réunis au Siboire le 12 août en l'honneur de la fin du stage de 
+[Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}}) qui est venue passer son été au Québec en notre compagnie.
 
 Bon retour en France chère Clarisse!
 
