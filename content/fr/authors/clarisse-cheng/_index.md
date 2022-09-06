@@ -10,24 +10,22 @@ role: Stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: ENSEA
+    url: 'https://www.ensea.fr/fr'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - X
+  - Systèmes embarqués
 
 education:
   courses:
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+    - course: B. Ing. Génie électronique
+      institution: ENSEA, Cergy, France
+      year: 2020-2023
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +34,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Clarisse.Cheng@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/clarisse-cheng-2b58601b9/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,7 +53,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Stagiaires
+  - Anciens membres (2022)
 ---
 
-Clarisse Cheng est 
+Clarisse Cheng a complété son stage dans le laboratoire MEDomics UdeS à l'été 2022. Elle a travaillé sur l'architecture
+des classes et la documentation du projet MEDomicsLab.

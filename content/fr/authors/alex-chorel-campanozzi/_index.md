@@ -18,16 +18,16 @@ bio:
 
 
 interests:
-  - X
+  - Détection de lignes
 
 education:
   courses:
-    - course: X
+    - course: M. Ing. Génie robotique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
+      year: 2022-2024
+    - course: B. Ing. Génie robotique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +36,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Alex.Chorel-Campanozzi@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/alex-chorel-campanozzi-605787176/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AlexCampanozzi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +61,6 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Alex Chorel-Campanozzi est 
+Alex Chorel-Campanozzi a complété son stage dans le laboratoire MEDomics UdeS à l'été 2021 dans le cadre du 
+projet EnergAI. Il a été en charge de développer un framework pour détecter des lignes sur des plans électriques avec 
+OpenCV.

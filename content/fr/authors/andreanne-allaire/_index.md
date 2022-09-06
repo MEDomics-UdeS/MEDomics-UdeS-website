@@ -19,12 +19,13 @@ bio:
 
 interests:
   - Physique médicale
+  - Imagerie par résonance magnétique
 
 education:
   courses:
     - course: M. Sc. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2022-aujourd'hui
+      year: 2022-2024
     - course: B. Sc. Physique
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2021
@@ -40,6 +41,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/andr%C3%A9anne-a-001236170/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AndreanneAllaire
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +62,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Andréanne Allaire est étudiante à la maîtrise en informatique depuis 2022 et se consacre à la physique médicale.
+Andréanne Allaire est étudiante à la maîtrise en informatique depuis 2022 et se consacre à l'exploitation des 
+caractéristiques radiomiques en imagerie par résonance magnétique.

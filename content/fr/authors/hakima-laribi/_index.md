@@ -10,24 +10,22 @@ role: Stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: École nationale Supérieure d'Informatique
+    url: 'https://www.esi.dz/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - X
+  - Python
+  - Apprentissage machine
 
 education:
   courses:
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+    - course: Diplôme d'ingénieure, Maîtrise en informatique
+      institution: École nationale Supérieure d'Informatique, Alger, Algérie
+      year: 2017-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,4 +59,5 @@ user_groups:
   - Stagiaires
 ---
 
-Hakima Laribi est stagiaire.
+Hakima Laribi est stagiaire dans le laboratoire MEDomics UdeS depuis 2022. Elle travaille sur un projet de prédiction
+de la mortalité à l'aide de diverses techniques d'apprentissage machine.

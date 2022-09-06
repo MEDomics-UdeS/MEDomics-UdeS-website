@@ -25,7 +25,7 @@ education:
   courses:
     - course: M. Sc. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2020-aujourd'hui
+      year: 2020-2022
     - course: B. Ing. Génie électrique
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2012-2016

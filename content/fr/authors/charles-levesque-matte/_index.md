@@ -18,16 +18,14 @@ bio:
 
 
 interests:
-  - X
+  - Machine learning
+  - Python
 
 education:
   courses:
-    - course: X
+    - course: B. Ing. Génie informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +34,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Charles.Levesque-Matte@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/charles-l%C3%A9vesque-matte-5120a112b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +56,7 @@ user_groups:
   - Anciens membres (2020)
 ---
 
-Charles Lévesque-Matte est 
+Charles Lévesque-Matte a complété son stage dans le laboratoire MEDomics UdeS à l'été 2020. Il a travaillé sur la 
+plateforme MEDomicsLab en y développant des modules de machine learning, en faisant de la traduction de Matlab vers
+Python et en y ajoutant un module JSON. Il a conservé son lien avec le laboratoire en étant auxiliaire de recherche
+à temps partiel durant l'automne 2020.

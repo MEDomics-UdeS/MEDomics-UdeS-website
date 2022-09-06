@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - X
+  - Julia
 
 education:
   courses:
-    - course: X
+    - course: B. Sc. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2020-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +33,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Guillaume.Cleroux@USherbrooke.ca'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcleroux
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +55,6 @@ user_groups:
   - Anciens membres (2022)
 ---
 
-Guillaume Cléroux est 
+Guillaume a complété ses stages dans le laboratoire MEDomics UdeS à l'été 2021 et l'hiver 2022 dans le cadre du 
+projet EnergAI. Il a été en charge de développer un framework pour la détection d'objets et l'apprentissage actif.
+

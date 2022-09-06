@@ -10,24 +10,23 @@ role: Stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: École centrale de Nantes
+    url: 'https://www.ec-nantes.fr/version-francaise/centrale-nantes-1'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - X
+  - Python
+  - JavaScript
+  - Machine learning
 
 education:
   courses:
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+    - course: B. Ing. Systèmes embarqués, Technologies de l'information
+      institution: École centrale de Nantes, Nantes, France
+      year: 2021-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +35,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Corentin.Gauthier@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/corentin-gauthier/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +57,5 @@ user_groups:
   - Stagiaires
 ---
 
-Corentin Gauthier est 
+Corentin Gauthier est stagiaire dans le laboratoire MEDomics UdeS à la session d'été 2022. Il travaille
+sur l'amélioration des fonctionnalités UI/UX de la plateforme MEDomicsLab.

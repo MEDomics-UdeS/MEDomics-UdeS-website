@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - 
+  - Détection de texte
 
 education:
   courses:
-    - course: X
+    - course: B. Sc. Sciences du multimédia et du jeu vidéo
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2019-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +33,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Achille.Lanctot-Saumure@USherbrooke.ca'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Troy-Boy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +55,6 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Achille Lanctôt-Saumure est 
+Achille Lanctôt-Saumure a complété son stage dans le laboratoire MEDomics UdeS à l'automne 2021 dans le cadre du 
+projet EnergAI. Il a été en charge de développer un framework pour détecter du texte sur des plans électriques avec 
+Tesseract OCR.

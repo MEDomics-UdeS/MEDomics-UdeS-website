@@ -25,7 +25,7 @@ education:
   courses:
     - course: M. Sc. Informatique (cheminement en imagerie et médias numériques)
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2020-aujourd'hui
+      year: 2020-2022
     - course: B. Sc. Mathématiques (cheminement en statistique)
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2016-2019
@@ -62,4 +62,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Alexandre Ayotte est étudiant à la maîtrise en informatique depuis l'hiver 2020 et se consacre à l'apprentissage multi-tâches et à la classification d'images de tumeurs rénales.
+Alexandre Ayotte est étudiant à la maîtrise en informatique depuis l'hiver 2020 et se consacre à 
+l'apprentissage multi-tâches et à la classification d'images de tumeurs rénales.

@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - X
+  - Apprentissage fédéré
 
 education:
   courses:
-    - course: X
+    - course: B. Ing. Génie informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Francois.Marcoux2@USherbrooke.ca'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +52,6 @@ user_groups:
   - Anciens membres (2020)
 ---
 
-François X est 
+François Marcoux a complété son stage dans le laboratoire MEDomics UdeS à l'été 2020. Il a travaillé sur une
+revue de littérature concernant l'apprentissage machine distribué/fédéré. Il a conservé son lien avec le laboratoire 
+en étant auxiliaire de recherche à temps partiel durant l'automne 2020.
