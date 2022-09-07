@@ -28,7 +28,7 @@ education:
     - course: B. Ing. Génie informatique
       institution: Ecole Nationale des Sciences Appliquées, Kénitra, Maroc
       year: 2015-2018    
-   - course: Licence Mathématiques
+    - course: Licence Mathématiques
       institution: Université Abdelmalek Essaâdi, Tétouan, Maroc
       year: 2013-2015
 
@@ -62,5 +62,4 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Mamadou Mountagha Bah a travaillé au laboratoire MEDomics UdeS sur le projet MEDomicsLab entre
-août 2020 et mai 2021.
+Mamadou Mountagha Bah a travaillé au laboratoire MEDomics UdeS sur le projet MEDomicsLab entre août 2020 et mai 2021.
