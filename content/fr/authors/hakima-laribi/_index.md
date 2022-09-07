@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+    - course: Ph. D. Informatique
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: 2022-2026
     - course: Diplôme d'ingénieure, Maîtrise en informatique
       institution: École nationale Supérieure d'Informatique, Alger, Algérie
       year: 2017-2022
@@ -56,8 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Stagiaires
+  - Étudiants et étudiantes (Ph. D.)
 ---
 
-Hakima Laribi est stagiaire dans le laboratoire MEDomics UdeS depuis 2022. Elle travaille sur un projet de prédiction
-de la mortalité à l'aide de diverses techniques d'apprentissage machine.
+Hakima Laribi est étudiante au doctorat dans le laboratoire MEDomics UdeS depuis 2022. 
+Elle travaille sur un projet de prédiction de la mortalité à l'aide de diverses techniques d'apprentissage machine.
