@@ -6,7 +6,7 @@ title: Olivier Lefebvre
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique)
+role: Étudiant (Ph. D. Informatique)
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Étudiants et étudiantes (Ph. D.)
 ---
 
 Olivier Lefebvre est étudiant au doctorat en informatique depuis 2021 et consacre ses recherches à l'apprentissage 
