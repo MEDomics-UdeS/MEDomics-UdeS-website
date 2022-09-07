@@ -20,7 +20,7 @@ développer certains problèmes, tels que l'obésité, l'hypertension, des probl
 l'ostéonécrose.
 
 Pour la phase 1 du projet, le but est de simplifier et améliorer l'outil de prédiction existant du VO2 max dans le futur
-pour les patients ayant été atteints de LLA.
+pour les patients ayant été atteints de la LLA.
 
 Pour la phase 2 du projet, l'objectif est de créer un modèle de prédiction hâtif de l'obésité dans le futur pour les
-patients ayant été atteints de LLA.
+patients ayant été atteints de la LLA.
