@@ -6,7 +6,7 @@ title: Hakima Laribi
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Étudiante (Ph. D. Informatique)
 
 # Organizations/Affiliations
 organizations:
