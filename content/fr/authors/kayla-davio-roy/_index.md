@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - X
+  - Médecine
 
 education:
   courses:
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+    - course: F. Sc. Pre Medical
+      institution: Université Bishop's, Lennoxville, Canada
+      year: 2020-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Kayla.Davio-Roy@USherbrooke.ca'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +52,5 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Kayla Davio-Roy est 
+Kayla Davio-Roy a complété son stage dans le laboratoire MEDomics UdeS à l'été 2021. Elle a travaillé sur
+l'accessibilité des données médicales pour la plateforme MEDomicsLab.

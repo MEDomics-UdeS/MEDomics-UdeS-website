@@ -19,9 +19,9 @@ content:
     - Directeur
     - Étudiants et étudiantes (Ph. D.)
     - Étudiants et étudiantes (M. Sc.)
-    - Stagiaires
     - Professionnels de recherche
     - Auxiliaires de recherche
+    - Stagiaires
     - Anciens membres (2022)
     - Anciens membres (2021)
     - Anciens membres (2020)

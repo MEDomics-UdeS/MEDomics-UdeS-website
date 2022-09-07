@@ -18,16 +18,17 @@ bio:
 
 
 interests:
-  - X
+  - Python
+  - Imagerie médicale
 
 education:
   courses:
-    - course: X
+    - course: M. Sc. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2021-2023
+    - course: B. Sc. Informatique
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +37,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Mahdi.Ait.Lhaj.Loutfi@USherbrooke.ca'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/MahdiAll99
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +59,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Mahdi Ait Lhaj Loutfi est 
+Mahdi Ait Lhaj Loutfi est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2021. Son projet
+de recherche concerne l'optimisation des caractéristiques radiomiques.

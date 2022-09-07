@@ -1,5 +1,5 @@
 ---
-title: "Nouvelle : Soutenance de passage accéléré au doctorat réussi pour Olivier!"
+title: "Nouvelle : Soutenance de passage accéléré au doctorat réussie pour Olivier!"
 date: 2022-08-29
 image:
   focal_point: 'top'

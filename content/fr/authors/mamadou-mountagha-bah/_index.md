@@ -18,16 +18,20 @@ bio:
 
 
 interests:
-  - X
+  - Machine learning
 
 education:
   courses:
-    - course: X
+    - course: M. Sc. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 2019-2020
+    - course: B. Ing. Génie informatique
+      institution: Ecole Nationale des Sciences Appliquées, Kénitra, Maroc
+      year: 2015-2018    
+   - course: Licence Mathématiques
+      institution: Université Abdelmalek Essaâdi, Tétouan, Maroc
+      year: 2013-2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Mamadou.Mountagha.Bah@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mamadou-mountagha-bah-b40701141/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +62,5 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Mamadou Mountagha Bah est 
+Mamadou Mountagha Bah a travaillé au laboratoire MEDomics UdeS sur le projet MEDomicsLab entre
+août 2020 et mai 2021.

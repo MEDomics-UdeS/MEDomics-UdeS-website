@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Simon.Giard-Leroux@gmail.ca'
+    link: 'mailto:sgiardleroux@gmail.com'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/simon-giard-leroux-ing-954891ab/
@@ -62,4 +62,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Simon Giard-Leroux est étudiant à la maîtrise en informatique depuis l'automne 2020 et se consacre à appliquer des méthodes de détection d'objets dans un contexte industriel en énergie électrique.
+Simon Giard-Leroux est étudiant à la maîtrise en informatique depuis l'automne 2020 et se consacre à appliquer des 
+méthodes de détection d'objets dans un contexte industriel en énergie électrique.

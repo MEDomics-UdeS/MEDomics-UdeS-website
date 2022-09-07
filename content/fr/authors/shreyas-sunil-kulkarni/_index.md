@@ -18,16 +18,16 @@ bio:
 
 
 interests:
-  - X
+  - Machine learning
 
 education:
   courses:
-    - course: X
-      institution: Birla Institute of Technology and Science, Pilani
-      year: X
-    - course: X
-      institution: Birla Institute of Technology and Science, Pilani
-      year: X
+    - course: M. Sc. Mathématiques
+      institution: Birla Institute of Technology and Science, Pilani, Inde
+      year: 2016-2021
+    - course: B. Ing. Informatique
+      institution: Birla Institute of Technology and Science, Pilani, Inde
+      year: 2016-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +36,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Shreyas.Sunil.Kulkarni@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shreyasklkarni/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Kuyas
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +62,6 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Shreyas Sunil Kulkarni est 
+Shreyas Sunil Kulkarni a été auxiliaire de recherche dans le laboratoire MEDomics UdeS entre juin 2020 et juillet 2021.
+Il a travaillé sur la détection de fusibles et symboles sur des schémas électriques dans le cadre du projet
+EnergAI.

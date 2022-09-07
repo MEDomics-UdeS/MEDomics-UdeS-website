@@ -12,24 +12,23 @@ role: Étudiant (M. Sc. Physique)
 organizations:
   - name: Université Laval
     url: 'https://www.ulaval.ca/'
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - X
+  - Physique
 
 education:
   courses:
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+    - course: M. Sc. Physique
+      institution: Université Laval, Québec, Canada
+      year: 2021-2023 
+    - course: B. Ing. Génie physique
+      institution: Université Laval, Québec, Canada
+      year: 2017-2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,7 +37,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Maxence.Larose@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/maxence-larose/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/MaxenceLarose
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,4 +63,6 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Maxence Larose est 
+Maxence Larose est étudiant à la maîtrise en physique dans le laboratoire MEDomics UdeS. Son projet de recherche
+consiste à développer des modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement 
+du cancer de la prostate.

@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - X
+  - Machine Learning
 
 education:
   courses:
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+    - course: Programmation / développeur informatique, général
+      institution: École nationale Supérieure d'Informatique, Algier, Algérie
+      year: 2016-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +33,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Mehdi.Mitiche@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mehdi-mitiche-aa691b147/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +56,4 @@ user_groups:
   - Anciens membres (2021)
 ---
 
-Mehdi Mitiche est 
+Mehdi Mitiche a complété un stage au laboratoire MEDomics UdeS de novembre 2020 à juillet 2021.

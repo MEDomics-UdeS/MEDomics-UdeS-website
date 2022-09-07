@@ -24,7 +24,7 @@ education:
   courses:
     - course: M. Sc. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2020-aujourd'hui
+      year: 2020-2022
     - course: B. Sc. Mathématiques
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2016-2019
@@ -61,4 +61,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Nicolas Raymond est étudiant à la maîtrise en informatique depuis l'été 2020 et se consacre aux réseaux de neurones graphiques.
+Nicolas Raymond est étudiant à la maîtrise en informatique depuis l'été 2020 et sa recherche se consacre à la
+prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë.

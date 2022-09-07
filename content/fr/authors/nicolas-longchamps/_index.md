@@ -36,7 +36,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@USherbrooke.ca'
+    link: 'mailto:Nicolas.Longchamps@USherbrooke.ca'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/raphbrodeur
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +59,5 @@ user_groups:
   - Auxiliaires de recherche
 ---
 
-Nicolas Longchamps est 
+Nicolas Longchamps a complété un stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a conservé son lien avec 
+le laboratoire en étant auxiliaire de recherche à temps partiel durant l'automne 2022.

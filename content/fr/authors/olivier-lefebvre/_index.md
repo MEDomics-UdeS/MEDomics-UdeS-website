@@ -22,9 +22,9 @@ interests:
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: Ph. D. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-aujourd'hui
+      year: 2021-2025
     - course: B. Sc. Mathématiques
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2020
@@ -61,4 +61,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Olivier Lefebvre est étudiant à la maîtrise en informatique depuis 2021 et se consacre à l'apprentissage fédéré.
+Olivier Lefebvre est étudiant au doctorat en informatique depuis 2021 et consacre ses recherches à l'apprentissage 
+fédéré.
