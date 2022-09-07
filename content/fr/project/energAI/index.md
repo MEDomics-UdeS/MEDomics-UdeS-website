@@ -10,6 +10,10 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+En cours (2020-aujourd'hui)
+
 ## Note
 
 Ce projet n'est pas relié au domaine de l'informatique médicale, mais il implique des principes de détection 

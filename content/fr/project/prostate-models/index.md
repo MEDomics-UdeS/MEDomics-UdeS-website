@@ -6,6 +6,10 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+En cours (2021-aujourd'hui)
+
 ## But du projet
 
 **Objectif** : Développer des modèles prédictifs résilients basés sur l'imagerie quantitative et les caractéristiques 

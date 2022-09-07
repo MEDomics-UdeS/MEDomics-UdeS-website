@@ -10,6 +10,10 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+En cours (2020-aujourd'hui)
+
 ## Description
 
 L'objectif de ce projet est de rédiger un rapport pour mettre en place les méthodes associées à la Figure 1 ci-dessous.

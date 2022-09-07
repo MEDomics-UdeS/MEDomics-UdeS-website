@@ -15,6 +15,10 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+En cours (2020-aujourd'hui)
+
 ## Description
 
 MEDomicsLab est une plateforme de calcul _open-source_ pour la modélisation intégrative des données en oncologie. 

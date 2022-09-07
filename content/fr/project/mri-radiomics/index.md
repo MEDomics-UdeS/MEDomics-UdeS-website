@@ -6,6 +6,10 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+En cours (2021-aujourd'hui)
+
 ## Description
 
 En imagerie médicale, les caractéristiques radiomiques permettent de caractériser l'hétérogénéité d'une région 

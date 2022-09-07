@@ -8,6 +8,10 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+Terminé (2022)
+
 ## Préambule
 
 Ce projet de fin d'études a été réalisé par [Vincent Latourelle]({{< relref "/authors/vincent-latourelle" >}})

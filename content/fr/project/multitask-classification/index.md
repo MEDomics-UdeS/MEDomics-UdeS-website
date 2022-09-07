@@ -6,6 +6,8 @@ authors:
   - Martin Vallières
 ---
 
+## État du projet
+
+En cours (2020-aujourd'hui)
+
 ## Objectif
-
-
