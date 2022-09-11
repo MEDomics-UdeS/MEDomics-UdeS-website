@@ -1,6 +1,8 @@
 ---
 title: "Projet : Forêts aléatoires dans un contexte d'apprentissage distribué"
 
+type: book
+
 authors:
   - Vincent Latourelle
   - Steven Robidas

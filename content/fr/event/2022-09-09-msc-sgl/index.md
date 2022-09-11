@@ -100,6 +100,6 @@ communauté scientifique.
 
 Toutes les personnes intéressées sont cordialement invitées.
 
-Lien Teams : <https://bit.ly/3P6gR1E>
+Lien Teams : <https://bit.ly/3zSvNew>
 
 [Contacter une personne responsable](mailto:pierre-marc.jodoin@usherbrooke.ca)
