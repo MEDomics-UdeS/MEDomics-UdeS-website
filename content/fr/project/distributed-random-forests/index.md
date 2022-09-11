@@ -10,6 +10,8 @@ authors:
   - Martin Vallières
 ---
 
+{{< toc >}}
+
 ## État du projet
 
 Terminé (2022)
