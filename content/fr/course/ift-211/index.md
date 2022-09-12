@@ -2,6 +2,9 @@
 title: "Cours : IFT 211"
 subtitle: Programmation scientifique en Python
 summary: Programmation scientifique en Python
+
+type: book
+
 authors:
   - Martin Vallières
 

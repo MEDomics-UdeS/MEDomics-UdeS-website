@@ -5,6 +5,7 @@ image:
   focal_point: 'top'
 
 type: book
+show_date: true
 
 authors:
   - Alexandre Ayotte

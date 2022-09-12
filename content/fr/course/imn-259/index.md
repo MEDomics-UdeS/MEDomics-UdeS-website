@@ -2,6 +2,9 @@
 title: "Cours : IMN 259"
 subtitle: Analyse d'images
 summary: Analyse d'images
+
+type: book
+
 authors:
   - Martin Vallières
 

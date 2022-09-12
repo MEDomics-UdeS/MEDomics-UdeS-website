@@ -6,7 +6,7 @@ title: Nicolas Longchamps
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Auxiliaire de recherche
 
 # Organizations/Affiliations
 organizations:

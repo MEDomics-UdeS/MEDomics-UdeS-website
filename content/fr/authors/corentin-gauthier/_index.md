@@ -54,8 +54,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Stagiaires
+  - Anciens membres (2022)
 ---
 
-Corentin Gauthier est stagiaire dans le laboratoire MEDomics UdeS à la session d'été 2022. Il travaille
+Corentin Gauthier a complété un stage dans le laboratoire MEDomics UdeS à la session d'été 2022. Il a travaillé
 sur l'amélioration des fonctionnalités UI/UX de la plateforme MEDomicsLab.

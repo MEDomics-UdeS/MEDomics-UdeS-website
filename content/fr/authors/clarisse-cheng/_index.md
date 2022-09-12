@@ -6,7 +6,7 @@ title: Clarisse Cheng
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Ancienne stagiaire
 
 # Organizations/Affiliations
 organizations:

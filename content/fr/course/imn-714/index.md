@@ -2,6 +2,9 @@
 title: "Cours : IMN 714"
 subtitle: Extraction de caractéristiques d'images médicales
 summary: Extraction de caractéristiques d'images médicales
+
+type: book
+
 authors:
   - Martin Vallières
 

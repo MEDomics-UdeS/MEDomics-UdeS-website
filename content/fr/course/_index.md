@@ -4,6 +4,8 @@ title: Cours
 
 widget: blank
 
+type: book
+
 # Listing view
 # view: compact
 

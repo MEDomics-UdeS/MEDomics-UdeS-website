@@ -2,6 +2,9 @@
 title: "Cours : IFT 603 / IFT 712"
 subtitle: Techniques d'apprentissage
 summary: Techniques d'apprentissage
+
+type: book
+
 authors:
   - Martin Vallières
 
