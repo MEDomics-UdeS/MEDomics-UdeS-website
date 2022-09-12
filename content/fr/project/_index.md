@@ -3,7 +3,7 @@ headless: true
 
 widget: blank
 
-type: book
+# type: book
 
 # Listing view
 # view: compact
