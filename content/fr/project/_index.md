@@ -3,7 +3,7 @@ headless: true
 
 widget: blank
 
-# type: book
+type: book
 
 # Listing view
 # view: compact
@@ -18,7 +18,7 @@ banner:
 
 ## Général
 
-- [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "/project/medomicslab" >}})
+- [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "medomicslab" >}})
 - [Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé]({{< relref "/project/distributed-learning-inference" >}})
 
 ## Maîtrise
