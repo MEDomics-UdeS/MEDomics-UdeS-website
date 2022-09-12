@@ -12,9 +12,13 @@ authors:
   - Martin Vallières
 ---
 
-## État du projet
+## État
 
 En cours (2020-aujourd'hui)
+
+## Type
+
+Général
 
 ## Description
 

@@ -4,6 +4,8 @@ date: 2021-05-05
 image:
   focal_point: 'top'
 
+type: book
+
 authors:
   - Alexandre Ayotte
 ---

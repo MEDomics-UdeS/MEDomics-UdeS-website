@@ -3,6 +3,9 @@ title: "Article : Graph Attention Network for Prostate Cancer Lymph Node Invasio
 date: 2022-04-22
 image:
   focal_point: 'top'
+
+type: book
+
 authors:
   - Maxence Larose
   - Nicolas Raymond

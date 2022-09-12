@@ -6,7 +6,7 @@ title: Simon Giard-Leroux
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique), ingénieur électrique
+role: Ancien étudiant (M. Sc. Informatique), ingénieur électrique
 
 # Organizations/Affiliations
 organizations:
@@ -59,8 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Anciens membres (2022)
 ---
 
-Simon Giard-Leroux est étudiant à la maîtrise en informatique depuis l'automne 2020 et se consacre à appliquer des 
-méthodes de détection d'objets dans un contexte industriel en énergie électrique.
+Simon Giard-Leroux était étudiant à la maîtrise en informatique dans le laboratoire MEDomics UdeS entre août 2020 et
+septembre 2022 et a concentré ses recherches afin de développer des méthodes de détection d'objets dans un contexte 
+industriel en énergie électrique.

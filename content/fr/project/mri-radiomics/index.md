@@ -8,9 +8,13 @@ authors:
   - Martin Vallières
 ---
 
-## État du projet
+## État
 
 En cours (2021-aujourd'hui)
+
+## Type
+
+Maîtrise
 
 ## Description
 

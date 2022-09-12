@@ -4,20 +4,23 @@ title: "Projet : Forêts aléatoires dans un contexte d'apprentissage distribué
 type: book
 
 authors:
-  - Vincent Latourelle
-  - Steven Robidas
+  - "Vincent Latourelle"
+  - "Steven Robidas"
   - Olivier Lefebvre
   - Martin Vallières
 ---
 
-## État du projet
+## État
 
 Terminé (2022)
 
+## Type
+
+Baccalauréat
+
 ## Préambule
 
-Ce projet de fin d'études a été réalisé par [Vincent Latourelle]({{< relref "/authors/vincent-latourelle" >}})
-et [Steven Robidas]({{< relref "/authors/steven-robidas" >}}) à la session 
+Ce projet de fin d'études a été réalisé par Vincent Latourelle et Steven Robidas à la session 
 d'hiver 2022 dans le cadre de leur cheminement au baccalauréat en informatique à l'Université de Sherbrooke. 
 Ce travail a été supervisé par [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) et 
 [Martin Vallières]({{< relref "/authors/martin-vallieres" >}}).

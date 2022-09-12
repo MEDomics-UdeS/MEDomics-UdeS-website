@@ -3,6 +3,8 @@ title: Publications
 headless: false
 widget: blank
 
+type: book
+
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''

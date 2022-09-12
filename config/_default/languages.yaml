@@ -36,7 +36,7 @@ en:
       url: project
       weight: 40
     - name: Publications
-      url: publications
+      url: publication
       weight: 50
     - name: Contact
       url: contact

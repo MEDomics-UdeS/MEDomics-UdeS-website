@@ -4,6 +4,8 @@ date: 2022-06-02
 image:
   focal_point: 'top'
 
+type: book
+
 authors:
   - Mahdi Ait Lhaj Loutfi
 ---

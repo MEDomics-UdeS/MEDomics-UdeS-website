@@ -8,9 +8,13 @@ authors:
   - Martin Vallières
 ---
 
-## État du projet
+## État
 
 En cours (2022-aujourd'hui)
+
+## Type
+
+Stage
 
 ## Description
 
