@@ -14,14 +14,14 @@ banner:
   image: ''
 ---
 
-# Projets en cours
+## Projets en cours
 
-## Général
+### Général
 
 - [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "medomicslab" >}})
 - [Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé]({{< relref "/project/distributed-learning-inference" >}})
 
-## Maîtrise
+### Maîtrise
 
 - [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "/project/mri-radiomics" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "/project/prostate-models" >}})
@@ -31,11 +31,11 @@ banner:
 - [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë]({{< relref "/project/vo2max-obesity" >}})
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "/project/multitask-classification" >}})
 
-## Stages
+### Stages
 
 - [Prédiction de la mortalité des patients]({{< relref "/project/patient-mortality-prediction" >}})
 
-# Projets disponibles
+## Projets disponibles
 
 Si l'un des projets disponibles vous intéresse, veuillez contacter 
 [Martin Vallières](mailto:Martin.Vallieres@usherbrooke.ca).
@@ -43,8 +43,8 @@ Si l'un des projets disponibles vous intéresse, veuillez contacter
 - Traitement du langage naturel
 - Réseaux de neurones graphiques
 
-# Projets terminés
+## Projets terminés
 
-## Baccalauréat
+### Baccalauréat
 
 - [Forêts aléatoires dans un contexte d'apprentissage distribué (2022)]({{< relref "/project/distributed-random-forests" >}})
