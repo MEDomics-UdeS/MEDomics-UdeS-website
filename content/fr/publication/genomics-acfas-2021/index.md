@@ -1,5 +1,5 @@
 ---
-title: "Présentation : Réseau de neurones à convolution 3D comme système d’aide à la décision pour de multiples tâches de classification de tumeurs rénales"
+title: "Présentation : Intégration de données génomiques dans la conception de modèles d'apprentissages en oncologie de précision"
 date: 2021-05-05
 image:
   focal_point: 'top'

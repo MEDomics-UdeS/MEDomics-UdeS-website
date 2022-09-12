@@ -14,7 +14,9 @@ banner:
   image: ''
 ---
 
-## Projets en cours
+# Projets
+
+## En cours
 
 ### Général
 
@@ -34,7 +36,7 @@ banner:
 
 - [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
 
-## Projets disponibles
+## Disponibles
 
 Si l'un des projets disponibles vous intéresse, veuillez contacter 
 [Martin Vallières](mailto:Martin.Vallieres@usherbrooke.ca).
@@ -42,7 +44,7 @@ Si l'un des projets disponibles vous intéresse, veuillez contacter
 - Traitement du langage naturel
 - Réseaux de neurones graphiques
 
-## Projets terminés
+## Terminés
 
 ### Maîtrise
 
