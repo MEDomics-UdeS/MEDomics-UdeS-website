@@ -1,5 +1,6 @@
 ---
-headless: true
+title: Projets
+headless: false
 
 widget: blank
 
@@ -13,8 +14,6 @@ banner:
   caption: ''
   image: ''
 ---
-
-# Projets
 
 ## En cours
 
