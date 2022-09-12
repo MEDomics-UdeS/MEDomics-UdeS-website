@@ -15,7 +15,7 @@ banner:
   image: ''
 ---
 
-## En cours
+## Projets en cours
 
 ### Général
 
@@ -31,11 +31,11 @@ banner:
 - [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë]({{< relref "vo2max-obesity" >}})
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
 
-### Stages
+### Stage
 
 - [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
 
-## Disponibles
+## Projets disponibles
 
 Si l'un des projets disponibles vous intéresse, veuillez contacter 
 [Martin Vallières](mailto:Martin.Vallieres@usherbrooke.ca).
@@ -43,7 +43,7 @@ Si l'un des projets disponibles vous intéresse, veuillez contacter
 - Traitement du langage naturel
 - Réseaux de neurones graphiques
 
-## Terminés
+## Projets terminés
 
 ### Maîtrise
 
