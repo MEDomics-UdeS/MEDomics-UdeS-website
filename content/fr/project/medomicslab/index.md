@@ -1,6 +1,8 @@
 ---
 title: "Projet : MEDomicsLab"
 
+type: book
+
 authors:
   - Charles Lévesque-Matte
   - Clarisse Cheng

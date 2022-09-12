@@ -1,6 +1,8 @@
 ---
 title: "Projet : Super-apprenant distribué"
 
+type: book
+
 authors:
   - Olivier Lefebvre
   - Martin Vallières

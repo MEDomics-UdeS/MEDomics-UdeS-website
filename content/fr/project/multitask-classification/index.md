@@ -1,6 +1,8 @@
 ---
 title: "Projet : Apprentissage multi-tâches pour la classification d'images de tumeurs rénales"
 
+type: book
+
 authors:
   - Alexandre Ayotte
   - Martin Vallières

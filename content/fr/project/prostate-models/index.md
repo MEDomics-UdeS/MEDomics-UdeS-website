@@ -1,6 +1,8 @@
 ---
 title: "Projet : Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate"
 
+type: book
+
 authors:
   - Maxence Larose
   - Martin Vallières

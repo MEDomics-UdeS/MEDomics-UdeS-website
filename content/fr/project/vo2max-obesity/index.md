@@ -1,6 +1,8 @@
 ---
 title: "Projet : Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë"
 
+type: book
+
 authors:
   - Nicolas Raymond
   - Hakima Laribi

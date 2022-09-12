@@ -1,6 +1,8 @@
 ---
 title: "Projet : Optimisation des caractéristiques radiomiques"
 
+type: book
+
 authors:
   - Mahdi Ait Lhaj Loutfi
   - Martin Vallières

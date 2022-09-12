@@ -1,6 +1,8 @@
 ---
 title: "Projet : Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique"
 
+type: book
+
 authors:
   - Andréanne Allaire
   - Martin Vallières

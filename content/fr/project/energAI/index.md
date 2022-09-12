@@ -1,6 +1,8 @@
 ---
 title: "Projet : Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique"
 
+type: book
+
 authors:
   - Simon Giard-Leroux
   - Guillaume Cléroux

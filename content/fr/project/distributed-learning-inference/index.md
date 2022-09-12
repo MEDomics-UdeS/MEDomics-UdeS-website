@@ -1,6 +1,8 @@
 ---
 title: "Projet : Apprentissage et inférence distribués"
 
+type: book
+
 authors:
   - Fabio Provencher-Flores
   - François Marcoux

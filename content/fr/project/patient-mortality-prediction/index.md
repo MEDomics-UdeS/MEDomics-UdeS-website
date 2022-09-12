@@ -1,6 +1,8 @@
 ---
 title: "Projet : Prédiction de la mortalité des patients"
 
+type: book
+
 authors:
   - Hakima Laribi
   - Martin Vallières
