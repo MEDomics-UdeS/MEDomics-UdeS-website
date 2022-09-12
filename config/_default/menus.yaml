@@ -8,7 +8,7 @@ main:
     url: about
     weight: 10
   - name: Cours
-    url: courses
+    url: course
     weight: 15
   - name: Événements
     url: event

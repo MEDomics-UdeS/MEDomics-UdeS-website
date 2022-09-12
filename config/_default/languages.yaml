@@ -21,7 +21,7 @@ en:
       url: about
       weight: 10
     - name: Courses
-      url: courses
+      url: course
       weight: 15
     - name: Events
       url: event
