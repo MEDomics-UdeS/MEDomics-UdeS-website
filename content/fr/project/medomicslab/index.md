@@ -17,6 +17,8 @@ authors:
   - Martin Vallières
 ---
 
+![Schéma de principe de la plateforme MEDomicsLab](medomicslab.jpg "Schéma de principe de la plateforme MEDomicsLab")
+
 ## État
 
 En cours (2020-aujourd'hui)
