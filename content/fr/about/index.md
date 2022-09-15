@@ -7,7 +7,3 @@ type: widget_page
 # Homepage is headless, other widget pages are not.
 headless: false
 ---
-
-image:
-  placement: 1
-  filename: themes.png
