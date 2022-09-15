@@ -16,6 +16,10 @@ authors:
 
 2022-06-02
 
+## Auteurs
+
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})
+
 ## Résumé 
 
 Le cancer est une maladie hétérogène dont les caractéristiques génomiques et phénotypiques uniques 
