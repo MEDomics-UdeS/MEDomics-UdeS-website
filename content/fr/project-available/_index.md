@@ -16,7 +16,7 @@ banner:
 ---
 
 Veuillez consulter la page [À propos]({{< relref "/about" >}}) pour une description des thématiques de recherche du 
-laboratoire. Si vous êtes intéressés à vous joindre à nous, veuillez nous [contacter]({{< relref "/contact" >}})
+laboratoire. Si vous êtes intéressés à vous joindre à nous, veuillez nous [contacter]({{< relref "/contact" >}}).
 
 ### Général
 
