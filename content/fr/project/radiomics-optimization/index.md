@@ -18,7 +18,7 @@ Maîtrise
 
 ## Membres impliqués
 
-- [Mahdi Ait Lhaj Loutfi]({{< relref "/author/mahdi-ait-lhaj-loutfi >}})
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/author/mahdi-ait-lhaj-loutfi" >}})
 - [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
 
 ## Objectif
