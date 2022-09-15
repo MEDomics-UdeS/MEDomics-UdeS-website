@@ -25,7 +25,7 @@ Maîtrise
 - [Simon Giard-Leroux]({{< relref "/authors/simon-giard-leroux" >}})
 - [Guillaume Cléroux (été 2021 et hiver 2022)]({{< relref "/authors/guillaume-cleroux" >}})
 - [Alex Chorel-Campanozzi (été 2021)]({{< relref "/authors/alex-chorel-campanozzi" >}})
-- [Achille Lanctôt-Saumure (automne 2021)]({{< relref "/authors/achille-lantctot-saumure" >}})
+- [Achille Lanctôt-Saumure (automne 2021)]({{< relref "/authors/achille-lanctot-saumure" >}})
 - [Shreyas Sunil Kulkarni (2020-2021)]({{< relref "/authors/shreyas-sunil-kulkarni" >}})
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
