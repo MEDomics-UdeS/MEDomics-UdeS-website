@@ -77,5 +77,3 @@ Cette plateforme est développée en collaboration avec :
 - [The D-Lab](https://precisionmedicinemaastricht.eu/the-d-lab/) (Philippe Lambin, Henry Woodruff, Avishek Chatterjee)
 - [Oncoray](https://www.oncoray.de/) (Alex Zwanenburg, Steffen Löck)
 - [Université Laval](https://www.ulaval.ca/) (Louis Archambault, Philippe Després) 
-
-{{< figure src="MEDomicsLab_main.jpg" caption="Schéma de principe de MEDomicsLab" numbered="true" >}}
