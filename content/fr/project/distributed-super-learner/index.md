@@ -18,8 +18,8 @@ Doctorat
 
 ## Membres impliqués
 
-- [Olivier Lefebvre]({{< relref "/author/olivier-lefebvre" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Résumé
 

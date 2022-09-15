@@ -18,8 +18,8 @@ Maîtrise
 
 ## Membres impliqués
 
-- [Maxence Larose]({{< relref "/author/maxence-larose" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Maxence Larose]({{< relref "/authors/maxence-larose" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## But du projet
 

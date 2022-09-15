@@ -18,8 +18,8 @@ Maîtrise
 
 ## Membres impliqués
 
-- [Alexandre Ayotte]({{< relref "/author/alexandre-ayotte" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Données
 

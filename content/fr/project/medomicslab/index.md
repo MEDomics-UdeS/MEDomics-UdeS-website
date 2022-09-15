@@ -27,17 +27,17 @@ Général
 
 ## Membres impliqués
 
-- [Charles Lévesque-Matte]({{< relref "/author/charles-levesque-matte" >}})
-- [Clarisse Cheng]({{< relref "/author/clarisse-cheng" >}})
-- [Corentin Gauthier]({{< relref "/author/corentin-gauthier" >}})
-- [Guillaume Blain]({{< relref "/author/guillaume-blain" >}})
-- [Jonathan Perron]({{< relref "/author/jonathan-perron" >}})
-- [Kayla Davio-Roy]({{< relref "/author/kayla-davio-roy" >}})
-- [Mahdi Ait Lhaj Loutfi]({{< relref "/author/mahdi-ait-lhaj-loutfi" >}})
-- [Mamadou Mountagha Bah]({{< relref "/author/mamadou-mountagha-bah" >}})
-- [Nicolas Longchamps]({{< relref "/author/nicolas-longchamps" >}})
-- [Robin Mailhot]({{< relref "/author/robin-mailhot" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})
+- [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})
+- [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})
+- [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})
+- [Jonathan Perron]({{< relref "/authors/jonathan-perron" >}})
+- [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})
+- [Mamadou Mountagha Bah]({{< relref "/authors/mamadou-mountagha-bah" >}})
+- [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})
+- [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Description
 

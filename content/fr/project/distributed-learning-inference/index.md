@@ -22,12 +22,12 @@ Général
 
 ## Membres impliqués
 
-- [Fabio Provencher-Flores (été 2020)]({{< relref "/author/fabio-provencher-flores" >}})
-- [François Marcoux (été 2020)]({{< relref "/author/francois-marcoux" >}})
-- [Julien Corriveau-Trudel (été 2020)]({{< relref "/author/julien-corriveau-trudel" >}})
-- [Nicolas Raymond]({{< relref "/author/nicolas-raymond" >}})
-- [Olivier Lefebvre]({{< relref "/author/olivier-lefebvre" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Fabio Provencher-Flores (été 2020)]({{< relref "/authors/fabio-provencher-flores" >}})
+- [François Marcoux (été 2020)]({{< relref "/authors/francois-marcoux" >}})
+- [Julien Corriveau-Trudel (été 2020)]({{< relref "/authors/julien-corriveau-trudel" >}})
+- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Description
 

@@ -20,10 +20,10 @@ Maîtrise
 
 ## Membres impliqués
 
-- [Nicolas Raymond]({{< relref "/author/nicolas-raymond" >}})
-- [Hakima Laribi]({{< relref "/author/hakima-laribi" >}})
-- [Mehdi Mitiche]({{< relref "/author/mehdi-mitiche" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
+- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})
+- [Mehdi Mitiche]({{< relref "/authors/mehdi-mitiche" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Description
 

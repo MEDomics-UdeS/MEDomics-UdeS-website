@@ -18,8 +18,8 @@ Maîtrise
 
 ## Membres impliqués
 
-- [Andréanne Allaire]({{< relref "/author/andreanne-allaire" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Description
 

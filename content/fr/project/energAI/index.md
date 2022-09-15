@@ -22,12 +22,12 @@ Maîtrise
 
 ## Membres impliqués
 
-- [Simon Giard-Leroux]({{< relref "/author/simon-giard-leroux" >}})
-- [Guillaume Cléroux (été 2021 et hiver 2022)]({{< relref "/author/guillaume-cleroux" >}})
-- [Alex Chorel-Campanozzi (été 2021)]({{< relref "/author/alex-chorel-campanozzi" >}})
-- [Achille Lanctôt-Saumure (automne 2021)]({{< relref "/author/achille-lantctot-saumure" >}})
-- [Shreyas Sunil Kulkarni (2020-2021)]({{< relref "/author/shreyas-sunil-kulkarni" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Simon Giard-Leroux]({{< relref "/authors/simon-giard-leroux" >}})
+- [Guillaume Cléroux (été 2021 et hiver 2022)]({{< relref "/authors/guillaume-cleroux" >}})
+- [Alex Chorel-Campanozzi (été 2021)]({{< relref "/authors/alex-chorel-campanozzi" >}})
+- [Achille Lanctôt-Saumure (automne 2021)]({{< relref "/authors/achille-lantctot-saumure" >}})
+- [Shreyas Sunil Kulkarni (2020-2021)]({{< relref "/authors/shreyas-sunil-kulkarni" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Note
 

@@ -18,8 +18,8 @@ Stage
 
 ## Membres impliqués
 
-- [Hakima Laribi]({{< relref "/author/hakima-laribi" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Description
 

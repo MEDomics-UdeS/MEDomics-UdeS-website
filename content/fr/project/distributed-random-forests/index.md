@@ -22,15 +22,15 @@ Baccalauréat
 
 - Vincent Latourelle
 - Steven Robidas
-- [Olivier Lefebvre]({{< relref "/author/olivier-lefebvre" >}})
-- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Préambule
 
 Ce projet de fin d'études a été réalisé par Vincent Latourelle et Steven Robidas à la session 
 d'hiver 2022 dans le cadre de leur cheminement au baccalauréat en informatique à l'Université de Sherbrooke. 
-Ce travail a été supervisé par [Olivier Lefebvre]({{< relref "/author/olivier-lefebvre" >}}) et 
-[Martin Vallières]({{< relref "/author/martin-vallieres" >}}).
+Ce travail a été supervisé par [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) et 
+[Martin Vallières]({{< relref "/authors/martin-vallieres" >}}).
 
 ## Introduction
 
