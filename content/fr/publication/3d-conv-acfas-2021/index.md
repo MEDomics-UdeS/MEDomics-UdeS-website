@@ -11,6 +11,12 @@ authors:
   - Alexandre Ayotte
 ---
 
+![ACFAS](featured.png)
+
+## Date
+
+2021-05-05
+
 ## Résumé 
 
 **Objectif de la recherche :** Développer un outil interprétable pour la classifications automatique des lésions rénales à partir d’images IRM. La classification est effectuée selon la nature, malignité ou bénignité des tumeurs et selon leur sous-type et leur grade pour les tumeurs malignes.

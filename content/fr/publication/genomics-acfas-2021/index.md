@@ -10,6 +10,12 @@ authors:
   - Nicolas Raymond
 ---
 
+![ACFAS](featured.png)
+
+## Date
+
+2021-05-05
+
 ## Résumé 
 
 La leucémie lymphoblastique aiguë (LLA) constitue près du tiers des cas de cancers pédiatriques enregistrés chaque 

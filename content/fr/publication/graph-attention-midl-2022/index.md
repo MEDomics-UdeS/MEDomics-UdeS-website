@@ -12,6 +12,12 @@ authors:
   - Martin Vallières
 ---
 
+![MIDL](featured.png)
+
+## Date
+
+2022-04-22
+
 ## Auteurs
 
 - [Maxence Larose]({{< relref "/authors/maxence-larose" >}})<sup>1,2,3</sup>
