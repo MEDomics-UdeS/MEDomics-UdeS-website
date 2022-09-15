@@ -1,7 +1,7 @@
 ---
 title: "Projet : MEDomicsLab"
 
-# type: book
+type: book
 
 authors:
   - Charles Lévesque-Matte
