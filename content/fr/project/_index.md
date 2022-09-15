@@ -15,6 +15,10 @@ banner:
   image: ''
 ---
 
+## Projets disponibles
+
+[Voir la page des projets disponibles]({{< relref "/project-available" >}})
+
 ## Projets en cours
 
 ### Général
@@ -37,10 +41,6 @@ banner:
 ### Stage
 
 - [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
-
-## Projets disponibles
-
-[Voir la page des projets disponibles]({{< relref "/project-available" >}})
 
 ## Projets terminés
 
