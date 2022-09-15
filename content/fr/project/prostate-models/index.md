@@ -19,6 +19,7 @@ Maîtrise
 ## Membres impliqués
 
 - [Maxence Larose]({{< relref "/authors/maxence-larose" >}})
+- [Louis Archambault (Université Laval)](https://www.crchudequebec.ulaval.ca/recherche/chercheurs/louis-archambault/)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## But du projet

@@ -8,4 +8,4 @@ design:
 
 ---
 
-![ ](themes.png " ")
+![Thèmes](themes.png)

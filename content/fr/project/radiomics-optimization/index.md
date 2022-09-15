@@ -19,6 +19,7 @@ Maîtrise
 ## Membres impliqués
 
 - [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})
+- [Martin Lepage](https://www.usherbrooke.ca/recherche/specialistes/details/martin.lepage)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Objectif

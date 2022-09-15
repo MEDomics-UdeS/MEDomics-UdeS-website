@@ -19,6 +19,8 @@ Doctorat
 ## Membres impliqués
 
 - [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
+- [Félix Camirand Lemyre](https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/felix-camirand-lemyre)
+- [Jean-François Éthier](https://www.usherbrooke.ca/recherche/specialistes/details/jean-francois.ethier)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 
 ## Résumé
