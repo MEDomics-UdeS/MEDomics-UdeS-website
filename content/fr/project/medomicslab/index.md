@@ -25,6 +25,7 @@ authors:
 
 image:
   caption: "Schéma de principe de la plateforme MEDomicsLab"
+  filename: medomicslab.jpg
 
 ---
 
