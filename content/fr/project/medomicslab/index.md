@@ -25,6 +25,20 @@ En cours (2020-aujourd'hui)
 
 Général
 
+## Membres impliqués
+
+- [Charles Lévesque-Matte]({{< relref "/author/charles-levesque-matte" >}})
+- [Clarisse Cheng]({{< relref "/author/clarisse-cheng" >}})
+- [Corentin Gauthier]({{< relref "/author/corentin-gauthier" >}})
+- [Guillaume Blain]({{< relref "/author/guillaume-blain" >}})
+- [Jonathan Perron]({{< relref "/author/jonathan-perron" >}})
+- [Kayla Davio-Roy]({{< relref "/author/kayla-davio-roy" >}})
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/author/mahdi-ait-lhaj-loutfi" >}})
+- [Mamadou Mountagha Bah]({{< relref "/author/mamadou-mountagha-bah" >}})
+- [Nicolas Longchamps]({{< relref "/author/nicolas-longchamps" >}})
+- [Robin Mailhot]({{< relref "/author/robin-mailhot" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Description
 
 MEDomicsLab est une plateforme de calcul _open-source_ pour la modélisation intégrative des données en oncologie. 

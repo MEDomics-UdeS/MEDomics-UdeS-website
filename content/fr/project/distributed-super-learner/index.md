@@ -16,6 +16,11 @@ En cours (2021-aujourd'hui)
 
 Doctorat
 
+## Membres impliqués
+
+- [Olivier Lefebvre]({{< relref "/author/olivier-lefebvre" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Résumé
 
 - Construction d'arbres d'identification de patients

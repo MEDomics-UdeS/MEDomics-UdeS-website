@@ -16,6 +16,11 @@ En cours (2020-aujourd'hui)
 
 Maîtrise
 
+## Membres impliqués
+
+- [Alexandre Ayotte]({{< relref "/author/alexandre-ayotte" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Données
 
 Pour ce projet, des données de 1 082 patients provenant de 5 institutions comportant des données cliniques telles

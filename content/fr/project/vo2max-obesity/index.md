@@ -18,6 +18,13 @@ En cours (2020-aujourd'hui)
 
 Maîtrise
 
+## Membres impliqués
+
+- [Nicolas Raymond]({{< relref "/author/nicolas-raymond" >}})
+- [Hakima Laribi]({{< relref "/author/hakima-laribi" >}})
+- [Mehdi Mitiche]({{< relref "/author/mehdi-mitiche" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Description
 
 Dans un contexte de diagnostic de la leucémie lymphoblastique aiguë (LLA) à un certain temps t0, les patients sont pris

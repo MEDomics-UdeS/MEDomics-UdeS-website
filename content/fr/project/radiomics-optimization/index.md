@@ -16,6 +16,11 @@ En cours (2021-aujourd'hui)
 
 Maîtrise
 
+## Membres impliqués
+
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/author/mahdi-ait-lhaj-loutfi >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Objectif
 
 Le projet consiste à réaliser une évaluation systématique du potentiel de la prédiction pour l'analyse basée sur les 

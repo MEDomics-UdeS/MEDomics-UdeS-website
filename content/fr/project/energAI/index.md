@@ -20,6 +20,15 @@ Terminé (2020-2022)
 
 Maîtrise
 
+## Membres impliqués
+
+- [Simon Giard-Leroux]({{< relref "/author/simon-giard-leroux" >}})
+- [Guillaume Cléroux (été 2021 et hiver 2022)]({{< relref "/author/guillaume-cleroux" >}})
+- [Alex Chorel-Campanozzi (été 2021)]({{< relref "/author/alex-chorel-campanozzi" >}})
+- [Achille Lanctôt-Saumure (automne 2021)]({{< relref "/author/achille-lantctot-saumure" >}})
+- [Shreyas Sunil Kulkarni (2020-2021)]({{< relref "/author/shreyas-sunil-kulkarni" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Note
 
 Ce projet n'est pas relié au domaine de l'informatique médicale, mais il implique des principes de détection 

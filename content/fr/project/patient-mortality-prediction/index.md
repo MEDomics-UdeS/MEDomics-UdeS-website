@@ -16,6 +16,11 @@ En cours (2022-aujourd'hui)
 
 Stage
 
+## Membres impliqués
+
+- [Hakima Laribi]({{< relref "/author/hakima-laribi" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Description
 
 - Utiliser des données médicales récoltées à l'hôpital de Sherbrooke entre 2011 et 2018 (> 130 000 hospitalisations et 244 prédicteurs)

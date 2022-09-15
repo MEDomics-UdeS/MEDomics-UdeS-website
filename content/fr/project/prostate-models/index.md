@@ -16,6 +16,11 @@ En cours (2021-aujourd'hui)
 
 Maîtrise
 
+## Membres impliqués
+
+- [Maxence Larose]({{< relref "/author/maxence-larose" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## But du projet
 
 **Objectif** : Développer des modèles prédictifs résilients basés sur l'imagerie quantitative et les caractéristiques 

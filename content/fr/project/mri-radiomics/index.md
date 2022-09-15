@@ -16,6 +16,11 @@ En cours (2021-aujourd'hui)
 
 Maîtrise
 
+## Membres impliqués
+
+- [Andréanne Allaire]({{< relref "/author/andreanne-allaire" >}})
+- [Martin Vallières]({{< relref "/author/martin-vallieres" >}})
+
 ## Description
 
 En imagerie médicale, les caractéristiques radiomiques permettent de caractériser l'hétérogénéité d'une région 
