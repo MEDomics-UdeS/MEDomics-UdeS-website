@@ -16,7 +16,7 @@ En cours (2021-aujourd'hui)
 
 Maîtrise
 
-## Membres impliqués
+## Équipe
 
 - [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})

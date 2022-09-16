@@ -35,7 +35,7 @@ authors:
 
 <sup>2</sup> CHU de Québec, Québec (QC), Canada
 
-<sup>3</sup> Department d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>3</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Résumé
 

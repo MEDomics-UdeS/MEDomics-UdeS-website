@@ -16,11 +16,17 @@ En cours (2021-aujourd'hui)
 
 Maîtrise
 
-## Membres impliqués
+## Équipe
 
-- [Maxence Larose]({{< relref "/authors/maxence-larose" >}})
-- [Louis Archambault (Université Laval)](https://www.crchudequebec.ulaval.ca/recherche/chercheurs/louis-archambault/)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Maxence Larose]({{< relref "/authors/maxence-larose" >}})<sup>1,2,3</sup>
+- [Louis Archambault](https://www.crchudequebec.ulaval.ca/recherche/chercheurs/louis-archambault/)<sup>1,2</sup>
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>3</sup>
+
+<sup>1</sup> Département de physique, génie physique et optique, Université Laval, Québec (QC), Canada
+
+<sup>2</sup> CHU de Québec, Québec (QC), Canada
+
+<sup>3</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## But du projet
 

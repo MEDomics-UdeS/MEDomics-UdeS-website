@@ -16,7 +16,7 @@ En cours (2020-aujourd'hui)
 
 Maîtrise
 
-## Membres impliqués
+## Équipe
 
 - [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})

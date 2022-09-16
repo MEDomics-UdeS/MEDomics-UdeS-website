@@ -16,7 +16,7 @@ En cours (2020-aujourd'hui)
 
 Maîtrise
 
-## Membres impliqués
+## Équipe
 
 - [Teodora Boblea Podasca]({{< relref "/authors/teodora-boblea-podasca" >}})
 - [Patrick Richard](https://www.usherbrooke.ca/recherche/specialistes/details/patrick.richard)

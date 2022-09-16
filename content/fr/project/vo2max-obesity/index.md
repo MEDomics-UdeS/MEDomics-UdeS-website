@@ -18,7 +18,7 @@ En cours (2020-aujourd'hui)
 
 Maîtrise
 
-## Membres impliqués
+## Équipe
 
 - [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
 - [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})

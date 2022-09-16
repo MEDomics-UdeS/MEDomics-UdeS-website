@@ -16,7 +16,7 @@ En cours (2022-aujourd'hui)
 
 Stage
 
-## Membres impliqués
+## Équipe
 
 - [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})

@@ -18,7 +18,7 @@ Terminé (2022)
 
 Baccalauréat
 
-## Membres impliqués
+## Équipe
 
 - Vincent Latourelle
 - Steven Robidas

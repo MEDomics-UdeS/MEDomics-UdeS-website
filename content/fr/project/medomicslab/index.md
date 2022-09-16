@@ -27,7 +27,7 @@ En cours (2020-aujourd'hui)
 
 Général
 
-## Membres impliqués
+## Équipe
 
 - [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})
 - [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})

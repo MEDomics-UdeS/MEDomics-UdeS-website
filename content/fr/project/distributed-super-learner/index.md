@@ -16,7 +16,7 @@ En cours (2021-aujourd'hui)
 
 Doctorat
 
-## Membres impliqués
+## Équipe
 
 - [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
 - [Félix Camirand Lemyre](https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/felix-camirand-lemyre)

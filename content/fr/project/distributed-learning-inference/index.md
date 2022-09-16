@@ -20,14 +20,16 @@ En cours (2020-aujourd'hui)
 
 Général
 
-## Membres impliqués
+## Équipe
 
-- [Fabio Provencher-Flores (été 2020)]({{< relref "/authors/fabio-provencher-flores" >}})
-- [François Marcoux (été 2020)]({{< relref "/authors/francois-marcoux" >}})
-- [Julien Corriveau-Trudel (été 2020)]({{< relref "/authors/julien-corriveau-trudel" >}})
-- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
-- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Fabio Provencher-Flores]({{< relref "/authors/fabio-provencher-flores" >}}) (été 2020)<sup>1</sup>
+- [François Marcoux]({{< relref "/authors/francois-marcoux" >}}) (été 2020)<sup>1</sup>
+- [Julien Corriveau-Trudel]({{< relref "/authors/julien-corriveau-trudel" >}}) (été 2020)<sup>1</sup>
+- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})<sup>1</sup>
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup>
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup>
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 
