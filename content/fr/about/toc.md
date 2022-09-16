@@ -7,7 +7,11 @@ design:
 
 ---
 
-[Thèmes](https://www.medomics-udes.org/fr/about/#thèmes) • [Contexte](https://www.medomics-udes.org/fr/about/#contexte) • 
-[Mission](https://www.medomics-udes.org/fr/about/#mission) • [Axe de recherche 1](https://www.medomics-udes.org/fr/about/#axe-de-recherche-1) • 
-[Axe de recherche 2](https://www.medomics-udes.org/fr/about/#axe-de-recherche-2) • [Axe de recherche 3](https://www.medomics-udes.org/fr/about/#axe-de-recherche-3) • 
-[MEDomicsTools](https://www.medomics-udes.org/fr/about/#medomicstools) • [MEDomics](https://www.medomics-udes.org/fr/about/#medomics)
+[Thèmes]{{< relref "themes" >}} • 
+[Contexte]{{< relref "contexte" >}} • 
+[Mission]{{< relref "mission" >}} • 
+[Axe de recherche 1]{{< relref "axe_1" >}} • 
+[Axe de recherche 2]{{< relref "axe_2" >}} • 
+[Axe de recherche 3]{{< relref "axe_3" >}} • 
+[MEDomicsTools]{{< relref "medomics-tools" >}} • 
+[MEDomics]{{< relref "medomics" >}}
