@@ -7,11 +7,11 @@ design:
 
 ---
 
-[Thèmes]{{< relref "themes.md" >}} • 
-[Contexte]{{< relref "contexte.md" >}} • 
-[Mission]{{< relref "mission.md" >}} • 
-[Axe de recherche 1]{{< relref "axe_1.md" >}} • 
-[Axe de recherche 2]{{< relref "axe_2.md" >}} • 
-[Axe de recherche 3]{{< relref "axe_3.md" >}} • 
-[MEDomicsTools]{{< relref "medomics-tools.md" >}} • 
-[MEDomics]{{< relref "medomics.md" >}}
+[Thèmes]{{< ref "themes.md" >}} • 
+[Contexte]{{< ref "contexte.md" >}} • 
+[Mission]{{< ref "mission.md" >}} • 
+[Axe de recherche 1]{{< ref "axe_1.md" >}} • 
+[Axe de recherche 2]{{< ref "axe_2.md" >}} • 
+[Axe de recherche 3]{{< ref "axe_3.md" >}} • 
+[MEDomicsTools]{{< ref "medomics-tools.md" >}} • 
+[MEDomics]{{< ref "medomics.md" >}}
