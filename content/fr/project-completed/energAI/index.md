@@ -12,6 +12,9 @@ authors:
   - Martin Vallières
 ---
 
+![Exemples de détection de fusibles](fuses.png "Exemples de détection de fusibles")
+![Exemples de détection de symboles](drawings.png "Exemples de détection de symboles")
+
 ## État
 
 Terminé (2020-2022)
@@ -62,6 +65,3 @@ modèles qui peuvent être importés dans un logiciel de calcul.
 Cette automatisation apportera une plus grande précision et réduira le temps nécessaire pour interpréter les relevés 
 des installations électriques, augmentant ainsi l’efficacité du travail de l’ingénieur électrique et la sécurité 
 du public concernant les installations électriques.
-
-![Exemples de détection de fusibles](fuses.png "Exemples de détection de fusibles")
-![Exemples de détection de symboles](drawings.png "Exemples de détection de symboles")
