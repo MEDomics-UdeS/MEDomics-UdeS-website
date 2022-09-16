@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 60
-title: ""
+title: MEDomics
 hero_media: logo-medomics.png
 design:
   columns: "2"

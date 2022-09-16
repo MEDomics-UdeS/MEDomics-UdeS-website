@@ -8,6 +8,4 @@ design:
 
 ---
 
-{{< toc >}}
-
 ![Thèmes](themes.png)
