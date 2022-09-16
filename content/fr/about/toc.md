@@ -15,5 +15,5 @@ design:
 
 [Thèmes]({{< relref "#thèmes" >}}) • 
 [Mission]({{< relref "#mission" >}}) • 
-[MEDomicsTools]({{< relref "#medomicstools" >}}) • 
+[MEDomicsTools]({{< relref "#medomics-tools" >}}) • 
 [MEDomics]({{< relref "#medomics" >}})
