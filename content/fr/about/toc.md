@@ -4,6 +4,8 @@ headless: true
 weight: 8
 design:
   columns: "1"  
+#[Contexte]{{< relref "/about" >}} • 
+#[Mission]{{< relref "/about" >}} • 
 #[Axe de recherche 1]{{< relref "axe_1.md" >}} • 
 #[Axe de recherche 2]{{< relref "axe_2.md" >}} • 
 #[Axe de recherche 3]{{< relref "axe_3.md" >}} • 
@@ -11,7 +13,5 @@ design:
 #[MEDomics]{{< relref "medomics.md" >}}
 ---
 
-[Thèmes]{{< relref "/about/#themes" >}} • 
-[Contexte]{{< relref "/about/#contexte" >}} • 
-[Mission]{{< relref "/about/#mission" >}} • 
+[Thèmes]{{< relref "#thèmes" >}} • 
 
