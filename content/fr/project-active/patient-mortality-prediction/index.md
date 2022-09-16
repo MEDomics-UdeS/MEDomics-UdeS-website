@@ -18,8 +18,10 @@ Stage
 
 ## Équipe
 
-- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})<sup>1</sup> (2022-aujourd'hui)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2022-aujourd'hui)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 

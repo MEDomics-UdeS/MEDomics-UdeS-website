@@ -8,6 +8,10 @@ authors:
   - Martin Vallières
 ---
 
+![Exemples de scans](scans.png "Exemples de scans")
+![Étapes du projet](steps.png "Étapes du projet")
+![Étapes détaillées](flowchart.png "Étapes détaillées")
+
 ## État
 
 En cours (2021-aujourd'hui)
@@ -39,8 +43,3 @@ modalités telles la tomodensitométrie (TDM) et la tomographie par émission de
 - La génération de données synthétiques pour imputer les données manquantes.
 - La segmentation automatique des organes d'intérêt et la détection des segmentations ratées.
 - La prédiction robuste de résultats cliniques qui sera basée sur des caractéristiques radiomiques stables.
-
-![Exemples de scans](scans.png "Exemples de scans")
-![Étapes du projet](steps.png "Étapes du projet")
-![Étapes détaillées](flowchart.png "Étapes détaillées")
-

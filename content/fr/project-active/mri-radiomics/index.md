@@ -18,8 +18,13 @@ Maîtrise
 
 ## Équipe
 
-- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})<sup>1</sup> (2021-aujourd'hui)
+- [Philippe Després](https://iid.ulaval.ca/equipes/philippe-despres/)<sup>2</sup> (2021-aujourd'hui)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-aujourd'hui)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+
+<sup>2</sup> Département de physique, de génie physique et d'optique, Université Laval, Québec (QC), Canada
 
 ## Description
 

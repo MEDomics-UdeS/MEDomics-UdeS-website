@@ -20,10 +20,12 @@ Baccalauréat
 
 ## Équipe
 
-- Vincent Latourelle
-- Steven Robidas
-- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- Vincent Latourelle<sup>1</sup> (hiver 2022)
+- Steven Robidas<sup>1</sup> (hiver 2022)
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (hiver 2022)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (hiver 2022)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Préambule
 

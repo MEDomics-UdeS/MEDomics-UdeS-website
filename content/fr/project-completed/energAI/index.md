@@ -22,13 +22,19 @@ Maîtrise
 
 ## Équipe
 
-- [Simon Giard-Leroux]({{< relref "/authors/simon-giard-leroux" >}})
-- [Guillaume Cléroux]({{< relref "/authors/guillaume-cleroux" >}}) (été 2021 et hiver 2022)
-- [Alex Chorel-Campanozzi]({{< relref "/authors/alex-chorel-campanozzi" >}}) (été 2021)
-- [Achille Lanctôt-Saumure]({{< relref "/authors/achille-lanctot-saumure" >}}) (automne 2021)
-- [Shreyas Sunil Kulkarni]({{< relref "/authors/shreyas-sunil-kulkarni" >}}) (2020-2021)
-- [François Bouffard]()
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Simon Giard-Leroux]({{< relref "/authors/simon-giard-leroux" >}})<sup>1</sup> (2020-2022)
+- [Guillaume Cléroux]({{< relref "/authors/guillaume-cleroux" >}})<sup>1</sup> (été 2021 et hiver 2022)
+- [Alex Chorel-Campanozzi]({{< relref "/authors/alex-chorel-campanozzi" >}})<sup>1</sup> (été 2021)
+- [Achille Lanctôt-Saumure]({{< relref "/authors/achille-lanctot-saumure" >}})<sup>1</sup> (automne 2021)
+- [Shreyas Sunil Kulkarni]({{< relref "/authors/shreyas-sunil-kulkarni" >}})<sup>2</sup> (2020-2021)
+- [François Bouffard](https://www.mcgill.ca/ece/francois-bouffard)<sup>3</sup> (2020-2022)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-2022)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+
+<sup>2</sup> Birla Institute of Technology and Science, Pilani, Inde
+
+<sup>3</sup> Département de génie électrique et informatique, Université McGill (QC), Canada
 
 ## Note
 

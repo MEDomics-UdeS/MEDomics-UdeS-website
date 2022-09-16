@@ -18,8 +18,10 @@ Maîtrise
 
 ## Équipe
 
-- [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})<sup>1</sup> (2020-aujourd'hui)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Données
 

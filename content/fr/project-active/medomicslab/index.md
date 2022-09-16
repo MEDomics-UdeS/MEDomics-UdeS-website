@@ -29,17 +29,19 @@ Général
 
 ## Équipe
 
-- [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})
-- [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})
-- [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})
-- [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})
-- [Jonathan Perron]({{< relref "/authors/jonathan-perron" >}})
-- [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})
-- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})
-- [Mamadou Mountagha Bah]({{< relref "/authors/mamadou-mountagha-bah" >}})
-- [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})
-- [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})<sup>1</sup> (automne 2020)
+- [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})<sup>1</sup> (été 2022)
+- [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})<sup>1</sup> (été 2022)
+- [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})<sup>1</sup> (été 2022-aujourd'hui)
+- [Jonathan Perron]({{< relref "/authors/jonathan-perron" >}})<sup>1</sup> (2020-2021)
+- [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})<sup>1</sup> (été 2021)
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-aujourd'hui)
+- [Mamadou Mountagha Bah]({{< relref "/authors/mamadou-mountagha-bah" >}})<sup>1</sup> (2020-2021)
+- [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})<sup>1</sup> (été 2022-aujourd'hui)
+- [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})<sup>1</sup> (automne 2020)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 

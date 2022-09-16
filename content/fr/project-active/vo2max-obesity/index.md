@@ -20,10 +20,12 @@ Maîtrise
 
 ## Équipe
 
-- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
-- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})
-- [Mehdi Mitiche]({{< relref "/authors/mehdi-mitiche" >}})
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
+- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})<sup>1</sup> (2020-aujourd'hui)
+- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})<sup>1</sup> (2022-aujourd'hui)
+- [Mehdi Mitiche]({{< relref "/authors/mehdi-mitiche" >}})<sup>1</sup> (2020-2021)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
+
+<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 
