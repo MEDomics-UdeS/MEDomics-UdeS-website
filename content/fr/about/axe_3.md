@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 50
-title: Axe de recherche 3 - Apprentissage fédéré
+title: Axe de recherche 3
 hero_media: apprentissage-federe-400x400.png
 design:
   columns: "2"
@@ -10,6 +10,8 @@ design:
   css_class: null
 
 ---
+
+## Apprentissage fédéré
 
 - Pour garantir la vie privée des patients tout en s'assurant de pouvoir utiliser un maximum de données probantes
 
