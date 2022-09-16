@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 40
-title: Axe de recherche 2
+title: ""
 hero_media: donnees-heterogenes-400x400.png
 design:
   columns: "2"
@@ -11,7 +11,7 @@ design:
 
 ---
 
-## Données hétérogènes
+## **Axe de recherche 2 : Données hétérogènes**
 
 - Les données de différentes sources peuvent être combinées pour effectuer de meilleures prédictions
 
