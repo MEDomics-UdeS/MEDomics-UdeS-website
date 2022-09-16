@@ -11,7 +11,7 @@ design:
 #[MEDomics]{{< relref "medomics.md" >}}
 ---
 
-[Thèmes]{{< relref "#themes" >}} • 
-[Contexte]{{< relref "#contexte" >}} • 
-[Mission]{{< relref "#mission" >}} • 
+[Thèmes]{{< relref "/about/#themes" >}} • 
+[Contexte]{{< relref "/about/#contexte" >}} • 
+[Mission]{{< relref "/about/#mission" >}} • 
 
