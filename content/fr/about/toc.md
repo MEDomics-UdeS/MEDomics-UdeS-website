@@ -13,5 +13,5 @@ design:
 #[MEDomics]{{< relref "medomics.md" >}}
 ---
 
-[Thèmes]{{< ref "/#thèmes" >}} • 
+[Thèmes]{{< ref "/#thèmes" >}}
 
