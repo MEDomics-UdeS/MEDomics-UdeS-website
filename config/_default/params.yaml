@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: EducationalOrganization
     local_business_type: ''
-    org_name: 'MEDomics-UdeS'
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'MEDomics UdeS'
+    description: 'MEDomics UdeS research lab'
+    twitter: 'MEDomics Ude'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
