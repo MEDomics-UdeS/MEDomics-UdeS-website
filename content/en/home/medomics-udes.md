@@ -10,8 +10,8 @@ design:
   css_class: null
 
 cta:
-  url: projects-active
-  label: Our current projects
+  url: project-active
+  label: Our ongoing projects
   icon_pack: far
   icon: bar-chart
 
