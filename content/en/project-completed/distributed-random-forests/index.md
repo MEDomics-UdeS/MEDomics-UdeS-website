@@ -20,10 +20,10 @@ Bachelor's
 
 ## Team
 
-- Vincent Latourelle<sup>1</sup> (hiver 2022)
-- Steven Robidas<sup>1</sup> (hiver 2022)
-- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (hiver 2022)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (hiver 2022)
+- Vincent Latourelle<sup>1</sup> (winter 2022)
+- Steven Robidas<sup>1</sup> (winter 2022)
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (winter 2022)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (winter 2022)
 
 <sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 

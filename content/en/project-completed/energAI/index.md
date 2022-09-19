@@ -26,9 +26,9 @@ Master's
 ## Équipe
 
 - [Simon Giard-Leroux]({{< relref "/authors/simon-giard-leroux" >}})<sup>1</sup> (2020-2022)
-- [Guillaume Cléroux]({{< relref "/authors/guillaume-cleroux" >}})<sup>1</sup> (été 2021 et hiver 2022)
-- [Alex Chorel-Campanozzi]({{< relref "/authors/alex-chorel-campanozzi" >}})<sup>1</sup> (été 2021)
-- [Achille Lanctôt-Saumure]({{< relref "/authors/achille-lanctot-saumure" >}})<sup>1</sup> (automne 2021)
+- [Guillaume Cléroux]({{< relref "/authors/guillaume-cleroux" >}})<sup>1</sup> (summer 2021 and winter 2022)
+- [Alex Chorel-Campanozzi]({{< relref "/authors/alex-chorel-campanozzi" >}})<sup>1</sup> (summer 2021)
+- [Achille Lanctôt-Saumure]({{< relref "/authors/achille-lanctot-saumure" >}})<sup>1</sup> (fall 2021)
 - [Shreyas Sunil Kulkarni]({{< relref "/authors/shreyas-sunil-kulkarni" >}})<sup>2</sup> (2020-2021)
 - [François Bouffard](https://www.mcgill.ca/ece/francois-bouffard)<sup>3</sup> (2020-2022)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-2022)
