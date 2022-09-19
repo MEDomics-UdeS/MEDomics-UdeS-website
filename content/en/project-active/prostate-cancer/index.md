@@ -1,5 +1,5 @@
 ---
-title: "Projet : Cancer de la prostate"
+title: "Project: Prostate cancer"
 
 type: book
 
@@ -8,24 +8,24 @@ authors:
   - Martin Vallières
 ---
 
-## État
+## Status
 
-En cours (2022-aujourd'hui)
+In progress (2022-today)
 
 ## Type
 
-Maîtrise
+Master's
 
-## Équipe
+## Team
 
-- [Teodora Boblea Podasca]({{< relref "/authors/teodora-boblea-podasca" >}})<sup>1</sup> (2022-aujourd'hui)
-- [Patrick Richard](https://www.usherbrooke.ca/recherche/specialistes/details/patrick.richard)<sup>1</sup> (2022-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>2</sup> (2022-aujourd'hui)
+- [Teodora Boblea Podasca]({{< relref "/authors/teodora-boblea-podasca" >}})<sup>1</sup> (2022-today)
+- [Patrick Richard](https://www.usherbrooke.ca/recherche/specialistes/details/patrick.richard)<sup>1</sup> (2022-today)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>2</sup> (2022-today)
 
-<sup>1</sup> Départment de médecine, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Medicine department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-<sup>2</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>2</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 
-Cancer de la prostate
+Prostate cancer

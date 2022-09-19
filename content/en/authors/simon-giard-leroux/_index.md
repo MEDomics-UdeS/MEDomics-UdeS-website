@@ -6,7 +6,7 @@ title: Simon Giard-Leroux
 superuser: false
 
 # Role/position
-role: Ancien étudiant (M. Sc. Informatique), ingénieur électrique
+role: Former student (M. Sc. Computer science), electrical engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,15 @@ bio:
 
 
 interests:
-  - Énergie électrique
-  - Détection d'objets
+  - Electrical energy
+  - Object detection
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2020-2022
-    - course: B. Ing. Génie électrique
+    - course: B. Eng. Electrical engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2012-2016
 
@@ -59,9 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2022)
+  - Former Members (2022)
 ---
 
-Simon Giard-Leroux était étudiant à la maîtrise en informatique dans le laboratoire MEDomics UdeS entre août 2020 et
-septembre 2022 et a concentré ses recherches afin de développer des méthodes de détection d'objets dans un contexte 
-industriel en énergie électrique.
+Simon Giard-Leroux was a master's student in computer science in the MEDomics UdeS laboratory between August 2020 and
+September 2022 and focused his research on developing object detection methods in an industrial context in electrical 
+energy.

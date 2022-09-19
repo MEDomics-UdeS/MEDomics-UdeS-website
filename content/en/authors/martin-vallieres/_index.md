@@ -13,43 +13,43 @@ organizations:
   - name: Université de Sherbrooke
     url: 'https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/martin-vallieres'
   - name: GRIIS
-    url: 'https://griis.ca/a-propos/equipe/martin-vallieres/'
-  - name: Centre de recherche du CHUS - Axes Cancer et Imagerie
-    url: 'https://www.crchus.ca/accueil'
+    url: 'https://griis.ca/en/about/people/martin-vallieres/'
+  - name: Centre de recherche du CHUS - Cancer and Imaging Axes
+    url: 'https://www.crchus.ca/en/home'
   - name: MEDomics
     url: 'https://www.medomics.ai/'
-  - name: Chaire en IA CIFAR
+  - name: CIFAR-AI Chair
     url: 'https://cifar.ca/bios/martin-vallieres/'
   - name: Mila
-    url: 'https://mila.quebec/personne/martin-vallieres/'
+    url: 'https://mila.quebec/en/person/martin-vallieres/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Médecine de précision via analyse d'images médicales
-  - Apprentissage machine
-  - Réseaux de neurones graphiques
-  - Traitement automatique des langues naturelles
-  - Apprentissage distribué et fédéré
+  - Precision medicine via medical image analysis
+  - Machine learning
+  - Graphical neural networks
+  - Natural language processing
+  - Distributed and federated learning
 
 education:
   courses:
-    - course: Chercheur postdoctoral
-      institution: Université McGill, Montréal, Canada
+    - course: Postdoctoral researcher
+      institution: McGill University, Montréal, Canada
       year: 2018-2020
-    - course: Chercheur postdoctoral
+    - course: Postdoctoral researcher
       institution: University of California San Francisco, San Francisco, États-Unis
       year: 2018-2019
-    - course: Chercheur postdoctoral
+    - course: Postdoctoral researcher
       institution: INSERM UMR 1101, Brest, France
       year: 2017-2018
-    - course: Ph. D. Physique médicale
-      institution: Université McGill, Montréal, Canada
+    - course: Ph. D. Medical physics
+      institution: McGill University, Montréal, Canada
       year: 2017
-    - course: M. Sc. Physique médicale
-      institution: Université McGill, Montréal, Canada
+    - course: M. Sc. Medical physics
+      institution: McGill University, Montréal, Canada
       year: 2012
 
 # Social/Academic Networking
@@ -83,7 +83,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Directeur
+  - Director
 ---
 
-Martin Vallières consacre une grande part de ses travaux actuels au développement d’une solution pour la modélisation intégrative des données en oncologie. Il dirige le développement de MEDomicsLab, une plateforme en code source ouvert de calcul bout-en-bout pour l’oncologie de précision. Cette plateforme intégrera des données hétérogènes issues des hôpitaux, grâce à des méthodes d’apprentissage profond et d’apprentissage automatique basées sur la théorie des graphes. En contribuant à l’amélioration des modèles de prédiction en oncologie, MEDomicsLab deviendra un outil d’intelligence artificiel déterminant en médecine. 
+Martin Vallières devotes much of his current work to the development of a solution for integrative data modeling in 
+oncology. He is leading the development of MEDomicsLab, an open source end-to-end computational platform for 
+precision oncology. This platform will integrate heterogeneous data from hospitals using deep learning and machine 
+learning methods based on graph theory. By contributing to the improvement of predictive models in oncology, 
+MEDomicsLab will become a key artificial intelligence tool in medicine. 

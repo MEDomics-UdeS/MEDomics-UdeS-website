@@ -6,7 +6,7 @@ title: Alex Chorel-Campanozzi
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ bio:
 
 
 interests:
-  - Détection de lignes
+  - Line Detection
 
 education:
   courses:
-    - course: M. Ing. Génie robotique
+    - course: M. Eng. Robotic engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2024
-    - course: B. Ing. Génie robotique
+    - course: B. Eng. Robotic engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2021
 
@@ -58,9 +58,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Alex Chorel-Campanozzi a complété son stage dans le laboratoire MEDomics UdeS à l'été 2021 dans le cadre du 
-projet EnergAI. Il a été en charge de développer un framework pour détecter des lignes sur des plans électriques avec 
-OpenCV.
+Alex Chorel-Campanozzi completed his internship in the MEDomics UdeS lab in the summer of 2021 as part of the EnergAI 
+project. He was in charge of developing a framework to detect lines on electrical drawings with OpenCV.

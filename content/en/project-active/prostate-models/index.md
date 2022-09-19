@@ -1,5 +1,5 @@
 ---
-title: "Projet : Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate"
+title: "Project: Resilient predictive models based on quantitative imaging to guide prostate cancer treatment"
 
 type: book
 
@@ -8,38 +8,38 @@ authors:
   - Martin Vallières
 ---
 
-![Exemples de scans](scans.png "Exemples de scans")
-![Étapes du projet](steps.png "Étapes du projet")
-![Étapes détaillées](flowchart.png "Étapes détaillées")
+![Examples of scans](scans.png "Examples of scans")
+![Project steps](steps.png "Project steps")
+![Detailed steps](flowchart.png "Detailed steps")
 
-## État
+## Status
 
-En cours (2021-aujourd'hui)
+In progress (2021-today)
 
 ## Type
 
-Maîtrise
+Master's
 
-## Équipe
+## Team
 
 - [Maxence Larose]({{< relref "/authors/maxence-larose" >}})<sup>1,2,3</sup>
 - [Louis Archambault](https://www.crchudequebec.ulaval.ca/recherche/chercheurs/louis-archambault/)<sup>1,2</sup>
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>3</sup>
 
-<sup>1</sup> Département de physique, génie physique et optique, Université Laval, Québec (QC), Canada
+<sup>1</sup> Physics, physics engineering and optics department, Université Laval, Québec (QC), Canada
 
 <sup>2</sup> CHU de Québec, Québec (QC), Canada
 
-<sup>3</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>3</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-## But du projet
+## Project goal
 
-**Objectif** : Développer des modèles prédictifs résilients basés sur l'imagerie quantitative et les caractéristiques 
-cliniques pour guider le traitement contre le cancer avancé de la prostate en utilisant des images de différentes 
-modalités telles la tomodensitométrie (TDM) et la tomographie par émission de positrons (TEP).
+**Objective**: To develop resilient predictive models based on quantitative imaging and clinical features to guide 
+treatment for advanced prostate cancer using images from different modalities such as computed tomography (CT) and 
+positron emission tomography (PET).
 
-**3 objectifs spécifiques :** 
+**3 specific objectives:** 
 
-- La génération de données synthétiques pour imputer les données manquantes.
-- La segmentation automatique des organes d'intérêt et la détection des segmentations ratées.
-- La prédiction robuste de résultats cliniques qui sera basée sur des caractéristiques radiomiques stables.
+- Generation of synthetic data to impute missing data.
+- Automatic segmentation of organs of interest and detection of failed segmentations.
+- Robust prediction of clinical outcomes based on stable radiomic features.

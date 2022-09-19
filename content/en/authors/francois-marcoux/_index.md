@@ -6,7 +6,7 @@ title: François Marcoux
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ bio:
 
 
 interests:
-  - Apprentissage fédéré
+  - Federated learning
 
 education:
   courses:
-    - course: B. Ing. Génie informatique
+    - course: B. Eng. Computer engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2019-2023
 
@@ -49,9 +49,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2020)
+  - Former Members (2020)
 ---
 
-François Marcoux a complété son stage dans le laboratoire MEDomics UdeS à l'été 2020. Il a travaillé sur une
-revue de littérature concernant l'apprentissage machine distribué/fédéré. Il a conservé son lien avec le laboratoire 
-en étant auxiliaire de recherche à temps partiel durant l'automne 2020.
+François Marcoux completed his internship in the MEDomics UdeS laboratory in the summer of 2020. He worked on a 
+literature review on distributed/federated machine learning. He kept his link with the lab by being a part-time 
+research assistant during fall 2020.

@@ -6,7 +6,7 @@ title: Maxence Larose
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Physique)
+role: Student (M. Sc. Physics)
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ bio:
 
 
 interests:
-  - Physique
+  - Physics
 
 education:
   courses:
-    - course: M. Sc. Physique
+    - course: M. Sc. Physics
       institution: Université Laval, Québec, Canada
       year: 2021-2023 
-    - course: B. Ing. Génie physique
+    - course: B. Eng. Physics engineering
       institution: Université Laval, Québec, Canada
       year: 2017-2021
 
@@ -60,9 +60,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Maxence Larose est étudiant à la maîtrise en physique dans le laboratoire MEDomics UdeS. Son projet de recherche
-consiste à développer des modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement 
-du cancer de la prostate.
+Maxence Larose is a master's student in physics in the MEDomics UdeS laboratory. His research project consists in 
+developing predictive resilient models based on quantitative imaging to guide the treatment of prostate cancer.

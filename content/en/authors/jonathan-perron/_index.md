@@ -6,7 +6,7 @@ title: Jonathan Perron
 superuser: false
 
 # Role/position
-role: Ancien professionnel de recherche
+role: Former research professional
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,13 @@ interests:
 
 education:
   courses:
-    - course: Master 2, Cryptologie et sécurité informatique
+    - course: Master 2, Cryptology and computer security
       institution: Université de Bordeaux, Bordeaux, France
       year: 2011-2013
-    - course: Licence, Mathématiques
+    - course: Licence, Mathematics
       institution: Université de Strasbourg, Strasbourg, France
       year: 2008-2011
-    - course: Auditeur libre, Mathématiques et physique
+    - course: Free Auditor, Mathematics and physics
       institution: Université de Montréal, Montréal, Canada
       year: 2007-2008
 
@@ -58,10 +58,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Ancien analyste-programmeur dans le laboratoire MEDomics UdeS, Jonathan Perron a suivi une formation universitaire en 
-mathématiques et en informatique en France. Après avoir mis à profit ses compétences en sécurité des données au 
-sein d’un laboratoire de recherche médicale à Montréal, il a voulu poursuivre dans le domaine de l’informatique 
-de la santé. Au laboratoire MEDomics UdeS, il a travaillé sur la plateforme MEDomicsLab.
+Former analyst-programmer in the MEDomics UdeS laboratory, Jonathan Perron has a university education in mathematics 
+and computer science in France. After using his data security skills in a medical research laboratory in Montreal, 
+he wanted to pursue his career in the field of health informatics. At the MEDomics UdeS laboratory, he worked on the 
+MEDomicsLab platform.

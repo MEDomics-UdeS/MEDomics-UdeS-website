@@ -10,8 +10,8 @@ design:
 
 ---
 
-## **Axe de recherche 1 : Imagerie médicale**
+## **Research Area 1: Medical Imaging**
 
-- Les tumeurs les plus agressives ont tendance à être plus hétérogènes
+- The most aggressive tumors tend to be more heterogeneous
 
-- Les réseaux de neurones permettent détecter les tumeurs les plus hétérogènes
+- Neural networks can detect the most heterogeneous tumors

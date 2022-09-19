@@ -1,5 +1,5 @@
 ---
-title: Projets disponibles
+title: Available projects
 headless: false
 
 widget: blank
@@ -15,25 +15,25 @@ banner:
   image: ''
 ---
 
-Veuillez consulter la page [À propos]({{< relref "/about" >}}) pour une description des thématiques de recherche du 
-laboratoire. Si vous êtes intéressés à vous joindre à nous, veuillez nous [contacter]({{< relref "/contact" >}}).
+Please see the [About]({{< relref "/about" >}}) page for a description of the lab's research areas. If you are 
+interested in joining us, please [contact]({{< relref "/contact" >}}) us.
 
-### Général
+### General
 
-À venir.
+Coming soon.
 
-### Doctorat
+### Doctorate
 
-À venir.
+Coming soon.
 
-### Maîtrise
+### Master's
 
-À venir.
+Coming soon.
 
-### Baccalauréat
+### Bachelor's
 
-À venir.
+Coming soon.
 
-### Stage
+### Internship
 
-À venir.
+Coming soon.

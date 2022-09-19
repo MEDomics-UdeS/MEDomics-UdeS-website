@@ -1,5 +1,5 @@
 ---
-title: Projets
+title: Projects
 headless: false
 
 widget: blank
@@ -15,34 +15,34 @@ banner:
   image: ''
 ---
 
-## Projets en cours
+## Ongoing projects
 
-### Général
+### General
 
-- [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "medomicslab" >}})
-- [Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé]({{< relref "distributed-learning-inference" >}})
+- [Development of the _MEDomicsLab_ platform]({{< relref "medomicslab" >}})
+- [Development of a methodological review on statistical inference and distributed learning in health]({{< relref "distributed-learning-inference" >}})
 
-### Doctorat
+### Doctorate
 
-- [Super-apprenant distribué]({{< relref "distributed-super-learner" >}})
+- [Distributed super-learner]({{< relref "distributed-super-learner" >}})
 
-### Maîtrise
+### Master's
 
-- [Cancer de la prostate]({{< relref "prostate-cancer" >}})
-- [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "mri-radiomics" >}})
-- [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
-- [Optimisation des caractéristiques radiomiques]({{< relref "radiomics-optimization" >}})
-- [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë]({{< relref "vo2max-obesity" >}})
-- [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
+- [Prostate cancer]({{< relref "prostate-cancer" >}})
+- [Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging]({{< relref "mri-radiomics" >}})
+- [Resilient predictive models based on quantitative imaging to guide prostate cancer treatment]({{< relref "prostate-models" >}})
+- [Optimization of radiomic characteristics]({{< relref "radiomics-optimization" >}})
+- [Prediction of VO2 max and obesity following diagnosis of acute lymphoblastic leukemia]({{< relref "vo2max-obesity" >}})
+- [Multi-task learning for image classification of renal tumors]({{< relref "multitask-classification" >}})
 
-### Stage
+### Internship
 
-- [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
+- [Prediction of patient mortality]({{< relref "patient-mortality-prediction" >}})
 
-## Projets disponibles
+## Available projects
 
-[Voir la page des projets disponibles]({{< relref "/project-available" >}})
+[See the available projects page]({{< relref "/project-available" >}})
 
-## Projets terminés
+## Completed projects
 
-[Voir la page des projets terminés]({{< relref "/project-completed" >}})
+[See the completed projects page]({{< relref "/project-completed" >}})

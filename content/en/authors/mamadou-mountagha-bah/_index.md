@@ -6,7 +6,7 @@ title: Mamadou Mountagha Bah
 superuser: false
 
 # Role/position
-role: Ancien professionnel de recherche
+role: Former research professional
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,13 @@ interests:
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2019-2020
-    - course: B. Ing. Génie informatique
+    - course: B. Eng. Computer engineering
       institution: Ecole Nationale des Sciences Appliquées, Kénitra, Maroc
       year: 2015-2018    
-    - course: Licence Mathématiques
+    - course: Licence Mathematics
       institution: Université Abdelmalek Essaâdi, Tétouan, Maroc
       year: 2013-2015
 
@@ -59,7 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Mamadou Mountagha Bah a travaillé au laboratoire MEDomics UdeS sur le projet MEDomicsLab entre août 2020 et mai 2021.
+Mamadou Mountagha Bah worked at the MEDomics UdeS laboratory on the MEDomicsLab project between August 2020 and 
+May 2021.

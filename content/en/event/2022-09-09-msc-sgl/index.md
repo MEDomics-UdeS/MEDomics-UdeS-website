@@ -1,7 +1,7 @@
 ---
-title: "Soutenance de mémoire : Identification de fusibles électriques de puissance par apprentissage profond"
+title: "Thesis Defense: Electric Power Fuse Identification with Deep Learning"
 
-event: Soutenance de mémoire de Simon Giard-Leroux
+event: Simon Giard-Leroux's Thesis Defense
 event_url: https://bit.ly/3zSvNew
 
 location: Local D4-2011, Faculté des sciences, Université de Sherbrooke
@@ -12,7 +12,7 @@ address:
   postcode: 'J1K 2R1'
   country: Canada
 
-summary: Soutenance de mémoire de Simon Giard-Leroux
+summary: Simon Giard-Leroux's Thesis Defense
 abstract:
 
 # Talk start and end times.
@@ -56,50 +56,46 @@ featured: false
 # projects:
 ---
 
-**Description :**
+**Description:**
 
-**Conférencier :** Simon Giard-Leroux, étudiant à la maîtrise en informatique, Département d’informatique, 
-Faculté des sciences, Université de Sherbrooke
+**Speaker:** Simon Giard-Leroux, M. Sc. student in Computer Science, Department of Computer Science, 
+Faculty of Science, Université de Sherbrooke
 
-**Résumé :** Dans l’industrie de l’énergie électrique, des études d’arcs électriques sont effectuées par des 
-ingénieurs et ingénieures afin d’évaluer l’énergie incidente à laquelle une personne qui travaille sur un équipement 
-serait exposée si un accident provoquait un court-circuit. Cette énergie peut varier selon plusieurs paramètres, 
-dont l’un des principaux est la durée de l’arc, qui dépend de la rapidité de coupure de l’équipement de protection 
-qui alimente l’équipement où le défaut survient. Il est ainsi important d’identifier correctement les équipements 
-de protection dans un réseau électrique, dont les types de fusibles, qui peuvent être difficiles à identifier à 
-l'œil nu à partir de photos d’installations électriques. Par contre, ces derniers peuvent être identifiés grâce à 
-leurs caractéristiques physiques, telles que leur couleur ou leur forme. Cette tâche d'observation doit présentement 
-être effectuée manuellement, ainsi une solution plus automatisée serait avantageuse.
+**Abstract:** In the electrical power industry, arc flash studies are performed by engineers to evaluate the incident 
+energy to which a person working on equipment would be exposed if an accident caused a short circuit. This energy can 
+vary according to several parameters, one of the main ones being the duration of the arc, which depends on how 
+quickly the protective equipment supplying the equipment where the fault occurs is cut off. It is therefore important 
+to correctly identify the protective equipment in an electrical network, including the types of fuses, which can be 
+difficult to identify with the naked eye from photos of electrical installations. However, they can be identified by 
+their physical characteristics, such as their color or shape. This observation task must currently be done manually, 
+so a more automated solution would be advantageous.
 
-En parallèle, le domaine de la détection d’objets utilisant l’apprentissage profond a connu un essor remarquable 
-dans les dernières années afin de permettre de localiser et d’identifier le type de différents objets dans des 
-images. En appliquant une stratégie d’apprentissage supervisé, il est possible d’entraîner et d’optimiser un modèle 
-de détection d’objets basé sur les réseaux de neurones pouvant identifier les fusibles dans de nouvelles images 
-jamais vues auparavant. Dans ce mémoire, nous aborderons l’utilisation de techniques de détection d’objets basées 
-sur l'apprentissage profond afin d’automatiser l’identification de fusibles électriques, incluant les modèles 
-Faster R-CNN, RetinaNet et DETR. Nous poserons le problème d’identification de fusibles dans le contexte des études 
-d’arcs électriques, décrirons les principes derrière les techniques de détection d’objets utilisées en apprentissage 
-profond et proposerons une méthodologie afin d’optimiser un modèle de détection final pouvant être utilisé en 
-industrie avec une performance d’identification élevée, permettant d’accélérer significativement le travail des 
-ingénieurs et ingénieures électriques dans cette tâche. 
+In parallel, the field of object detection using deep learning has experienced a remarkable growth in the last few 
+years in order to localize and identify the type of different objects in images. By applying a supervised learning 
+strategy, it is possible to train and optimize an object detection model based on neural networks that can identify 
+fuses in new images never seen before. In this dissertation, we will discuss the use of deep learning-based object 
+detection techniques to automate the identification of electrical fuses, including the Faster R-CNN, RetinaNet and 
+DETR models. We will pose the problem of fuse identification in the context of arcing studies, describe the principles 
+behind the object detection techniques used in deep learning, and propose a methodology to optimize a final detection 
+model that can be used in industry with a high identification performance, allowing to significantly accelerate the 
+work of electrical engineers in this task. 
 
-Un article détaillant notre méthodologie afin d’obtenir une performance finale AP50 de 91,06 %, a été soumis pour 
-publication au journal _IEEE Transactions on Industrial Informatics_ et est actuellement en cours de révision. 
-Ce résultat démontre que les fusibles peuvent être adéquatement prédits dans des nouvelles photos de relevés 
-d’installations électriques. Le code développé, l’ensemble de données de plus de 12 000 fusibles ainsi qu'une 
-interface utilisateur permettant d’utiliser le modèle final en contexte industriel sont partagés ouvertement avec la 
-communauté scientifique.
+A paper detailing our methodology to achieve a final AP50 performance of 91.06% has been submitted for publication to 
+the journal _IEEE Transactions on Industrial Informatics_ and is currently under review. This result demonstrates 
+that fuses can be adequately predicted in new electrical survey photos. The developed code, the dataset of more than 
+12,000 fuses and a user interface to use the final model in an industrial context are shared openly with the 
+scientific community.
 
-**Membre du jury, président rapporteur :** Pierre-Marc Jodoin, professeur, Département d’informatique, Faculté des sciences, Université de Sherbrooke
+**Jury member, president**Pierre-Marc Jodoin, Professor, Department of Computer Science, Faculty of Science, Université de Sherbrooke
 
-**Membre du jury, directeur de recherche :** Martin Vallières, professeur, Département d’informatique, Faculté des sciences, Université de Sherbrooke
+**Jury member, research director:** Martin Vallières, Professor, Department of Computer Science, Faculty of Science, Université de Sherbrooke
 
-**Membre du jury, codirecteur de recherche :** François Bouffard, professeur, Département de génie électrique et de génie informatique, Université McGill
+**Jury member, research co-director:** François Bouffard, Professor, Department of Electrical and Computer Engineering, McGill University
 
-**Membre du jury, évaluateur externe à l’Université de Sherbrooke :** Christian Gagné, professeur, Département de génie électrique et de génie informatique, Université Laval
+**Jury member, external evaluator:** Christian Gagné, Professor, Department of Electrical and Computer Engineering, Université Laval
 
-Toutes les personnes intéressées sont cordialement invitées.
+All interested persons are cordially invited.
 
-Lien Teams : <https://bit.ly/3zSvNew>
+Teams link: <https://bit.ly/3zSvNew>
 
-[Contacter une personne responsable](mailto:pierre-marc.jodoin@usherbrooke.ca)
+[Contact](mailto:pierre-marc.jodoin@usherbrooke.ca)

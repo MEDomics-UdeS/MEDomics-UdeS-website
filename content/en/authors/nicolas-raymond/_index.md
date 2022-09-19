@@ -6,7 +6,7 @@ title: Nicolas Raymond
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique)
+role: Student (M. Sc. Computer science)
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ bio:
 
 
 interests:
-  - Réseaux de neurones graphiques
+  - Graphical neural networks
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2020-2022
-    - course: B. Sc. Mathématiques
+    - course: B. Sc. Mathematics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2016-2019
 
@@ -58,8 +58,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Nicolas Raymond est étudiant à la maîtrise en informatique depuis l'été 2020 et sa recherche se consacre à la
-prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë.
+Nicolas Raymond is a master's student in computer science since the summer of 2020 and his research focuses on the 
+prediction of VO2 max and obesity following the diagnosis of acute lymphoblastic leukemia.

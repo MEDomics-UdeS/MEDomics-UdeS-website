@@ -7,13 +7,13 @@ design:
   columns: "1"
 ---
 
-La mission principale du laboratoire MEDomicsUdeS est de développer un cadre pour 
-**l'apprentissage GNN distribué préservant la vie privée à partir d'un réseau de bases de données de soins de santé fédérées**, 
-ce qui constituera une étape importante pour le progrès de l'IA en médecine. Dans ce cadre d'apprentissage fédéré : 
-- (i) des modèles GNN peuvent être développés à partir des bases de données de plusieurs établissements de santé, augmentant ainsi la taille des données analysées ; et 
-- (ii) les données sont toujours conservées dans les limites de chaque établissement de santé, évitant ainsi le transfert de données.
+The main mission of the MEDomics UdeS lab is to develop a framework for **privacy-preserving distributed GNN learning 
+from a network of federated healthcare databases**, which will be an important step in advancing AI in medicine. In 
+this federated learning framework: 
+- (i) GNN models can be developed from the databases of multiple healthcare facilities, thereby increasing the size of the analyzed data; and 
+- (ii) data are always kept within the boundaries of each healthcare facility, thus avoiding data transfer.
 
-Les figures ci-dessous présentent un aperçu du cadre de recherche principal du laboratoire MEDomics UdeS.
+The figures below provide an overview of the main research framework of the MEDomics UdeS lab.
 
 <div style="text-align: center;">
   {{< gallery album="about" >}}

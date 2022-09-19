@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Dernières nouvelles
+title: Latest News
 subtitle:
 
 content:

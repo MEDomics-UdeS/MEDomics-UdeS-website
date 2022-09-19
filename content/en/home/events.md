@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 15
 
-title: Événements récents et à venir
+title: Upcoming and Recent Events
 subtitle:
 
 content:

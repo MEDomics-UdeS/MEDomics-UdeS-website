@@ -1,5 +1,5 @@
 ---
-title: "Projet : Prédiction de la mortalité des patients"
+title: "Project: Prediction of patient mortality"
 
 type: book
 
@@ -8,30 +8,30 @@ authors:
   - Martin Vallières
 ---
 
-## État
+## Status
 
-En cours (2022-aujourd'hui)
+In progress (2022-today)
 
 ## Type
 
-Stage
+Internship
 
-## Équipe
+## Team
 
 - [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})<sup>1</sup> (2022-aujourd'hui)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2022-aujourd'hui)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 
-- Utiliser des données médicales récoltées à l'hôpital de Sherbrooke entre 2011 et 2018 (> 130 000 hospitalisations et 244 prédicteurs)
+- Using medical data collected at the Sherbrooke Hospital between 2011 and 2018 (> 130,000 hospitalizations and 244 predictors)
 
-**Objectif :** 
+**Objective:** 
 
-- Implémenter des réseaux de neurones graphiques multi-niveaux (niveau patient, niveau institution) et comparer leurs performances par rapport aux modèles de base (RF, LR, etc.)
+- Implement multi-level graphical neural networks (patient level, institution level) and compare their performance against basic models (RF, LR, etc.)
 
-**Résultats attendus :**
+**Expected results:**
 
-- Prédire les risques de mortalité chez les patients dans l’année qui suit
-- Augmenter les discussions sur les buts des soins
+- Predict the risk of mortality in patients within one year
+- Increase discussion of goals of care

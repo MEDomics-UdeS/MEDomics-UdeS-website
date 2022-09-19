@@ -11,17 +11,17 @@ design:
 
 cta:
   url: author/martin-vallieres
-  label: Profil de Martin Vallières
+  label: Martin Vallières' profile
   icon_pack: far
   icon: address-card
 
 cta_alt:
   url: team
-  label: Son équipe
+  label: His team
 
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fasP
     link: 'mailto:Martin.Vallieres@USherbrooke.ca'
   - icon: google-scholar
     icon_pack: ai
@@ -32,7 +32,8 @@ social:
 ---
 <br>
 
-Martin Vallières est professeur adjoint au département d'informatique à l'Université de Sherbrooke depuis 2020.
+Martin Vallières is an assistant professor in the Department of Computer Science at the Université de Sherbrooke 
+since 2020.
 
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>

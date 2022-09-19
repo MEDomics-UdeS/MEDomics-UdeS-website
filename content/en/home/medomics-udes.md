@@ -11,21 +11,21 @@ design:
 
 cta:
   url: projects-active
-  label: Nos projets en cours
+  label: Our current projects
   icon_pack: far
   icon: bar-chart
 
 cta_alt:
   url: about
-  label: Axes de recherche
+  label: Research areas
 
 ---
 <br>
 
-Le laboratoire de recherche MEDomics UdeS, dirigé par le professeur Martin Vallières à l'Université de Sherbrooke, 
-est axé sur la création de modèles prédictifs en informatique de la santé depuis sa fondation en 2020.
+The MEDomics UdeS research laboratory, led by Professor Martin Vallières at the Université de Sherbrooke, has been 
+focused on the creation of predictive models in health informatics since its founding in 2020.
 
-[Voir les projets disponibles]({{< relref "/project-available" >}})
+[See available projects]({{< relref "/project-available" >}})
 
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 

@@ -1,5 +1,5 @@
 ---
-title: "Projet : MEDomicsLab"
+title: "Project: Development of the MEDomicsLab platform"
 
 type: book
 
@@ -17,65 +17,60 @@ authors:
   - Martin Vallières
 ---
 
-![Schéma de principe de la plateforme MEDomicsLab](medomicslab.jpg "Schéma de principe de la plateforme MEDomicsLab")
+![Schematic diagram of the MEDomicsLab platform](medomicslab.jpg "Schematic diagram of the MEDomicsLab platform")
 
-## État
+## Status
 
-En cours (2020-aujourd'hui)
+In progress (2020-today)
 
 ## Type
 
-Général
+General
 
-## Équipe
+## Team
 
-- [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})<sup>1</sup> (automne 2020)
-- [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})<sup>1</sup> (été 2022)
-- [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})<sup>1</sup> (été 2022)
-- [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})<sup>1</sup> (été 2022-aujourd'hui)
+- [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})<sup>1</sup> (fall 2020)
+- [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})<sup>1</sup> (summer 2022)
+- [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})<sup>1</sup> (summer 2022)
+- [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})<sup>1</sup> (summer 2022-today)
 - [Jonathan Perron]({{< relref "/authors/jonathan-perron" >}})<sup>1</sup> (2020-2021)
-- [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})<sup>1</sup> (été 2021)
-- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-aujourd'hui)
+- [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})<sup>1</sup> (summer 2021)
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-today)
 - [Mamadou Mountagha Bah]({{< relref "/authors/mamadou-mountagha-bah" >}})<sup>1</sup> (2020-2021)
-- [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})<sup>1</sup> (été 2022-aujourd'hui)
-- [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})<sup>1</sup> (automne 2020)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
+- [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})<sup>1</sup> (summer 2022-today)
+- [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})<sup>1</sup> (fall 2020)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-today)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 ## Description
 
-MEDomicsLab est une plateforme de calcul _open-source_ pour la modélisation intégrative des données en oncologie. 
-Elle a été créée par un consortium international de scientifiques médicaux (<https://medomics.ai>), dont l'objectif 
-principal est de faciliter le développement et la traduction clinique des applications de l'intelligence artificielle 
-(IA) en médecine. La plateforme est basée sur le langage de programmation Python et contient cinq modules majeurs qui 
-permettent de charger, traiter, explorer des données multi-omiques, et de créer et évaluer des modèles exploitables 
-pour l'oncologie de précision. Le flux de travail intrinsèque de MEDomicsLab est conçu pour fournir différents 
-niveaux d'abstraction de la complexité méthodologique aux utilisateurs et aux développeurs via des scripts 
-d'application, des paramètres d'option et des structures de classe. En général, MEDomicsLab est 
-envisagé pour être au centre de équipes de recherche multidisciplinaires et des infrastructures de 
-bases de données hospitalières.
+MEDomicsLab is an _open-source_ computing platform for integrative data modeling in oncology. It was created by an 
+international consortium of medical scientists (<https://medomics.ai>), whose main goal is to facilitate the 
+development and clinical translation of artificial intelligence (AI) applications in medicine. The platform is based 
+on the Python programming language and contains five major modules that allow loading, processing, exploring 
+multi-omics data, and creating and evaluating actionable models for precision oncology. MEDomicsLab's intrinsic 
+workflow is designed to provide different levels of abstraction of methodological complexity to users and developers 
+via application scripts, option parameters and class structures. In general, MEDomicsLab is envisioned to be at the 
+center of multidisciplinary research teams and hospital database infrastructures.
 
-Les récents progrès des technologies dites « omiques » (génomiques, radiomiques, protéomiques,
-etc.) offrent des possibilités sans précédent pour caractériser les processus biologiques qui sont
-reliés aux phénotypes du cancer. La combinaison efficace de ces éléments en tant que «
-modélisation multi-omique » nous permettra certainement de mieux adapter les traitements à
-chaque patient (c.-à-d. « oncologie de précision »)
+Recent advances in so-called "omics" technologies (genomics, radiomics, proteomics, etc.) offer unprecedented 
+opportunities to characterize biological processes that are related to cancer phenotypes. The effective combination 
+of these elements as "multi-omics modeling" will certainly allow us to better tailor treatments to individual 
+patients (i.e., "precision oncology").
 
-Étant donnée la complexité du problème du cancer, l'atteinte du plein potentiel de l'oncologie de
-précision est directement reliée à notre capacité à bien gérer, structurer et tirer profit des bases de
-données de nos hôpitaux. Dès lors, la maîtrise et la combinaison des techniques d'analyse de
-données suivantes devraient augmenter l'impact des modèles de prédiction « multi-omiques »
-qui sont construits à partir de ces bases de données:
+Given the complexity of the cancer problem, achieving the full potential of precision oncology is directly related 
+to our ability to properly manage, structure and leverage our hospital databases. Therefore, mastering and combining 
+the following data analysis techniques should increase the impact of the "multi-omics" prediction models that are 
+built from these databases:
 
-1. _Analyse d'image_ : la radiomique nous permet de mieux caractériser l'hétérogénéité  tumorale.
-2. _Apprentissage automatique_ : certaines techniques d'apprentissage permettent de mieux combiner les données de différentes catégories (telles que multi-omiques).
-3. _Apprentissage profond_ : la multitude d'architectures de réseaux de neurones profonds offre plusieurs possibilités par rapport à l'apprentissage automatique de différentes tâches en oncologie. La performance de certains réseaux est parfois supérieure à celle des humains.
-4. _Traitement automatique du texte_ : le traitement et le codage automatique des comptes rendus textuels des dossiers électroniques des patients permettraient une meilleure intégration d'informations pertinentes à la modélisation multi-omique durant toute la période de prise en charge des patients.
-5. _Apprentissage fédéré_ : afin d'augmenter la quantité de données modélisées provenant de différents établissements de santé, une approche d'apprentissage distribué peut être utilisée - les données sont conservées dans les limites de chaque établissement, évitant ainsi les problèmes de transfert de données et de confidentialité.
+1. _Image analysis_: radiomics allows us to better characterize tumor heterogeneity.
+2. _Machine learning_: some learning techniques allow us to better combine data from different categories (such as multi-omics).
+3. _Deep learning_: the multitude of deep neural network architectures offers several possibilities for the automatic learning of different tasks in oncology. The performance of some networks is sometimes superior to that of humans.
+4. _Automatic text processing_: automatic processing and coding of textual reports from electronic patient records would allow for better integration of information relevant to multi-omics modeling throughout the patient management period.
+5. _Federated learning_: in order to increase the amount of modeled data from different health care institutions, a distributed learning approach can be used - data is kept within the boundaries of each institution, thus avoiding data transfer and privacy issues.
 
-Cette plateforme est développée en collaboration avec : 
-
+This platform is being developed in collaboration with: 
 - [University California San Francisco](https://www.ucsf.edu/) (Olivier Morin, Taman Upadhaya, Jorge Barrios)
 - [University of Toronto](https://www.utoronto.ca/) (Jan Seuntjens)
 - [The D-Lab](https://precisionmedicinemaastricht.eu/the-d-lab/) (Philippe Lambin, Henry Woodruff, Avishek Chatterjee)

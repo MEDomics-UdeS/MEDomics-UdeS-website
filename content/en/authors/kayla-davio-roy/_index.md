@@ -6,7 +6,7 @@ title: Kayla Davio-Roy
 superuser: false
 
 # Role/position
-role: Ancienne stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ bio:
 
 
 interests:
-  - Médecine
+  - Medicine
 
 education:
   courses:
     - course: F. Sc. Pre Medical
-      institution: Université Bishop's, Lennoxville, Canada
+      institution: Bishop's University, Lennoxville, Canada
       year: 2020-2022
 
 # Social/Academic Networking
@@ -49,8 +49,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Kayla Davio-Roy a complété son stage dans le laboratoire MEDomics UdeS à l'été 2021. Elle a travaillé sur
-l'accessibilité des données médicales pour la plateforme MEDomicsLab.
+Kayla Davio-Roy completed her internship in the MEDomics UdeS lab in the summer of 2021. She worked on medical data 
+accessibility for the MEDomicsLab platform.

@@ -6,7 +6,7 @@ title: Olivier Lefebvre
 superuser: false
 
 # Role/position
-role: Étudiant (Ph. D. Informatique)
+role: Student (Ph. D. Computer science)
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ bio:
 
 
 interests:
-  - Apprentissage fédéré
+  - Federated learning
 
 education:
   courses:
-    - course: Ph. D. Informatique
+    - course: Ph. D. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2021-2025
-    - course: B. Sc. Mathématiques
+    - course: B. Sc. Mathematics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2020
 
@@ -58,8 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (Ph. D.)
+  - Students (Ph. D.)
 ---
 
-Olivier Lefebvre est étudiant au doctorat en informatique depuis 2021 et consacre ses recherches à l'apprentissage 
-fédéré.
+Olivier Lefebvre is a Ph.D. student in Computer Science since 2021 and dedicates his research to federated learning.

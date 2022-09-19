@@ -6,7 +6,7 @@ title: Mahdi Ait Lhaj Loutfi
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Student (M. Sc. Computer science, imaging)
 
 # Organizations/Affiliations
 organizations:
@@ -19,14 +19,14 @@ bio:
 
 interests:
   - Python
-  - Imagerie médicale
+  - Medical imaging
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2021-2023
-    - course: B. Sc. Informatique
+    - course: B. Sc. Computer science
       institution: 
       year: 
 
@@ -56,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Mahdi Ait Lhaj Loutfi est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2021. Son projet
-de recherche concerne l'optimisation des caractéristiques radiomiques.
+Mahdi Ait Lhaj Loutfi is a master student in the MEDomics UdeS laboratory since 2021. His research project concerns 
+the optimization of radiomic features.

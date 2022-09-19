@@ -6,7 +6,7 @@ title: Mehdi Mitiche
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ interests:
 
 education:
   courses:
-    - course: Programmation / développeur informatique, général
-      institution: École nationale Supérieure d'Informatique, Algier, Algérie
+    - course: Programming / computer science developer, general
+      institution: École nationale Supérieure d'Informatique, Algier, Algeria
       year: 2016-2021
 
 # Social/Academic Networking
@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Mehdi Mitiche a complété un stage au laboratoire MEDomics UdeS de novembre 2020 à juillet 2021.
+Mehdi Mitiche completed an internship at the MEDomics UdeS lab from November 2020 to July 2021.

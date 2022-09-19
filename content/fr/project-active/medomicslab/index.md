@@ -1,5 +1,5 @@
 ---
-title: "Projet : MEDomicsLab"
+title: "Projet : Développement de la plateforme MEDomicsLab"
 
 type: book
 

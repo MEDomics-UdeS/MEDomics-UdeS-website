@@ -11,8 +11,8 @@ design:
 
 ---
 
-## **Axe de recherche 3 : Apprentissage fédéré**
+## **Research Area 3: Federated Learning**
 
-- Pour garantir la vie privée des patients tout en s'assurant de pouvoir utiliser un maximum de données probantes
+- To guarantee patient privacy while ensuring maximum use of relevant data
 
-- Apprentissage décentralisé permettant d'assurer la souveraineté des centres médicaux
+- Decentralized learning to ensure medical center sovereignty

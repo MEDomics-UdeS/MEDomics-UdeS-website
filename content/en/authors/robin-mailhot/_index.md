@@ -6,7 +6,7 @@ title: Robin Mailhot
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ bio:
 
 
 interests:
-  - X
+  - Robotics
 
 education:
   courses:
-    - course: B. Ing. Génie robotique
+    - course: B. Eng. Robotic engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2019-2023
 
@@ -55,8 +55,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2020)
+  - Former Members (2020)
 ---
 
-Robin Mailhot a complété un stage dans le laboratoire MEDomics UdeS à l'automne 2020. Il a travaillé sur la 
-plateforme MEDomicsLab.
+Robin Mailhot completed an internship in the MEDomics UdeS lab in the fall of 2020. He worked on the MEDomicsLab 
+platform.
+

@@ -6,7 +6,7 @@ title: Achille Lanctôt-Saumure
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ bio:
 
 
 interests:
-  - Détection de texte
+  - Text Detection
 
 education:
   courses:
-    - course: B. Sc. Sciences du multimédia et du jeu vidéo
+    - course: B. Sc. Multimedia and video game sciences
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2019-2022
 
@@ -52,9 +52,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Achille Lanctôt-Saumure a complété son stage dans le laboratoire MEDomics UdeS à l'automne 2021 dans le cadre du 
-projet EnergAI. Il a été en charge de développer un framework pour détecter du texte sur des plans électriques avec 
-Tesseract OCR.
+Achille Lanctôt-Saumure completed his internship in the MEDomics UdeS lab in the fall of 2021 as part of the EnergAI 
+project. He was in charge of developing a framework to detect text on electrical drawings with Tesseract OCR.

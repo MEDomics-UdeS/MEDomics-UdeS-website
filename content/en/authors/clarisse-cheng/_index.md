@@ -6,7 +6,7 @@ title: Clarisse Cheng
 superuser: false
 
 # Role/position
-role: Ancienne stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ bio:
 
 
 interests:
-  - Systèmes embarqués
+  - Embedded systems
 
 education:
   courses:
-    - course: B. Ing. Génie électronique
+    - course: B. Eng. Electronics engineering
       institution: ENSEA, Cergy, France
       year: 2020-2023
 
@@ -56,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2022)
+  - Former members (2022)
 ---
 
-Clarisse Cheng a complété son stage dans le laboratoire MEDomics UdeS à l'été 2022. Elle a travaillé sur l'architecture
-des classes et la documentation du projet MEDomicsLab.
+Clarisse Cheng completed her internship in the MEDomics UdeS lab in the summer of 2022. She worked on the class 
+architecture and documentation of the MEDomicsLab project.

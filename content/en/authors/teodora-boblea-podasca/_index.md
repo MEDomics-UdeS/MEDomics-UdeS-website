@@ -6,7 +6,7 @@ title: Teodora Boblea Podasca
 superuser: false
 
 # Role/position
-role: Étudiante (M. Sc. Sciences médicales)
+role: Student (M. Sc. Medical sciences)
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ bio:
 
 
 interests:
-  - Cancer de la prostate
+  - Prostate cancer
 
 education:
   courses:
-    - course: M. Sc. Sciences de la santé
+    - course: M. Sc. Health sciences
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2023
     - course: Medicinæ Doctor
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Teodora Boblea Podasca est étudiante à la maîtrise en sciences de la santé depuis 2022.
+Teodora Boblea Podasca is a student in health sciences since 2022.

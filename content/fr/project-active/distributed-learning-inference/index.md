@@ -1,5 +1,5 @@
 ---
-title: "Projet : Apprentissage et inférence distribués"
+title: "Projet : Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé"
 
 type: book
 
@@ -35,7 +35,7 @@ Général
 
 ## Description
 
-L'objectif de ce projet est de rédiger un rapport pour mettre en place les méthodes associées à la Figure 1 ci-dessous.
+L'objectif de ce projet est de rédiger un rapport pour mettre en place les méthodes associées à la figure ci-dessous.
 
 - [Document en cours de rédaction : « _Distributed Statistical Inference and Learning in Health: An Introduction_ » ](https://www.dropbox.com/s/sqlmgr330e1v4mu/DL_Report_in_progress.pdf?dl=0)
 

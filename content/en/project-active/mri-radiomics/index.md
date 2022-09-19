@@ -1,5 +1,5 @@
 ---
-title: "Projet : Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique"
+title: "Project: Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging"
 
 type: book
 
@@ -8,33 +8,32 @@ authors:
   - Martin Vallières
 ---
 
-## État
+## Status
 
-En cours (2021-aujourd'hui)
+In progress (2021-today)
 
 ## Type
 
-Maîtrise
+Master's
 
-## Équipe
+## Team
 
-- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})<sup>1</sup> (2021-aujourd'hui)
-- [Philippe Després](https://iid.ulaval.ca/equipes/philippe-despres/)<sup>2</sup> (2021-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-aujourd'hui)
+- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})<sup>1</sup> (2021-today)
+- [Philippe Després](https://iid.ulaval.ca/equipes/philippe-despres/)<sup>2</sup> (2021-today)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-today)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-<sup>2</sup> Département de physique, de génie physique et d'optique, Université Laval, Québec (QC), Canada
+<sup>2</sup> Physics, physics engineering and optics department, Université Laval, Québec (QC), Canada
 
 ## Description
 
-En imagerie médicale, les caractéristiques radiomiques permettent de caractériser l'hétérogénéité d'une région 
-d'intérêt au niveau anatomique. Cette façon de quantifier l'hétérogénéité d'une région d'intérêt peut être utile, 
-par exemple, afin d'identifier les tumeurs les plus agressives en oncologie. Pour ce faire, nous posons ici 
-l'hypothèse que la variation des séquences d'acquisition d'imagerie par résonance magnétique (IRM) et ses 
-différents niveaux de contraste qui en découlent permettrait d'optimiser l'analyse radiomique subséquente. 
+In medical imaging, radiomic features are used to characterize the heterogeneity of a region of interest at the 
+anatomical level. This way of quantifying the heterogeneity of a region of interest can be useful, for example, to 
+identify the most aggressive tumors in oncology. To this end, we hypothesize that the variation of magnetic resonance 
+imaging (MRI) acquisition sequences and its resulting different contrast levels would optimize the subsequent 
+radiomic analysis. 
 
-Dans ce projet, un pipeline d'analyse d'images médicales réelles sera d'abord mis en place afin de quantifier 
-la robustesse des caractéristiques radiomiques en fonction des variations des protocoles d'acquisition. Ensuite, 
-un pipeline de simulation d'acquisition IRM sera développé afin d'évaluer le potentiel d'optimisation des 
-caractéristiques radiomiques en médecine.
+In this project, a real medical image analysis pipeline will first be set up to quantify the robustness of radiomic 
+features as a function of variations in acquisition protocols. Then, an MRI acquisition simulation pipeline will be 
+developed in order to evaluate the optimization potential of radiomic features in medicine.

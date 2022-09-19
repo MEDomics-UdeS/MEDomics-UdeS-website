@@ -1,5 +1,5 @@
 ---
-title: "Projet : Forêts aléatoires dans un contexte d'apprentissage distribué"
+title: "Project: Random forests in a distributed learning context"
 
 type: book
 
@@ -10,235 +10,168 @@ authors:
   - Martin Vallières
 ---
 
-## État
+## Status
 
-Terminé (2022)
+Completed (2022)
 
 ## Type
 
-Baccalauréat
+Bachelor's
 
-## Équipe
+## Team
 
 - Vincent Latourelle<sup>1</sup> (hiver 2022)
 - Steven Robidas<sup>1</sup> (hiver 2022)
 - [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (hiver 2022)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (hiver 2022)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-## Préambule
+## Preamble
 
-Ce projet de fin d'études a été réalisé par Vincent Latourelle et Steven Robidas à la session 
-d'hiver 2022 dans le cadre de leur cheminement au baccalauréat en informatique à l'Université de Sherbrooke. 
-Ce travail a été supervisé par [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) et 
+This final project was realized by Vincent Latourelle and Steven Robidas in the winter 2022 session as part of 
+their bachelor's degree in computer science at the Université de Sherbrooke. This work was supervised by 
+[Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) and 
 [Martin Vallières]({{< relref "/authors/martin-vallieres" >}}).
 
 ## Introduction
 
-L’apprentissage automatique est une branche fort utile dans le domaine médical. Par contre, les
-données médicales ne peuvent pas nécessairement être centralisées pour concevoir des modèles
-précis. Afin de conserver la confidentialité des données dans l’apprentissage automatique,
-certains modèles d’apprentissage fédéré, qui permettent d’entrainer des modèles entre plusieurs
-organisations sans centraliser les données, ont été développés.
+Machine learning is a very useful branch in the medical field. However, medical data cannot necessarily be centralized 
+to design accurate models. In order to maintain data privacy in machine learning, some federated learning models, 
+which allow training models across multiple organizations without centralizing the data, have been developed.
 
-Ce projet se concentre sur le modèle de forêt aléatoire (*Random Forest*) dans un contexte fédéré
-horizontal. Les articles sur lesquels se base notre implémentation sont «Federated personalized
-random forest for human activity recognition»¹ et «Federated Extra-Trees With Privacy
-Preserving»².
+This project focuses on the random forest model in a horizontal federated context. The papers on which our 
+implementation is based are "Federated personalized random forest for human activity recognition"¹ and 
+"Federated Extra-Trees With Privacy Preserving"².
 
-## Détails d’implémentation
+## Implementation details
 
-L’implémentation a été faite en *Python* et *Docker* a été utilisé pour l’exécution des clients.
+The implementation was done in *Python* and *Docker* was used to run the clients.
 
-{{< figure src="fig_1.png" caption="Diagramme de classes" numbered="true" >}}
+{{< figure src="fig_1.png" caption="Class diagram" numbered="true" >}}
 
 ## Classes
 
-Dans cette section, les différentes classes implémentées seront décrites.
+In this section, the different implemented classes will be described.
 
 ### NetworkCreator
 
-Classe permettant de répartir les données d’un *Dataframe* entre les clients pour simuler un réseau
-fédéré. La méthode *split_dataset* permet de répartir de trois façons différentes:
+Class that allows to distribute the data of a *Dataframe* between the clients to simulate a federated network. 
+The *split_dataset* method is used to distribute in three different ways:
 
-- *Unequal_rep*: Répartition divisant en 2 le nombre de données pour chaque client.
-Exemple pour 5 clients, en pourcentage des données totales: 50%, 25%, 12.5%, 6.25%,
-6.25%.
-- 2 clients avec *data_repartion* et sans *label_repartition*: Sépare les données entre les deux
-clients en précisant le pourcentage de données utilisées dans le premier client. Le reste
-va se retrouver dans le deuxième client. La répartition des cibles d’entrainement est
-conservée.
-- 2 clients avec *data_repartion* et avec *label_repartition*: Sépare les données entre les deux
-clients en précisant le pourcentage de données utilisées dans le premier client. Le reste
-va se retrouver dans le deuxième client. La répartition des cibles d’entrainement pour le
-client 1 est précisée sous forme de dictionnaire. Par exemple, si le dictionnaire *\{‘B’: 25,
-‘M’:75\}* est passé en paramètre, 25% des données seront de la cible ‘B’ et 75% de la cible
-*‘M’*.
-- Sinon: Les données sont séparées entre tous les clients en conservant les proportions
-entre les cibles d’entrainement.
+- *Unequal_rep*: Distribution dividing the number of data for each client in 2. Example for 5 clients, as a percentage of total data: 50%, 25%, 12.5%, 6.25%, 6.25%.
+- 2 clients with *data_repartion* and without *label_repartition*: Separates the data between the two clients by specifying the percentage of data used in the first client. The rest will be in the second client. The distribution of the training targets is preserved.
+- 2 clients with *data_repartion* and with *label_repartition*: Separates the data between the two clients by specifying the percentage of data used in the first client. The rest will be in the second client. The distribution of training targets for client 1 is specified in dictionary form. For example, if the dictionary *'B': 25, 'M':75}* is passed as a parameter, 25% of the data will be from the target 'B' and 75% from the target *'M'*.
+- Otherwise: The data is separated between all the clients while keeping the proportions between the training targets.
 
 ### ServerManager
 
-Classe qui gère les communications (GET et POST) entre le master et les clients.
+Class that manages communications (GET and POST) between the master and the clients.
 
 ### Client
 
-Classe qui gère les opérations des clients dans la construction d'une random forest fédérée.
+Class that manages the operations of the clients in the construction of a federated random forest.
 
 ### Master
 
-Classe qui sert de point d'entrée du framework pour appeler les différents algorithmes
-d'entrainement distribués (seulement RandomForest pour l'instant). Cette classe contient 2
-méthodes principales, *train* et *test*.
+Class that serves as the entry point of the framework to call the different distributed training algorithms 
+(only RandomForest for the moment). This class contains 2 main methods, *train* and *test*.
 
-La méthode *train* permet d’entrainer un modèle à l’aide des paramètres *type* et *distribution*.
+The *train* method allows to train a model using the *type* and *distribution* parameters.
 
-- *type*: Type de modèle d’apprentissage. Seulement *rf* pour l’instant.
-- *distribution*: méthode d’entrainement:
-  - *Federated*: entraine un modèle de façon distribué.
-  - *Localised*: Entraine un modèle chez chaque client et retourne la liste des modèles.
-  - *Centralised*: entraine un modèle centralisé.
+- *type*: Type of training model. Only *rf* for the moment.
+- *distribution*: training method:
+  - *Federated*: Train a model in a distributed way.
+  - *Localised*: Train a model at each client and return the list of models.
+  - *Centralized*: trains a centralized model.
 
-La méthode *test* permet d’obtenir les différents types d’accuracy:
+The *test* method allows to obtain the different types of accuracy:
 
-- *type*: Type de modèle d’apprentissage. Seulement rf pour l’instant.
-- *distribution*: méthode de test:
-  - *Federated*: Retourne l’*accuracy* du modèle entrainé de façon distribué. Le modèle
-  est envoyé chez les clients et ceux-ci le teste avec leur ensemble de tests et
-  retourne la valeur au master.
-  - *Localised*: Entraine un modèle chez chaque client et retourne *l’accuracy* sur leur
-  propre ensemble de tests.
-  - *Centralised*: retourne *l'accuracy* du modèle centralisé sur un ensemble de test.
+- *type*: Type of training model. Only rf for the moment.
+- *distribution*: test method:
+  - *Federated*: Returns the *accuracy* of the model trained in a distributed way. The model is sent to the clients and they test it with their test set and return the value to the master.
+  - *Localised*: Trains a model at each client and returns the *accuracy* on their own test set.
+  - *Centralized*: Returns *the accuracy* of the centralized model on a test set.
 
 ### FederatedRandomForest
 
-Classe qui gère le processus d'entrainement d'une random forest en mode fédéré.
+Class that manages the training process of a random forest in federated mode.
 
 ### RandomForest
 
-Classe qui contient une collection d’arbres de décision afin de faire une prédiction sur
-l’ensemble de ces arbres à l’aide d’un vote majoritaire.
+Class that contains a collection of decision trees in order to make a prediction on the set of these trees using a 
+majority vote.
 
 ### Node
 
-Classe qui représente un nœud d'un arbre de décision.
+Class that represents a node of a decision tree.
 
-{{< figure src="fig_2.png" caption="Diagramme de séquence" numbered="true" >}}
+{{< figure src="fig_2.png" caption="Sequence diagram" numbered="true" >}}
 
-## Déroulement de l’algorithme
+## Flow of the algorithm
 
 1. Le _NetworkCreator_ répartit les données entre les _K_ clients présents dans le
 _ServerManager_.
 2. Le _Master_ appel la fonction train de sa _FederatedRandomForest_.
-3. La _FederatedRandomForest_ demande à un client la liste des _features_ présents dans son
-ensemble d’entrainement.
-4. La _FederatedRandomForest_ construit _n_ arbres avec les clients:
+3. La _FederatedRandomForest_ demande à un client la liste des _features_ présents dans son ensemble d’entrainement.
+4. The _FederatedRandomForest_ builds _n_ trees with clients:
 <ol type="a">
   <li>La <i>FederatedRandomForest</i> sélectionne au hasard un certain nombre de <i>features</i>.</li>
   <li>Elle envoie les <i>features</i> sélectionnés aux clients.</li>
   <li>Les clients sélectionnent chacun une valeur située entre l’intervalle des valeurs
-  possibles pour chacun des <i>features</i> obtenus du master, c’est-à-dire une valeur
-  située entre le minimum et le maximum inclusivement pour un <i>feature</i> donné. Ils
-  renvoient ensuite ces valeurs au master (<i>FederatedRandomForest</i>). Les clients
-  séparent initialement leur ensemble d’entrainement en fonction des nœuds
-  présents dans l’arbre actuellement en construction.</li>
-  <li>La <i>FederatedRandomForest</i> choisit au hasard une valeur entre le minimum et le
-  maximum des valeurs obtenus des clients pour chaque <i>feature</i>. Elle renvoie
-  ensuite ces valeurs aux clients.</li>
-  <li>Les clients choisissent la valeur qui sépare le mieux leur ensemble d’entrainement
-  (à l’aide de Gini) parmi les valeurs obtenues de <i>FederatedRandomForest</i>. Les
-  clients séparent initialement leur ensemble d’entrainement en fonction des
-  nœuds présents dans l’arbre actuellement en construction. Ils renvoient ensuite
-  cette valeur à la <i>FederatedRandomForest</i> ainsi que le nombre de données dans
-  leur ensemble d’entrainement.</li>
-  <li>La <i>FederatedRandomForest</i> fait un vote majoritaire pondéré par le nombre de
-  données de chaque client. Elle crée un nœud avec l’attribut sélectionné et
-  construit récursivement les arbres de gauche et de droite.</li>
-  <li>Les étapes <i>a</i> à <i>f</i> seront donc répétées jusqu’à ce qu’une certaine profondeur
-  d’arbre soit atteinte ou que le nombre de données chez les clients est insuffisant
-  pour continuer à faire des séparations.</li>
-  <li>Lorsque ces critères sont remplis, la <i>FederatedRandomForest</i> demande aux
-  clients d’envoyer la classe majoritaire actuelle. La <i>FederatedRandomForest</i>
-  effectue ensuite un vote majoritaire pondéré par le nombre de données totales
-  dans l’ensemble d’entrainement du client pour construire la feuille de l’arbre.</li>
+  possibles pour chacun des <i>features</i> obtenus du master, c’est-à-dire une valeur située entre le minimum et le maximum inclusivement pour un <i>feature</i> donné. Ils renvoient ensuite ces valeurs au master <i>FederatedRandomForest</i>). Les clients séparent initialement leur ensemble d’entrainement en fonction des nœuds présents dans l’arbre actuellement en construction.</li> <li>La <i>FederatedRandomForest</i> choisit au hasard une valeur entre le minimum et le maximum des valeurs obtenus des clients pour chaque <i>feature</i>. Elle renvoie ensuite ces valeurs aux clients.</li>
+  <li>Les clients choisissent la valeur qui sépare le mieux leur ensemble d’entrainement (à l’aide de Gini) parmi les valeurs obtenues de <i>FederatedRandomForest</i>. Les clients séparent initialement leur ensemble d’entrainement en fonction des nœuds présents dans l’arbre actuellement en construction. Ils renvoient ensuite cette valeur à la <i>FederatedRandomForest</i> ainsi que le nombre de données dans leur ensemble d’entrainement.</li>
+  <li>La <i>FederatedRandomForest</i> fait un vote majoritaire pondéré par le nombre de données de chaque client. Elle crée un nœud avec l’attribut sélectionné et construit récursivement les arbres de gauche et de droite.</li>
+  <li>Les étapes <i>a</i> à <i>f</i> seront donc répétées jusqu’à ce qu’une certaine profondeur d’arbre soit atteinte ou que le nombre de données chez les clients est insuffisant pour continuer à faire des séparations.</li>
+  <li>Lorsque ces critères sont remplis, la <i>FederatedRandomForest</i> demande aux clients d’envoyer la classe majoritaire actuelle. La <i>FederatedRandomForest</i> effectue ensuite un vote majoritaire pondéré par le nombre de données totales dans l’ensemble d’entrainement du client pour construire la feuille de l’arbre.</li>
 </ol>
 
 5. La FederatedRandomForest envoie la forêt construite aux clients.
 
-## Utilisation
+## Usage
 
-Les détails de l’utilisation sont présentés dans le _Readme_. (liens vers GitHub)
+The details of the usage are presented in the _Readme_. (links to GitHub)
 
-## Résultats
+## Results
 
-Tous les résultats ont été obtenus avec une moyenne d’exécutions de l’algorithme.
+All results were obtained with an average of executions of the algorithm.
 
-{{< figure src="fig_3.png" caption="Accuracy du modèle en fonction de la répartition des cibles d’entrainement dans le client 1" numbered="true" >}}
+{{< figure src="fig_3.png" caption="Accuracy of the model as a function of the distribution of training targets in client 1" numbered="true" >}}
 
-Les résultats présentés à la figure 3 ont été obtenus en faisant varier la répartition des cibles
-d’entrainement dans le client 1, d’une répartition de 15% de cible ‘B’ et 85% de cible ‘M’ jusqu’à
-85% de cible ‘B’ et 15% de cible ‘M’. La répartition initiale des données étant de 60% ‘B’ et 40%
-‘M’. Il est possible d’observer une justesse très basse lorsque la quantité de ‘M’ est très élevé pour
-le client 1. Notre hypothèse est que cette configuration rassemble toutes les données dont la cible
-est ‘M’ dans le premier client, ce qui impacte négativement l’apprentissage en mode fédéré. À
-partir de 50% de cible ‘B’, le modèle fédéré semble obtenir de très bons résultats, surpassant
-l’entrainement local et en obtenant des résultats similaires à l’entrainement centralisé.
+The results shown in Figure 3 were obtained by varying the distribution of training targets in client 1 from a distribution of 15% 'B' target and 85% 'M' target to 85% 'B' target and 15% 'M' target. The initial distribution of the data was 60% 'B' and 40% 'M'. It is possible to observe a very low accuracy when the amount of 'M' is very high for client 1. Our hypothesis is that this configuration gathers all the data whose target is 'M' in the first client, which negatively impacts the learning in federated mode. À
+50% target 'B' and above, the federated model seems to perform very well, outperforming local training and achieving similar results to centralized training.
 
-{{< figure src="fig_4.png" caption="Accuracy du modèle en fonction du nombre de clients avec une répartition inégale des données" numbered="true" >}}
+{{< figure src="fig_4.png" caption="Accuracy of the model as a function of the number of clients with unequal data distribution" numbered="true" >}}
 
-Les résultats présentés à la figure 4 résultent d’un entrainement avec des clients qui possèdent
-un nombre inégal de données, répartis à l’aide de ‘_unequal_rep_’ de _NetworkCreator_. Il est possible
-d’observer une tendance où la justesse minimale de l’entrainement local diminue et que la
-justesse moyenne de l’entrainement local diminue aussi, car les clients ont de moins en moins de
-données. La justesse en mode fédéré semble suivre de près la justesse en mode centralisé. Ces
-résultats peuvent s’expliquer par le fait que le client 1 possède un poids décisionnel aussi
-important que l’ensemble des autres clients. Donc, en mode fédéré, cette distribution est
-similaire à entrainer une forêt aléatoire centralisée, mais avec la moitié des données.
+The results shown in Figure 4 are the result of training with clients that have an unequal amount of data, distributed using '_unequal_rep_' from _NetworkCreator_. It is possible to observe a trend where the minimum correctness of local training decreases and the average correctness of local training also decreases, as clients have less and less data. The federated mode accuracy seems to closely follow the centralized mode accuracy. These results can be explained by the fact that client 1 has as much decisional weight as all the other
+as all the other clients. Thus, in federated mode, this distribution is similar to training a centralized random forest, but with half the data.
 
 {{< figure src="fig_5_a.png" caption="" numbered="false" >}}
 
-{{< figure src="fig_5_b.png" caption="Accuracy en fonction du nombre de clients" numbered="true" >}}
+{{< figure src="fig_5_b.png" caption="Accuracy as a function of number of customers" numbered="true" >}}
 
-L’accuracy a été mesuré en faisant croitre le nombre de clients, de 2 jusqu’à 140. On peut observer
-une baisse significative des modèles locaux et du modèle fédéré à mesure que le nombre de
-clients augmente. Cependant, le modèle fédéré est plus résilient que les modèles locaux. En effet,
-le modèle fédéré produit une justesse raisonnable (environ 88%) comparativement aux modèles
-locaux (environ 50%).
+Accuracy was measured by increasing the number of clients from 2 to 140. We can observe a significant decrease in the local and federated models as the number of clients increases. However, the federated model is more resilient than the local models. Indeed, the federated model produces reasonable correctness (about 88%) compared to the local models (about 50%).
 
-{{< figure src="fig_6.png" caption="Accuracy en fonction du nombre de clients, jusqu'à 20 clients" numbered="true" >}}
+{{< figure src="fig_6.png" caption="Accuracy as a function of the number of clients, up to 20 clients" numbered="true" >}}
 
-Avec la figure 6, il est possible de voir plus en détail l’impacte du nombre de clients, jusqu’à 20
-clients. On observe que le modèle fédéré semble en moyenne être un bon compromis entre le
-modèle centralisé et les modèles locaux.
+With figure 6, it is possible to see in more detail the impact of the number of clients, up to 20 clients. We observe that the federated model seems on average to be a good compromise between the centralized model and the local models.
 
-{{< figure src="fig_7.png" caption="Accuracy en fonction du nombre de données par client, pour 2 clients" numbered="true" >}}
+{{< figure src="fig_7.png" caption="Accuracy as a function of the number of data per client, for 2 clients" numbered="true" >}}
 
-La figure 7 présente l’évolution de la justesse selon le nombre de données dans le premier client
-(en pourcentage). La répartition des données ne semble pas avoir d’impact significatif sur les
-performances du modèle.
+Figure 7 shows the change in accuracy by number of data in the first client (in percent). The distribution of data does not seem to have a significant impact on the performance of the model.
 
-## Travaux futurs et conclusion
+## Future work and conclusion
 
-La solution permet actuellement d’avoir une hétérogénéité seulement quand deux clients sont
-utilisés. Il faudrait donc ajouter la possibilité d’avoir de l’hétérogénéité à plus de deux clients pour
-simuler une situation réelle d’apprentissage fédéré. Il serait aussi intéressant d’analyser les
-performances du modèle avec des vrais des données provenant de milieux différents à la place
-de données centralisées qui sont séparées artificiellement. Le _framework_ permet seulement
-d’entrainer des forêts aléatoires pour l’instant et il faudrait rajouter d’autres modèles pour avoir
-une solution complète.
+The solution currently allows heterogeneity only when two clients are used. It would therefore be necessary to add the possibility of having heterogeneity at more than two clients to simulate a real situation of federated learning. It would also be interesting to analyze the performance of the model with real data from different environments instead of centralized data that are artificially separated. The _framework_ can only train random forests for the moment and other models would have to be added to have a complete solution.
 
-En résumé, nous avons conçu un framework d’apprentissage fédéré ainsi qu’un algorithme fédéré
-de _random forest_ basé sur (1) et (2). Nous avons ensuite analysé l’impact de différentes variations
-sur les performances du modèle (hétérogénéité et nombre de clients). Il a été possible d’observer
-que le modèle _random forest_ distribué performait généralement mieux que les modèles locaux,
-peu importe les variations effectuées.
+In summary, we have designed a federated learning framework and a federated _random forest_ algorithm based on (1) and (2). We then analyzed the impact of different variations on the performance of the model (heterogeneity and number of clients). It was possible to observe that the distributed _random forest_ model generally performed better than the local models,
+regardless of the variations made.
 
-## Bibliographie
+## Bibliography
 
 (1) Songfeng Liu, Jianyan Wang, Wenliang Zhang, « Federated personalized random forest
-for human activity recognition », AIMS Press, 22 novembre 2021,
+for human activity recognition », AIMS Press, November 22, 2021,
 <https://www.aimspress.com/article/doi/10.3934/mbe.2022044?viewType=HTML>
 
 (2) Yang Liu, Mingxim Chen, Wenxi Zhang, Junbo Zhang, Yu Zheng, « Federated Extra-Trees
-With Privacy Preserving », Arxiv, 18 Février 2020, <https://arxiv.org/abs/2002.07323>
+With Privacy Preserving », Arxiv, February 18, 2020, <https://arxiv.org/abs/2002.07323>

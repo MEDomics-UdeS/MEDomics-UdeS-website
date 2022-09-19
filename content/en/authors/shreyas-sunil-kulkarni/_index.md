@@ -6,7 +6,7 @@ title: Shreyas Sunil Kulkarni
 superuser: false
 
 # Role/position
-role: Ancien auxiliaire de recherche
+role: Former research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,10 @@ interests:
 
 education:
   courses:
-    - course: M. Sc. Mathématiques
+    - course: M. Sc. Mathematics
       institution: Birla Institute of Technology and Science, Pilani, Inde
       year: 2016-2021
-    - course: B. Ing. Informatique
+    - course: B. Eng. Computer science
       institution: Birla Institute of Technology and Science, Pilani, Inde
       year: 2016-2021
 
@@ -59,9 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2021)
+  - Former Members (2021)
 ---
 
-Shreyas Sunil Kulkarni a été auxiliaire de recherche dans le laboratoire MEDomics UdeS entre juin 2020 et juillet 2021.
-Il a travaillé sur la détection de fusibles et symboles sur des schémas électriques dans le cadre du projet
-EnergAI.
+Shreyas Sunil Kulkarni was a research assistant in the MEDomics UdeS lab between June 2020 and July 2021. He worked 
+on fuse and symbol detection on electrical schematics in the EnergAI project.

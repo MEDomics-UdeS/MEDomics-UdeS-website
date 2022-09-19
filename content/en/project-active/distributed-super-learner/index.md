@@ -1,5 +1,5 @@
 ---
-title: "Projet : Super-apprenant distribué"
+title: "Project: Distributed super-learner"
 
 type: book
 
@@ -8,35 +8,35 @@ authors:
   - Martin Vallières
 ---
 
-## État
+## Status
 
-En cours (2021-aujourd'hui)
+In progress (2021-today)
 
 ## Type
 
-Doctorat
+Doctorate
 
-## Équipe
+## Team
 
-- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (2021-aujourd'hui)
-- [Félix Camirand Lemyre](https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/felix-camirand-lemyre)<sup>2</sup> (2021-aujourd'hui)
-- [Jean-François Éthier](https://www.usherbrooke.ca/recherche/specialistes/details/jean-francois.ethier)<sup>3</sup> (2021-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-aujourd'hui)
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (2021-today)
+- [Félix Camirand Lemyre](https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/felix-camirand-lemyre)<sup>2</sup> (2021-today)
+- [Jean-François Éthier](https://www.usherbrooke.ca/recherche/specialistes/details/jean-francois.ethier)<sup>3</sup> (2021-today)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-today)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-<sup>2</sup> Départment de mathématiques, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>2</sup> Mathematics department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-<sup>3</sup> Département de médecine, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>3</sup> Medicine department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-## Résumé
+## Summary
 
-- Construction d'arbres d'identification de patients
-- Découverte de problèmes avec les corrections de débalancement de classes
+- Construction of patient identification trees
+- Discovering problems with class misalignment corrections
 
-## Objectifs
+## Objectives
 
-- Identification de profils « aberrants »
-- Identification de profils plus performants
-- Comparaison de profils types entre différentes bases de données
-- Investigation des mesures de correction sur notre algorithme (tendances globales vs sur les patients)
+- Identification of "outlier" profiles
+- Identification of better performing profiles
+- Comparison of typical profiles between different databases
+- Investigation of correction measures on our algorithm (global vs. patient trends)

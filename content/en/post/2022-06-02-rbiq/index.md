@@ -1,5 +1,5 @@
 ---
-title: "Nouvelle : Participation à la journée scientifique du RBIQ 2022"
+title: "News: Participation in the RBIQ 2022 Scientific Day"
 date: 2022-06-02
 image:
   focal_point: 'top'
@@ -8,8 +8,8 @@ authors:
   - Simon Giard-Leroux
 ---
 
-Félicitations à [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) pour sa présentation
-intitulée « *Un outil conforme aux standards internationaux pour l'extraction de caractéristiques radiomiques d'images médicales* » 
-à la journée scientifique du RBIQ 2022!
+Congratulations to [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) for his presentation 
+titled "*An International Standards Compliant Tool for Radiomic Feature Extraction from Medical Images*" at the RBIQ 
+2022 Science Day!
 
-Plus de détails [ici]({{< relref "/publication/medomicslab-rbiq-2022" >}}).
+More details [here]({{< relref "/publication/medomicslab-rbiq-2022" >}}).

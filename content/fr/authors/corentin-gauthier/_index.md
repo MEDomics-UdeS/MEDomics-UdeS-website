@@ -6,7 +6,7 @@ title: Corentin Gauthier
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Ancien stagiaire
 
 # Organizations/Affiliations
 organizations:

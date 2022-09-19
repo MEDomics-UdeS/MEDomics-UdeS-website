@@ -1,5 +1,5 @@
 ---
-title: Projets complétés
+title: Completed projects
 headless: false
 
 widget: blank
@@ -15,10 +15,10 @@ banner:
   image: ''
 ---
 
-### Maîtrise
+### Master's
 
-- [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-2022)]({{< relref "energAI" >}})
+- [Development of artificial intelligence techniques for the automated identification of electrical energy assets (2020-2022)]({{< relref "energAI" >}})
 
-### Baccalauréat
+### Bachelor's
 
-- [Forêts aléatoires dans un contexte d'apprentissage distribué (2022)]({{< relref "distributed-random-forests" >}})
+- [Random forests in a distributed learning context (2022)]({{< relref "distributed-random-forests" >}})

@@ -6,7 +6,7 @@ title: Julien Corriveau-Trudel
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ bio:
 
 
 interests:
-  - Statistiques
+  - Statistics
 
 education:
   courses:
-    - course: M. Sc. Statistiques
+    - course: M. Sc. Statistics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2021-2023
-    - course: B. Sc. Mathématiques
+    - course: B. Sc. Mathematics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2020
 
@@ -55,8 +55,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2020)
+  - Former Members (2020)
 ---
 
-Julien Corriveau-Trudel a complété son stage dans le laboratoire MEDomics UdeS à l'été 2020. Il a travaillé sur une
-revue de littérature concernant l'apprentissage machine distribué/fédéré.
+Julien Corriveau-Trudel completed his internship in the MEDomics UdeS lab in the summer of 2020. He worked on a 
+literature review on distributed/federated machine learning.

@@ -6,7 +6,7 @@ title: Corentin Gauthier
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-    - course: B. Ing. Systèmes embarqués, Technologies de l'information
+    - course: B. Eng. Embedded systems, information technology
       institution: École centrale de Nantes, Nantes, France
       year: 2021-2024
 
@@ -54,8 +54,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2022)
+  - Former Members (2022)
 ---
 
-Corentin Gauthier a complété un stage dans le laboratoire MEDomics UdeS à la session d'été 2022. Il a travaillé
-sur l'amélioration des fonctionnalités UI/UX de la plateforme MEDomicsLab.
+Corentin Gauthier completed an internship in the MEDomics UdeS lab in the summer session of 2022. He worked on 
+improving the UI/UX features of the MEDomicsLab platform.

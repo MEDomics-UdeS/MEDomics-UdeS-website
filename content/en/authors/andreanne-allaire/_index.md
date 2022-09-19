@@ -6,7 +6,7 @@ title: Andréanne Allaire
 superuser: false
 
 # Role/position
-role: Étudiante (M. Sc. Informatique, imagerie)
+role: Student (M. Sc. Computer science, imaging)
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,15 @@ bio:
 
 
 interests:
-  - Physique médicale
-  - Imagerie par résonance magnétique
+  - Medical physics
+  - Magnetic resonance imaging
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2024
-    - course: B. Sc. Physique
+    - course: B. Sc. Physics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2021
 
@@ -59,8 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Andréanne Allaire est étudiante à la maîtrise en informatique depuis 2022 et se consacre à l'exploitation des 
-caractéristiques radiomiques en imagerie par résonance magnétique.
+Andréanne Allaire is a Master's student in Computer Science since 2022 and is dedicated to the exploitation of 
+radiomic features in magnetic resonance imaging.

@@ -1,11 +1,11 @@
 ---
 widget: blank
 headless: false
-title: Thèmes
+title: Themes
 weight: 9
 design:
   columns: "1"  
 
 ---
 
-![Thèmes](themes.png)
+![Themes](themes.png)

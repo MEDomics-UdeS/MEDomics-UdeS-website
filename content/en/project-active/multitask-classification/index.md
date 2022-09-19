@@ -1,5 +1,5 @@
 ---
-title: "Projet : Apprentissage multi-tâches pour la classification d'images de tumeurs rénales"
+title: "Project: Multi-task learning for image classification of renal tumors"
 
 type: book
 
@@ -8,37 +8,36 @@ authors:
   - Martin Vallières
 ---
 
-## État
+## Status
 
-En cours (2020-aujourd'hui)
+In progress (2020-today)
 
 ## Type
 
-Maîtrise
+Master's
 
-## Équipe
+## Team
 
-- [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})<sup>1</sup> (2020-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
+- [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})<sup>1</sup> (2020-today)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-today)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-## Données
+## Data
 
-Pour ce projet, des données de 1 082 patients provenant de 5 institutions comportant des données cliniques telles
-que l'âge, le sexe et la taille de la tumeur, ainsi que des images d'IRM 3D (T1, T2) avec la région d'intérêt des
-tumeurs sont utilisées.
+For this project, data from 1,082 patients from 5 institutions with clinical data such as age, sex and tumor size, 
+as well as 3D MRI images (T1, T2) with the region of interest of the tumors are used.
 
 ## Classification
 
-À partir des données énoncées précédemment, l'objectif est de développer un modèle multi-tâches permettant d'effectuer
-trois tâches de classification binaire, soient : 
-- Classification de la malignité (399 bénignes, 683 malignes)
-- Classification du sous-type (seulement pour les tumeurs malignes) (158 papillaire, 441 cellules claires)
-- Classification du grade (seulement pour les tumeurs malignes) (391 grade faible, 202 grade élevé)
+From the previously stated data, the goal is to develop a multi-task model to perform three binary classification 
+tasks, which are: 
+- Malignancy classification (399 benign, 683 malignant)
+- Subtype classification (only for malignant tumors) (158 papillary, 441 clear cell)
+- Grade classification (only for malignant tumors) (391 low grade, 202 high grade)
 
-## Objectifs
+## Objectives
 
-- Développer un système de support à la décision intégré pour les trois tâches de classification
-- Évaluer l'efficacité de l'apprentissage multi-tâches dans le contexte de l'imagerie médicale et de la classification de tumeurs
-- Établir le bénéfice des radiomiques comme tâches auxiliaires dans le contexte de l'apprentissage multi-tâches
+- Develop an integrated decision support system for the three classification tasks
+- Evaluate the effectiveness of multi-task learning in the context of medical imaging and tumor classification
+- Establish the benefit of radiomics as an auxiliary task in the context of multi-task learning

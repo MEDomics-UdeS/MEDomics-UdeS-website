@@ -37,7 +37,7 @@ Maîtrise
 
 <sup>2</sup> Birla Institute of Technology and Science, Pilani, Inde
 
-<sup>3</sup> Département de génie électrique et informatique, Université McGill (QC), Canada
+<sup>3</sup> Département de génie électrique et informatique, Université McGill, Montréal (QC), Canada
 
 ## Note
 

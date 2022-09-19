@@ -6,7 +6,7 @@ title: Guillaume Blain
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-    - course: B. Ing. Génie robotique
+    - course: B. Eng. Robotic engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2020-2024
 
@@ -52,9 +52,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche
+  - Research Assistants
 ---
 
-Guillaume Blain a complété son stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a travaillé sur la 
-plateforme MEDomicsLab en y développant des modules UI/UX. Il a conservé son lien avec le laboratoire en étant 
-auxiliaire de recherche à temps partiel durant l'automne 2022.
+Guillaume Blain completed his internship in the MEDomics UdeS laboratory in the summer of 2022. He worked on the 
+MEDomicsLab platform developing UI/UX modules. He kept his link with the lab by being a part-time research assistant 
+during the fall of 2022.

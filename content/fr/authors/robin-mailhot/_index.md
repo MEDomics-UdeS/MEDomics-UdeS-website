@@ -18,7 +18,7 @@ bio:
 
 
 interests:
-  - X
+  - Robotique
 
 education:
   courses:

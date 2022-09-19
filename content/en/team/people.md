@@ -16,15 +16,15 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Directeur
-    - Étudiants et étudiantes (Ph. D.)
-    - Étudiants et étudiantes (M. Sc.)
-    - Professionnels de recherche
-    - Auxiliaires de recherche
-    - Stagiaires
-    - Anciens membres (2022)
-    - Anciens membres (2021)
-    - Anciens membres (2020)
+    - Director
+    - Students (Ph. D.)
+    - Students (M. Sc.)
+    - Research Professionals
+    - Research Assistants
+    - Interns
+    - Former Members (2022)
+    - Former Members (2021)
+    - Former Members (2020)
 design:
   show_interests: false
   show_role: true

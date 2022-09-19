@@ -10,16 +10,16 @@ design:
 
 cta:
   url: https://www.medomics.ai/
-  label: Consultez le site de MEDomics
+  label: Visit the MEDomics website
   icon_pack: far
   icon: at
 
 cta_alt:
   url: https://www.nature.com/articles/s43018-021-00236-2
-  label: Publication principale du consortium
+  label: Main publication of the consortium
 ---
 <br>
 
-Ce laboratoire est une sous-branche du consortium MEDomics.
+This laboratory is a sub-branch of the MEDomics consortium.
 
 <br>

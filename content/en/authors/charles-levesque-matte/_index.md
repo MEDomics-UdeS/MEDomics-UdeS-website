@@ -6,7 +6,7 @@ title: Charles Lévesque-Matte
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-    - course: B. Ing. Génie informatique
+    - course: B. Eng. Computer engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2019-2023
 
@@ -53,10 +53,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2020)
+  - Former Members (2020)
 ---
 
-Charles Lévesque-Matte a complété son stage dans le laboratoire MEDomics UdeS à l'été 2020. Il a travaillé sur la 
-plateforme MEDomicsLab en y développant des modules de machine learning, en faisant de la traduction de Matlab vers
-Python et en y ajoutant un module JSON. Il a conservé son lien avec le laboratoire en étant auxiliaire de recherche
-à temps partiel durant l'automne 2020.
+Charles Lévesque-Matte completed his internship in the MEDomics UdeS lab in the summer of 2020. He worked on the 
+MEDomicsLab platform developing machine learning modules, translating from Matlab to Python and adding a JSON module. 
+He maintained his connection to the lab by being a part-time research assistant during Fall 2020.

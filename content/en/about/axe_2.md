@@ -11,8 +11,8 @@ design:
 
 ---
 
-## **Axe de recherche 2 : Données hétérogènes**
+## **Research Area 2: Heterogeneous Data**
 
-- Les données de différentes sources peuvent être combinées pour effectuer de meilleures prédictions
+- Data from different sources can be combined to make better predictions
 
-- Par exemple, l'imagerie médicale, les notes textuelles de médecins et les données cliniques regorgent d'informations pertinentes
+- For example, medical imaging, physician text notes and clinical data are full of relevant information

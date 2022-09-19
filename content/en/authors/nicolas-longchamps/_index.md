@@ -6,7 +6,7 @@ title: Nicolas Longchamps
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - X
+  - Robotics
 
 education:
   courses:
-    - course: X
+    - course: B. Eng. Robotic engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,8 +53,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche
+  - Research Assistants
 ---
 
-Nicolas Longchamps a complété un stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a conservé son lien avec 
-le laboratoire en étant auxiliaire de recherche à temps partiel durant l'automne 2022.
+Nicolas Longchamps completed an internship in the MEDomics UdeS lab in the summer of 2022. He maintained his 
+connection with the lab by being a part-time research assistant during the fall of 2022.

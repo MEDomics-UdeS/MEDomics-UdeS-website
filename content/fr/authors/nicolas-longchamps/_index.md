@@ -18,16 +18,13 @@ bio:
 
 
 interests:
-  - X
+  - Robotique
 
 education:
   courses:
-    - course: X
+    - course: B. Ing. Génie robotique
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
-    - course: X
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: X
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

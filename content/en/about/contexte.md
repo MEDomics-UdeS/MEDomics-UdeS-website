@@ -2,36 +2,30 @@
 widget: blank
 headless: true
 weight: 10
-title: Contexte
+title: Context
 design:
   columns: "1"
 
 ---
 
-Avec les progrès de la médecine moderne, un grand nombre de rencontres médicales (visites médicales, examens, 
-médicaments, imagerie, tests moléculaires, etc.) ont lieu dans notre système de santé. En fait, la quantité de 
-nouvelles données de santé mondiales générées en 2020 devrait avoir atteint 2 314 exaoctets. La plupart des 
-contenus des dossiers médicaux électroniques (DME) de nos hôpitaux sont enregistrés via des tableaux de données 
-éparses avec une forte probabilité de valeurs manquantes. Les DME possèdent néanmoins une grande quantité de données 
-hétérogènes provenant de différentes sources, dont la plupart ne sont souvent pas exploitées de manière optimale 
-pour caractériser et prédire le comportement des maladies. Par exemple, l'imagerie médicale (i.e. l'imagerie 
-par résonance magnétique, IRM) serait une source immense de données potentielles pour décoder les phénotypes de 
-cancer. 
+With the advancement of modern medicine, a large number of medical encounters (doctor visits, exams, medications, 
+imaging, molecular tests, etc.) take place in our healthcare system. In fact, the amount of new global health data 
+generated in 2020 is expected to have reached 2,314 exabytes. Most of the content in our hospitals' electronic health 
+records (EHRs) is recorded via sparse data tables with a high probability of missing values. Nevertheless, EMRs have a 
+large amount of heterogeneous data from different sources, most of which is often not optimally exploited to 
+characterize and predict disease behavior. For example, medical imaging (i.e. magnetic resonance imaging, MRI) would 
+be a huge source of potential data to decode cancer phenotypes. 
 
-D'autre part, les médecins décrivent et écrivent également les caractéristiques importantes des patients 
-et les symptômes liés à la maladie pour presque chaque consultation médicale par le biais de notes médicales 
-textuelles en forme libre. Ces dernières années, les progrès significatifs de la technologie multi-omique (par 
-exemple, génomique, transcriptomique, etc.) ont également créé des opportunités sans précédent pour caractériser les 
-processus biologiques corrélés aux maladies. Cependant, la combinaison de ces _sources de données hétérogènes_ de 
-manière significative pour la prédiction des maladies est un défi. 
+On the other hand, physicians also describe and write down important patient characteristics and disease-related 
+symptoms for almost every medical encounter through free-form medical notes. In recent years, significant advances 
+in multi-omics technology (e.g., genomics, transcriptomics, etc.) have also created unprecedented opportunities to 
+characterize biological processes correlated with disease. However, combining these _heterogeneous data sources_ in a 
+meaningful way for disease prediction is challenging. 
 
-Pour une meilleure médecine de précision, les médecins doivent donc désormais prendre des décisions thérapeutiques de 
-plus en plus complexes avec un nombre 
-irréaliste de variables. C'est pourquoi les développements de l'intelligence artificielle (IA) sont envisagés pour 
-créer une révolution de la science des données en médecine. En particulier, les _réseaux de neurones graphiques (GNN)_ 
-ont montré un immense potentiel dans l'apprentissage de représentations de données significatives et puissantes 
-en combinant l'inférence relationnelle des modèles graphiques avec la puissance de l'apprentissage profond. 
-Cependant, étant donné que la puissance de l'apprentissage profond est fortement associée à la taille des données et 
-que les données médicales ne peuvent pas être facilement partagées entre les institutions médicales pour des raisons 
-de confidentialité des patients, le développement de modèles de GNN puissants pour la prédiction des maladies dans le 
-domaine de la santé est un défi majeur. 
+Therefore, for better precision medicine, physicians must now make increasingly complex therapeutic decisions with an 
+unrealistic number of variables. Therefore, developments in artificial intelligence (AI) are envisioned to create a 
+data science revolution in medicine. In particular, _graphical neural networks (GNNs)_ have shown immense potential in 
+learning meaningful and powerful data representations by combining the relational inference of graphical models with 
+the power of deep learning. However, since the power of deep learning is strongly associated with data size and 
+medical data cannot be easily shared among medical institutions due to patient privacy concerns, developing powerful 
+GNN models for disease prediction in healthcare is a major challenge. 

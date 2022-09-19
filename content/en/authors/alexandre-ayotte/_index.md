@@ -6,7 +6,7 @@ title: Alexandre Ayotte
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Student (M. Sc. Computer science, imaging)
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,15 @@ bio:
 
 
 interests:
-  - Classification de tumeurs rénales
-  - Apprentissage multi-tâches
+  - Classification of renal tumors
+  - Multi-task learning
 
 education:
   courses:
-    - course: M. Sc. Informatique (cheminement en imagerie et médias numériques)
+    - course: M. Sc. Computer science (imaging and digital media)
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2020-2022
-    - course: B. Sc. Mathématiques (cheminement en statistique)
+    - course: B. Sc. Mathematics (statistics)
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2016-2019
 
@@ -59,8 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Alexandre Ayotte est étudiant à la maîtrise en informatique depuis l'hiver 2020 et se consacre à 
-l'apprentissage multi-tâches et à la classification d'images de tumeurs rénales.
+Alexandre Ayotte is a master's student in computer science since winter 2020 and focuses on multi-task learning and 
+image classification of kidney tumors.

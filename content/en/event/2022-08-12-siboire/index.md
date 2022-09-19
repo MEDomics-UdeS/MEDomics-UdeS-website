@@ -1,5 +1,5 @@
 ---
-title: "Événement : Souper de départ en l'honneur de Clarisse!"
+title: "Event: Departure dinner in Clarisse's honor!"
 
 event: 
 event_url: 
@@ -55,10 +55,10 @@ featured: false
 # projects:
 ---
 
-Plusieurs membres du laboratoire se sont réunis au Siboire le 12 août en l'honneur de la fin du stage de 
-[Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}}) qui est venue passer son été au Québec en notre compagnie.
+Several members of the laboratory met at the Siboire on August 12 in honor of the end of the internship of 
+[Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}}) who came to spend her summer in Quebec with us.
 
-Bon retour en France chère Clarisse!
+We wish you a safe trip back to France, dear Clarisse!
 
 <div style="text-align: center;">
   {{< gallery album="2022-08-12-siboire" >}}

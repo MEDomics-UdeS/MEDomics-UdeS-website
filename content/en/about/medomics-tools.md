@@ -11,13 +11,13 @@ design:
 
 cta:
   url: https://github.com/MEDomics-UdeS/MEDomicsTools
-  label: Consultez MEDomicsTools
+  label: Check out MEDomicsTools
   icon_pack: fas
   icon: code
 
 ---
 <br>
 
-Le laboratoire MEDomics UdeS vise à promouvoir l'utilisation de bonnes pratiques en science des données.
+The MEDomics UdeS lab aims to promote the use of best practices in data science.
 
 <br>

@@ -1,5 +1,5 @@
 ---
-title: "Projet : Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique"
+title: "Project: Development of artificial intelligence techniques for the automated identification of electrical energy assets"
 
 type: book
 
@@ -12,16 +12,16 @@ authors:
   - Martin Vallières
 ---
 
-![Exemples de détection de fusibles](fuses.png "Exemples de détection de fusibles")
-![Exemples de détection de symboles](drawings.png "Exemples de détection de symboles")
+![Examples of fuse detection](fuses.png "Examples of fuse detection")
+![Examples of symbols detection](drawings.png "Examples of symbols detection")
 
-## État
+## Status
 
-Terminé (2020-2022)
+Completed (2020-2022)
 
 ## Type
 
-Maîtrise
+Master's
 
 ## Équipe
 
@@ -33,35 +33,33 @@ Maîtrise
 - [François Bouffard](https://www.mcgill.ca/ece/francois-bouffard)<sup>3</sup> (2020-2022)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-2022)
 
-<sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 <sup>2</sup> Birla Institute of Technology and Science, Pilani, Inde
 
-<sup>3</sup> Département de génie électrique et informatique, Université McGill (QC), Canada
+<sup>3</sup> Electrical and computer engineering department, McGill University, Montreal (QC), Canada
 
 ## Note
 
-Ce projet n'est pas relié au domaine de l'informatique médicale, mais il implique des principes de détection 
-d'objets qui seront appliqués à l'imagerie médicale dans le futur.
+This project is not related to the field of medical informatics, but it involves object detection principles that will 
+be applied to medical imaging in the future.
 
-## Objectif
+## Objective
 
-L’ingénierie électrique classique repose toujours sur des méthodes de travail basées sur l'analyse manuelle de 
-photos et de plans, qui peuvent être lentes et sujettes à l’erreur humaine. Nous souhaitons appliquer les 
-nouvelles technologies d'intelligence artificielle (IA) et d'apprentissage machine au domaine de l’ingénierie 
-électrique classique afin de faciliter l'interprétation des plans et des photos d'équipements électriques. 
-Par la suite, l'interprétation de ces informations permettrait de construire des modèles de calcul pour accélérer 
-le travail manuel requis lors de la réalisation des études de court-circuit et d'arc électrique, tout en 
-réduisant le risque d'erreur humaine.
+Conventional electrical engineering still relies on working methods based on manual analysis of photos and drawings, 
+which can be slow and prone to human error. We want to apply new artificial intelligence (AI) and machine learning 
+technologies to the field of classical electrical engineering to facilitate the interpretation of drawings and 
+photos of electrical equipment. Subsequently, the interpretation of this information would allow the construction 
+of computational models to accelerate the manual work required to perform short-circuit and arc studies, while 
+reducing the risk of human error.
 
-Le premier objectif de ce projet sera de détecter le type de fusibles électriques sur des photos prises par des 
-ingénieurs électriques lors de relevés de site dans des lieux tels que des bâtiments industriels. À cet effet, 
-des photos de fusibles électriques collectées lors de précédents projets réalisés par la firme d’ingénierie CIMA+
-et des photos provenant du Web (Google Images) seront utilisées pour former des algorithmes de détection d'objets. 
-Le deuxième objectif de ce projet sera de détecter les symboles des équipements sur les plans électriques, détecter 
-le texte descriptif lié à chaque symbole, détecter les liens entre les symboles et automatiser la création de 
-modèles qui peuvent être importés dans un logiciel de calcul.
+The first objective of this project will be to detect the type of electrical fuses in photos taken by electrical 
+engineers during site surveys in places such as industrial buildings. To this end, photos of electrical fuses 
+collected during previous projects conducted by the engineering firm CIMA+ and photos from the Web (Google Images) 
+will be used to train object detection algorithms. The second objective of this project will be to detect equipment 
+symbols on electrical drawings, detect the descriptive text linked to each symbol, detect the links between symbols 
+and automate the creation of models that can be imported into a calculation software.
 
-Cette automatisation apportera une plus grande précision et réduira le temps nécessaire pour interpréter les relevés 
-des installations électriques, augmentant ainsi l’efficacité du travail de l’ingénieur électrique et la sécurité 
-du public concernant les installations électriques.
+This automation will provide greater accuracy and reduce the time required to interpret electrical installation 
+surveys, thereby increasing the efficiency of the electrical engineer's work and the safety of the public regarding 
+electrical installations.

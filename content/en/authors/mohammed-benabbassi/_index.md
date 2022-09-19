@@ -6,7 +6,7 @@ title: Mohammed Benabbassi
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-    - course: B. Sc. Informatique
+    - course: B. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2021-2024
 
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche
+  - Research Assistants
 ---
 
-Mohammed Benabbassi est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis 2022.
+Mohammed Benabbassi is a research assistant in the MEDomics UdeS laboratory since 2022.

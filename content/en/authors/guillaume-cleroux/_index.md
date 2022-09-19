@@ -6,7 +6,7 @@ title: Guillaume Cléroux
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-    - course: B. Sc. Informatique
+    - course: B. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2020-2023
 
@@ -52,9 +52,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2022)
+  - Former Members (2022)
 ---
 
-Guillaume a complété ses stages dans le laboratoire MEDomics UdeS à l'été 2021 et l'hiver 2022 dans le cadre du 
-projet EnergAI. Il a été en charge de développer un framework pour la détection d'objets et l'apprentissage actif.
-
+Guillaume completed his internships in the MEDomics UdeS lab in the summer of 2021 and winter of 2022 as part of the 
+EnergAI project. He was in charge of developing a framework for object detection and active learning.
