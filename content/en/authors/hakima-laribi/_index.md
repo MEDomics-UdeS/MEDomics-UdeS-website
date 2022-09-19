@@ -10,6 +10,8 @@ role: Student (Ph. D. Computer science)
 
 # Organizations/Affiliations
 organizations:
+  - name: Université de Sherbrooke
+    url: 'https://www.usherbrooke.ca/'
   - name: École nationale Supérieure d'Informatique
     url: 'https://www.esi.dz/'
 
