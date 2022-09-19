@@ -6,7 +6,7 @@ title: Mohammed Benabbassi
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:

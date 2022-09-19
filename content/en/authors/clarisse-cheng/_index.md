@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Former members (2022)
+  - Former Members (2022)
 ---
 
 Clarisse Cheng completed her internship in the MEDomics UdeS lab in the summer of 2022. She worked on the class 

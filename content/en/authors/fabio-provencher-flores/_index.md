@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Former members (2020)
+  - Former Members (2020)
 ---
 
 Fabio Provencher-Flores completed his internship in the MEDomics UdeS lab in summer 2020. He worked on a literature 

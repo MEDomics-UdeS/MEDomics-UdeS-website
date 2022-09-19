@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student (Ph. D.)
+  - Students (Ph. D.)
 ---
 
 Hakima Laribi is a PhD student in the MEDomics UdeS laboratory since 2022. She is working on a project to predict 

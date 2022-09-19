@@ -6,7 +6,7 @@ title: Martin Vallières
 superuser: true
 
 # Role/position
-role: Professeur adjoint, département d'informatique
+role: Assistant professor, computer science department
 
 # Organizations/Affiliations
 organizations:
