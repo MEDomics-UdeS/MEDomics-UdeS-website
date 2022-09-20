@@ -23,10 +23,10 @@ interests:
 education:
   courses:
     - course: M. Sc. Physics
-      institution: Université Laval, Québec, Canada
+      institution: Université Laval, Quebec City, Canada
       year: 2021-2023 
     - course: B. Eng. Physics engineering
-      institution: Université Laval, Québec, Canada
+      institution: Université Laval, Quebec City, Canada
       year: 2017-2021
 
 

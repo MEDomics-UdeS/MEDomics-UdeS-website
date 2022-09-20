@@ -22,9 +22,9 @@ Master's
 
 ## Team
 
-- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-aujourd'hui)
-- [Martin Lepage](https://www.usherbrooke.ca/recherche/specialistes/details/martin.lepage)<sup>2</sup> (2021-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-aujourd'hui)
+- [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-today)
+- [Martin Lepage](https://www.usherbrooke.ca/recherche/specialistes/details/martin.lepage)<sup>2</sup> (2021-today)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-today)
 
 <sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 

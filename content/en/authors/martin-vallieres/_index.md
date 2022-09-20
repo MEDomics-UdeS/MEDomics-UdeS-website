@@ -37,19 +37,19 @@ interests:
 education:
   courses:
     - course: Postdoctoral researcher
-      institution: McGill University, Montréal, Canada
+      institution: McGill University, Montreal, Canada
       year: 2018-2020
     - course: Postdoctoral researcher
-      institution: University of California San Francisco, San Francisco, États-Unis
+      institution: University of California San Francisco, San Francisco, USA
       year: 2018-2019
     - course: Postdoctoral researcher
       institution: INSERM UMR 1101, Brest, France
       year: 2017-2018
     - course: Ph. D. Medical physics
-      institution: McGill University, Montréal, Canada
+      institution: McGill University, Montreal, Canada
       year: 2017
     - course: M. Sc. Medical physics
-      institution: McGill University, Montréal, Canada
+      institution: McGill University, Montreal, Canada
       year: 2012
 
 # Social/Academic Networking

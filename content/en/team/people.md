@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Rencontrez l'équipe
+title: Meet the Team
 subtitle:
 
 content:

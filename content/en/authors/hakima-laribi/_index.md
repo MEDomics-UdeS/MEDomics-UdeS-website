@@ -29,7 +29,7 @@ education:
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2026
     - course: Engineering Diploma, M. Sc. Computer science
-      institution: École nationale Supérieure d'Informatique, Alger, Algérie
+      institution: École nationale Supérieure d'Informatique, Alger, Algeria
       year: 2017-2022
 
 # Social/Academic Networking
@@ -65,4 +65,4 @@ user_groups:
 ---
 
 Hakima Laribi is a PhD student in the MEDomics UdeS laboratory since 2022. She is working on a project to predict 
-mortality using various machine learning techniques.
+patient mortality using various machine learning techniques.

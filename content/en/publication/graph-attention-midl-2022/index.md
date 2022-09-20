@@ -1,5 +1,5 @@
 ---
-title: "Article: Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction"
+title: "Paper: Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction"
 date: 2022-04-22
 image:
   focal_point: 'top'

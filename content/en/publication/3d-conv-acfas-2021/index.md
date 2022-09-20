@@ -1,5 +1,5 @@
 ---
-title: "Presentation : 3D convolutional neural network as a decision support system for multiple renal tumor classification tasks"
+title: "Presentation: 3D convolutional neural network as a decision support system for multiple renal tumor classification tasks"
 date: 2021-05-05
 image:
   focal_point: 'top'

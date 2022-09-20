@@ -26,10 +26,10 @@ education:
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2019-2020
     - course: B. Eng. Computer engineering
-      institution: Ecole Nationale des Sciences Appliquées, Kénitra, Maroc
+      institution: Ecole Nationale des Sciences Appliquées, Kénitra, Morocco
       year: 2015-2018    
     - course: Licence Mathematics
-      institution: Université Abdelmalek Essaâdi, Tétouan, Maroc
+      institution: Université Abdelmalek Essaâdi, Tétouan, Morocco
       year: 2013-2015
 
 

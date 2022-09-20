@@ -22,9 +22,9 @@ Master's
 
 ## Team
 
-- [Maxence Larose]({{< relref "/authors/maxence-larose" >}})<sup>1,2,3</sup>
-- [Louis Archambault](https://www.crchudequebec.ulaval.ca/recherche/chercheurs/louis-archambault/)<sup>1,2</sup>
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>3</sup>
+- [Maxence Larose]({{< relref "/authors/maxence-larose" >}})<sup>1,2,3</sup>(2021-aujourd'hui)
+- [Louis Archambault](https://www.crchudequebec.ulaval.ca/recherche/chercheurs/louis-archambault/)<sup>1,2</sup>(2021-aujourd'hui)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>3</sup>(2021-aujourd'hui)
 
 <sup>1</sup> Physics, physics engineering and optics department, Université Laval, Québec (QC), Canada
 

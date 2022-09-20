@@ -29,7 +29,7 @@ education:
       institution: Université de Strasbourg, Strasbourg, France
       year: 2008-2011
     - course: Free Auditor, Mathematics and physics
-      institution: Université de Montréal, Montréal, Canada
+      institution: Université de Montréal, Montreal, Canada
       year: 2007-2008
 
 # Social/Academic Networking
