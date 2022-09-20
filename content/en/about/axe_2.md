@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 40
 title: ""
-hero_media: donnees-heterogenes-400x400.png
+hero_media: donnees-heterogenes-en-400x400.png
 design:
   columns: "2"
   css_style: null
