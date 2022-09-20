@@ -14,7 +14,7 @@ In progress (2022-today)
 
 ## Type
 
-Internship
+Doctorate
 
 ## Team
 

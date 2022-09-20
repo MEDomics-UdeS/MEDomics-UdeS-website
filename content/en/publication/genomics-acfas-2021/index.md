@@ -1,5 +1,5 @@
 ---
-title: "Présentation : Intégration de données génomiques dans la conception de modèles d'apprentissages en oncologie de précision"
+title: "Presentation: Integration of genomic data in the design of learning models in precision oncology"
 date: 2021-05-05
 image:
   focal_point: 'top'
@@ -16,28 +16,26 @@ authors:
 
 2021-05-05
 
-## Auteurs
+## Authors
 
 - [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})
 
-## Résumé 
+## Summary 
 
-La leucémie lymphoblastique aiguë (LLA) constitue près du tiers des cas de cancers pédiatriques enregistrés chaque 
-année au Canada. Bien que les traitements actuels permettent d’atteindre un taux de survie de 5 ans de 90%, nous 
-observons que plus de 65% des survivants développent des effets indésirables à long terme dont la dyslipidémie, 
-l’hypertension et l’ostéoporose. Ces effets contribuent à la dégradation de l’état de santé de ces patients et 
-peuvent même constituer un danger pour leurs vies. Notre projet consiste à mettre en place un modèle mathématique 
-permettant la prédiction de ces effets indésirables, rendant ainsi possible un suivi plus adapté et personnalisé 
-des survivants de la LLA. Plusieurs articles dans la littérature ont mis en lumière l’association entre certains 
-gènes et le développement d’effets indésirables tardifs. L’utilisation de données génomiques pourrait bonifier la 
-qualité des prédictions émises par notre modèle. Celui-ci consistera en un réseau de neurones graphique (GNN), une 
-architecture émergente dans le domaine de l’apprentissage machine. Il inclura des données génomiques et d’autres 
-biomarqueurs provenant de PETALE, une étude réalisée sur près de 250 survivants de la LLA dont l’objectif principale 
-était d’identifier et caractériser les facteurs prédisposants un survivant à développer des problèmes de santé. La 
-présentation a pour but de présenter l’intérêt des GNN pour l’intégration de données génomiques dans des modèles de 
-prédiction. 
+Acute lymphoblastic leukemia (ALL) accounts for nearly one-third of all pediatric cancers in Canada each year. 
+Although current treatments achieve a 5-year survival rate of 90%, we observe that more than 65% of survivors develop 
+long-term adverse effects including dyslipidemia, hypertension and osteoporosis. These effects contribute to the 
+deterioration of the health status of these patients and can even constitute a danger for their lives. Our project 
+consists in setting up a mathematical model allowing the prediction of these adverse effects, thus making possible a 
+more adapted and personalized follow-up of ALL survivors. Several articles in the literature have highlighted the 
+association between certain genes and the development of late adverse events. The use of genomic data could improve 
+the quality of the predictions made by our model. The model will consist of a graphical neural network (GNN), an 
+emerging architecture in the field of machine learning. It will include genomic data and other biomarkers from PETALE, 
+a study of nearly 250 ALL survivors whose main objective was to identify and characterize the factors predisposing a 
+survivor to develop health problems. The presentation aims at presenting the interest of GNN for the integration of 
+genomic data in predictive models. 
 
-## Liens
+## Links
 
-- [Détails sur l'événement](https://www.acfas.ca/evenements/congres/programme/88/600/614/c)
-- [Vidéo de la présentation](https://vimeo.com/542211700/4fa0c306c0)
+- [Event Details](https://www.acfas.ca/evenements/congres/programme/88/600/614/c)
+- [Presentation Video](https://vimeo.com/542211700/4fa0c306c0)

@@ -1,5 +1,5 @@
 ---
-title: "Présentation : Réseau de neurones à convolution 3D comme système d’aide à la décision pour de multiples tâches de classification de tumeurs rénales"
+title: "Presentation : 3D convolutional neural network as a decision support system for multiple renal tumor classification tasks"
 date: 2021-05-05
 image:
   focal_point: 'top'
@@ -17,23 +17,23 @@ authors:
 
 2021-05-05
 
-## Auteurs
+## Authors
 
 - [Alexandre Ayotte]({{< relref "/authors/alexandre-ayotte" >}})
 
-## Résumé 
+## Summary 
 
-**Objectif de la recherche :** Développer un outil interprétable pour la classifications automatique des lésions rénales à partir d’images IRM. La classification est effectuée selon la nature, malignité ou bénignité des tumeurs et selon leur sous-type et leur grade pour les tumeurs malignes.
+**Research objective:** To develop an interpretable tool for the automatic classification of renal lesions from MRI images. The classification is performed according to the nature, malignancy or benignity of the tumors and according to their subtype and grade for malignant tumors.
 
-**Problématique :** Les réseaux de type ResNet 2D sont connus pour obtenir de bons résultats dans ce type de classification. L’extension d’un réseau de neurone de type ResNet 2D à un réseau de type ResNet 3D peut-elle améliorer la précision des classifications?
+**Problem to tackle:** 2D ResNet networks are known to obtain good results in this type of classification. Can extending a 2D ResNet neural network to a 3D ResNet network improve the accuracy of classifications?
 
-**Méthodologie :** Un modèle de ResNet 3D a été conçu et ses performances comparées à celles d’un réseau ResNet 2D modifié et pré-entrainé publié en 2020 et à un SVM utilisant uniquement des données cliniques. Les images IRM de 1076 patients, provenant de 5 institutions, ont été utilisées pour entrainer (80%) et tester (20%) les deux réseaux ResNet. Pour le réseau 2D, les données cliniques ont également été utilisées comme entrées.
+**Methodology:** A 3D ResNet model was designed and its performance compared to a modified, pre-trained 2D ResNet published in 2020 and a SVM using only clinical data. MRI images of 1,076 patients, from 5 institutions, were used to train (80%) and test (20%) both ResNet networks. For the 2D network, clinical data were also used as inputs.
 
-**Résultats :** Le ResNet 3D obtient de meilleurs résultats dans 2 des 3 tâches. Sa précision est de 79,4%, 82,1% et 55,7% pour la classification de la malignité, du sous-type et du grade respectivement, contre 77,5%, 67,0% et 58,2% pour le modèle n’utilisant que les données cliniques et 77,3%, 76,8% et 66,5% pour le ResNet 2D.
+**Results:** The 3D ResNet performed better in 2 of the 3 tasks. Its accuracy was 79.4%, 82.1%, and 55.7% for malignancy, subtype, and grade classification, respectively, compared with 77.5%, 67.0%, and 58.2% for the model using only clinical data and 77.3%, 76.8%, and 66.5% for the 2D ResNet.
 
-**Discussion :** Malgré le fait que le ResNet 3D proposé ne soit pas pré-entraîné et n’utilise pas les données cliniques, ses performances sont prometteuses. Les données cliniques seront intégrées dans le futur.
+**Discussion:** Despite the fact that the proposed 3D ResNet is not pre-trained and does not use clinical data, its performance is promising. Clinical data will be incorporated in the future.
 
-## Liens
+## Links
 
-- [Détails sur l'événement](https://www.acfas.ca/evenements/congres/programme/88/600/614/c)
-- [Vidéo de la présentation](https://vimeo.com/542213504/c5040822fa)
+- [Event Details](https://www.acfas.ca/evenements/congres/programme/88/600/614/c)
+- [Presentation Video](https://vimeo.com/542213504/c5040822fa)

@@ -110,23 +110,21 @@ Class that represents a node of a decision tree.
 
 ## Flow of the algorithm
 
-1. Le _NetworkCreator_ répartit les données entre les _K_ clients présents dans le
-_ServerManager_.
-2. Le _Master_ appel la fonction train de sa _FederatedRandomForest_.
-3. La _FederatedRandomForest_ demande à un client la liste des _features_ présents dans son ensemble d’entrainement.
+1. The _NetworkCreator_ distributes the data among the _K_ clients in the _ServerManager_.
+2. The _Master_ calls the train function of his _FederatedRandomForest_.
+3. The _FederatedRandomForest_ asks a client for the list of _features_ present in its training set.
 4. The _FederatedRandomForest_ builds _n_ trees with clients:
 <ol type="a">
-  <li>La <i>FederatedRandomForest</i> sélectionne au hasard un certain nombre de <i>features</i>.</li>
-  <li>Elle envoie les <i>features</i> sélectionnés aux clients.</li>
-  <li>Les clients sélectionnent chacun une valeur située entre l’intervalle des valeurs
-  possibles pour chacun des <i>features</i> obtenus du master, c’est-à-dire une valeur située entre le minimum et le maximum inclusivement pour un <i>feature</i> donné. Ils renvoient ensuite ces valeurs au master <i>FederatedRandomForest</i>). Les clients séparent initialement leur ensemble d’entrainement en fonction des nœuds présents dans l’arbre actuellement en construction.</li> <li>La <i>FederatedRandomForest</i> choisit au hasard une valeur entre le minimum et le maximum des valeurs obtenus des clients pour chaque <i>feature</i>. Elle renvoie ensuite ces valeurs aux clients.</li>
-  <li>Les clients choisissent la valeur qui sépare le mieux leur ensemble d’entrainement (à l’aide de Gini) parmi les valeurs obtenues de <i>FederatedRandomForest</i>. Les clients séparent initialement leur ensemble d’entrainement en fonction des nœuds présents dans l’arbre actuellement en construction. Ils renvoient ensuite cette valeur à la <i>FederatedRandomForest</i> ainsi que le nombre de données dans leur ensemble d’entrainement.</li>
-  <li>La <i>FederatedRandomForest</i> fait un vote majoritaire pondéré par le nombre de données de chaque client. Elle crée un nœud avec l’attribut sélectionné et construit récursivement les arbres de gauche et de droite.</li>
-  <li>Les étapes <i>a</i> à <i>f</i> seront donc répétées jusqu’à ce qu’une certaine profondeur d’arbre soit atteinte ou que le nombre de données chez les clients est insuffisant pour continuer à faire des séparations.</li>
-  <li>Lorsque ces critères sont remplis, la <i>FederatedRandomForest</i> demande aux clients d’envoyer la classe majoritaire actuelle. La <i>FederatedRandomForest</i> effectue ensuite un vote majoritaire pondéré par le nombre de données totales dans l’ensemble d’entrainement du client pour construire la feuille de l’arbre.</li>
+  <li>The <i>FederatedRandomForest</i> randomly selects a number of <i>features</i>.</li>
+  <li>It sends the <i>features</i> selected to the clients.</li>
+  <li>Clients each select a value between the range of possible values for each of the <i>features</i> obtained from the master, i.e., a value between the minimum and maximum inclusive for a given <i>feature</i>. They then return these values to the <i>FederatedRandomForest</i> master. Clients initially separate their training set according to the nodes present in the tree currently under construction.</li> <li>The <i>FederatedRandomForest</i> randomly chooses a value between the minimum and maximum values obtained from the clients for each <i>feature</i>. It then returns these values to the clients.</li>
+  <li>Clients choose the value that best separates their training set (using Gini) from the values obtained from <i>FederatedRandomForest</i>. Clients initially separate their training set based on the nodes present in the tree currently under construction. They then return this value to <i>FederatedRandomForest</i> along with the number of data in their training set.</li>
+  <li>The <i>FederatedRandomForest</i> does a majority vote weighted by the number of data items for each client. It creates a node with the selected attribute and recursively builds the left and right trees.</li>
+  <li>Steps <i>a</i> to <i>f</i> will therefore be repeated until a certain tree depth is reached or the number of data at the clients is insufficient to continue making separations.</li>
+  <li>When these criteria are met, <i>FederatedRandomForest</i> asks clients to send the current majority class. <i>FederatedRandomForest</i> then performs a majority vote weighted by the number of total data in the client's training set to build the tree leaf.
 </ol>
 
-5. La FederatedRandomForest envoie la forêt construite aux clients.
+5. FederatedRandomForest sends the constructed forest to clients.
 
 ## Usage
 

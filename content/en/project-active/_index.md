@@ -25,6 +25,7 @@ banner:
 ### Doctorate
 
 - [Distributed super-learner]({{< relref "distributed-super-learner" >}})
+- [Prediction of patient mortality]({{< relref "patient-mortality-prediction" >}})
 
 ### Master's
 
@@ -34,10 +35,6 @@ banner:
 - [Optimization of radiomic characteristics]({{< relref "radiomics-optimization" >}})
 - [Prediction of VO2 max and obesity following diagnosis of acute lymphoblastic leukemia]({{< relref "vo2max-obesity" >}})
 - [Multi-task learning for image classification of renal tumors]({{< relref "multitask-classification" >}})
-
-### Internship
-
-- [Prediction of patient mortality]({{< relref "patient-mortality-prediction" >}})
 
 ## Available projects
 

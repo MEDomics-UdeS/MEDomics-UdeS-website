@@ -25,6 +25,7 @@ banner:
 ### Doctorat
 
 - [Super-apprenant distribué]({{< relref "distributed-super-learner" >}})
+- [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
 
 ### Maîtrise
 
@@ -34,10 +35,6 @@ banner:
 - [Optimisation des caractéristiques radiomiques]({{< relref "radiomics-optimization" >}})
 - [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë]({{< relref "vo2max-obesity" >}})
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
-
-### Stage
-
-- [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
 
 ## Projets disponibles
 

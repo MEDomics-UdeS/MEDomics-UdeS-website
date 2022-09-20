@@ -14,7 +14,7 @@ En cours (2022-aujourd'hui)
 
 ## Type
 
-Stage
+Doctorat
 
 ## Équipe
 

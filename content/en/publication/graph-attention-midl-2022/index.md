@@ -1,5 +1,5 @@
 ---
-title: "Article : Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction"
+title: "Article: Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction"
 date: 2022-04-22
 image:
   focal_point: 'top'
@@ -18,7 +18,7 @@ authors:
 
 2022-04-22
 
-## Auteurs
+## Authors
 
 - [Maxence Larose]({{< relref "/authors/maxence-larose" >}})<sup>1,2,3</sup>
 - Nawar Touma<sup>2</sup>
@@ -31,13 +31,13 @@ authors:
 - Frédéric Pouliot<sup>2</sup>
 - Louis Archambault<sup>1,2</sup>
 
-<sup>1</sup> Département de physique, génie physique et optique, Université Laval, Québec (QC), Canada
+<sup>1</sup> Physics, physics engineering and optics department, Université Laval, Québec (QC), Canada
 
 <sup>2</sup> CHU de Québec, Québec (QC), Canada
 
-<sup>3</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
+<sup>3</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-## Résumé
+## Abstract
 
 This work proposes the use of a graph attention network (GAT) model combining radiomics and clinical data to 
 improve the performance and interpretability of lymph node invasion (LNI) prediction in high-grade prostate 
@@ -50,7 +50,7 @@ random forest (RF) and support vector machine (SVM) classifiers. On the 30 patie
 respectively. Even though SVM achieved higher balanced accuracy than GAT, the predictions made by the latter are 
 more interpretable through the graph structure and attention mechanism.
 
-## Liens
+## Links
 
-- [Page de l'article](https://openreview.net/forum?id=zIpx-MISaIA)
-- [Article en version PDF](https://openreview.net/pdf?id=zIpx-MISaIA)
+- [Paper in journal](https://openreview.net/forum?id=zIpx-MISaIA)
+- [Paper in PDF version](https://openreview.net/pdf?id=zIpx-MISaIA)

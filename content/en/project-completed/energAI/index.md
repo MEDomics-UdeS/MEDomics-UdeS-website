@@ -23,7 +23,7 @@ Completed (2020-2022)
 
 Master's
 
-## Équipe
+## Team
 
 - [Simon Giard-Leroux]({{< relref "/authors/simon-giard-leroux" >}})<sup>1</sup> (2020-2022)
 - [Guillaume Cléroux]({{< relref "/authors/guillaume-cleroux" >}})<sup>1</sup> (summer 2021 and winter 2022)
