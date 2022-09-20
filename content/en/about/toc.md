@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: false
-title: Contenu
+title: Content
 weight: 8
 design:
   columns: "1"  
