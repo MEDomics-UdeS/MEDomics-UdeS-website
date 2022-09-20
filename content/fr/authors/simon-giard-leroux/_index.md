@@ -40,7 +40,7 @@ social:
     link: 'mailto:sgiardleroux@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/simon-giard-leroux-ing-954891ab/
+    link: www.linkedin.com/in/simon-giard-leroux
   - icon: github
     icon_pack: fab
     link: https://github.com/sgiardl
