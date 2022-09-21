@@ -6,23 +6,27 @@ title: Teodora Boblea Podasca
 superuser: false
 
 # Role/position
-role: Étudiante (M. Sc. Sciences médicales)
+role: Étudiante (M. Sc. Sciences de la santé)
 
 # Organizations/Affiliations
 organizations:
   - name: Université de Sherbrooke
     url: 'https://www.usherbrooke.ca/'
+  - name: Centre de recherche du CHUS - Axe Cancer
+    url: 'https://www.crchus.ca/accueil'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Cancer de la prostate
+  - Cancer du rein
+  - Radiomique
+  - Urologie
 
 education:
   courses:
-    - course: M. Sc. Sciences de la santé
+    - course: M. Sc. Sciences de la santé, type recherche
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2023
     - course: Medicinæ Doctor
@@ -55,4 +59,5 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Teodora Boblea Podasca est étudiante à la maîtrise en sciences de la santé depuis 2022.
+Teodora Boblea est étudiante à la maîtrise en sciences de la santé depuis l’automne 2022. Son projet consiste à 
+utiliser la radiomique pour prédire l’histologie (bénin vs malin) d’une petite masse rénale sur les CT scan. 

@@ -29,7 +29,7 @@ banner:
 
 ### Maîtrise
 
-- [Cancer de la prostate]({{< relref "prostate-cancer" >}})
+- [La radiomique pour la prise en charge des petites masses rénales]({{< relref "kidney-small-tumors" >}})
 - [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "mri-radiomics" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
 - [Optimisation des caractéristiques radiomiques]({{< relref "radiomics-optimization" >}})

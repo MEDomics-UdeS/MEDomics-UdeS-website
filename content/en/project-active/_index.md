@@ -29,7 +29,7 @@ banner:
 
 ### Master's
 
-- [Prostate cancer]({{< relref "prostate-cancer" >}})
+- [Radiomics for the management of small renal masses]({{< relref "kidney-small-tumors" >}})
 - [Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging]({{< relref "mri-radiomics" >}})
 - [Resilient predictive models based on quantitative imaging to guide prostate cancer treatment]({{< relref "prostate-models" >}})
 - [Optimization of radiomic characteristics]({{< relref "radiomics-optimization" >}})
