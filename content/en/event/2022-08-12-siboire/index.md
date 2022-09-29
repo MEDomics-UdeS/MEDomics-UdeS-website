@@ -60,6 +60,6 @@ Several members of the laboratory met at the Siboire on August 12 in honor of th
 
 We wish you a safe trip back to France, dear Clarisse!
 
-<div style="text-align: center;">
-  {{< gallery album="2022-08-12-siboire" >}}
-</div>
+#<div style="text-align: center;">
+#  {{< gallery album="2022-08-12-siboire" >}}
+#</div>
