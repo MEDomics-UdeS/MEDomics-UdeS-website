@@ -4,8 +4,8 @@ date: 2022-04-22
 image:
   focal_point: 'top'
 
-authors: []
-#  - Simon Giard-Leroux
+authors: 
+  - Maxence Larose
 ---
 
 Congratulations to [Maxence Larose]({{< relref "/authors/maxence-larose" >}}), 
