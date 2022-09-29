@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Maxence Larose
 ---
 
 Félicitations à [Maxence Larose]({{< relref "/authors/maxence-larose" >}}), 

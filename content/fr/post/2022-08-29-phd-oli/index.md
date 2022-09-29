@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Olivier Lefebvre
 ---
 
 Félicitations à [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) d'avoir soutenu avec succès
