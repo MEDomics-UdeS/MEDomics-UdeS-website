@@ -23,8 +23,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-08-10T00:00:00Z'
 
-authors: 
-  - Simon Giard-Leroux
+authors: []
+#  - Simon Giard-Leroux
 
 tags: []
 

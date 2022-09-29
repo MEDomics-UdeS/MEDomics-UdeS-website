@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Hakima Laribi
 ---
 
 Congratulations to [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}}) for officially receiving her Ph. D. study 
