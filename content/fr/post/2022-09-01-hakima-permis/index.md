@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Hakima Laribi
 ---
 
 Félicitations à [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}}) d'avoir reçu officiellement son permis 

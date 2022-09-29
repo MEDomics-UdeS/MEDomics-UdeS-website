@@ -23,8 +23,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-08-10T00:00:00Z'
 
-authors: 
-  - Simon Giard-Leroux
+authors: []
+#  - Simon Giard-Leroux
 
 tags: []
 
@@ -60,6 +60,3 @@ Several members of the laboratory met at the Siboire on August 12 in honor of th
 
 We wish you a safe trip back to France, dear Clarisse!
 
-<div style="text-align: center;">
-  {{< gallery album="2022-08-12-siboire" >}}
-</div>

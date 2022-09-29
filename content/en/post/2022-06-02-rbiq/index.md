@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Mahdi Ait Lhaj Loutfi
 ---
 
 Congratulations to [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) for his presentation 

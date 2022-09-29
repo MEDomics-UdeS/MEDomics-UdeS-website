@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 
 authors:
-  - Simon Giard-Leroux
+  - Olivier Lefebvre
 ---
 
 Congratulations to [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) for successfully defending his 
