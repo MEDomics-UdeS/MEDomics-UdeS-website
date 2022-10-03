@@ -14,7 +14,7 @@ banner:
 _**Note:** The publications presented here are those specific to the work of the **MEDomics UdeS** laboratory. The 
 list of publications, presentations and activities of [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 can be found in his [Google Scholar](https://scholar.google.ca/citations?user=fRkjFK4AAAAJ) and 
-[CV](https://www.dropbox.com/s/07o4ee2kegsyya8/CCV-MartinVallieres-Full_CV.pdf?dl=0)._
+[CV](https://www.dropbox.com/s/fpfv1ycalxgb0tm/CCV-MartinVallieres-Full_CV.pdf?dl=0)._
 
 ## Journal Papers
 
