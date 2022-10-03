@@ -16,7 +16,7 @@ La liste des publications, présentations et activités de
 [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})
 peut être trouvée dans son 
 [Google Scholar](https://scholar.google.ca/citations?user=fRkjFK4AAAAJ) et 
-[CV](https://www.dropbox.com/s/07o4ee2kegsyya8/CCV-MartinVallieres-Full_CV.pdf?dl=0)._
+[CV](https://www.dropbox.com/s/fpfv1ycalxgb0tm/CCV-MartinVallieres-Full_CV.pdf?dl=0)._
 
 ## Articles de journaux
 
