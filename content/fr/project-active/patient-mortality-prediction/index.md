@@ -36,4 +36,4 @@ Une discussion sur les objectifs de soins DOS est un processus de communication 
 **Résultats attendus :**
 
 - Améliorer la précision et la justesse de prédiction avec une solution basée sur des réseaux de neurones graphiques.
-- Post-analyse et interprétation des résultats obtenus.
+- Analyse a posteriori et interprétation des résultats obtenus.
