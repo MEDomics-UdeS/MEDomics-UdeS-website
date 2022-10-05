@@ -18,7 +18,11 @@ bio:
 
 
 interests:
+  - Apprentissage automatique
+  - Données multi-omiques
   - Réseaux de neurones graphiques
+  - Modèles à structures arborescentes (e.g., Forêt aléatoire, XGBoost)
+  - Optimisation d'hyperparamètres
 
 education:
   courses:
@@ -60,6 +64,8 @@ highlight_name: false
 user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
+  
+Nicolas Raymond est étudiant à la maîtrise en informatique depuis l’été 2020. Sa recherche se consacre 
+sur le développement de modèles d'apprentissage automatique pour le diagnostic et la prédiction des effets 
+secondaires tardifs associés au traitement de la leucémie aiguë lymphoblastique infantile.
 
-Nicolas Raymond est étudiant à la maîtrise en informatique depuis l'été 2020 et sa recherche se consacre à la
-prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë.
