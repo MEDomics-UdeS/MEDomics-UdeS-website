@@ -10,7 +10,7 @@ authors:
   - Martin Vallières
 ---
 
-![Présentation du projet](introduction_figure.pdf "")
+![Présentation du projet](introduction_figure.pdf "Présentation du projet")
 
 ## État
 
