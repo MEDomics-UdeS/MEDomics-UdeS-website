@@ -10,6 +10,8 @@ authors:
   - Martin Vallières
 ---
 
+![Project presentation](introduction_figure.png "")
+
 ## Status
 
 In progress (2020-today)

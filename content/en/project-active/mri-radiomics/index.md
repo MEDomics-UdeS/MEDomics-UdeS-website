@@ -8,6 +8,8 @@ authors:
   - Martin Vallières
 ---
 
+![Project presentation](image_website_AndreanneAllaire.svg "")
+
 ## Status
 
 In progress (2021-today)

@@ -1,5 +1,5 @@
 ---
-title: "Projet : Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë"
+title: "Projet : Développement de modèles d'apprentissage automatique pour le diagnostic et la prédiction des effets secondaires tardifs associés au traitement de la leucémie aiguë lymphoblastique infantile."
 
 type: book
 
@@ -9,6 +9,8 @@ authors:
   - Mehdi Mitiche
   - Martin Vallières
 ---
+
+![Présentation du projet](introduction_figure.png "")
 
 ## État
 
@@ -29,13 +31,11 @@ Maîtrise
 
 ## Description
 
-Dans un contexte de diagnostic de la leucémie lymphoblastique aiguë (LLA) à un certain temps t0, les patients sont pris
-en charge jusqu'à la fin du traitement à un certain temps ultérieur t1. Dans le futur, ces patients peuvent par la suite
-développer certains problèmes, tels que l'obésité, l'hypertension, des problèmes cardiorespiratoires ainsi que de
-l'ostéonécrose.
+La leucémie aiguë lymphoblastique (LAL) est le cancer le plus fréquemment diagnostiqué chez les enfants. 
+Bien que la majorité des personnes atteintes de la LAL infantile survivent, environ deux-tiers d'entre elles développent un ou plusieurs problèmes de santé tels que l'obésité, la dyslipidémie, l'ostéonécrose et l'hypertension lors de l'âge adulte. Le présent projet de recherche s'intéresse aux développements d'outils pour l'aide au diagnostic, ainsi que l'aide à la prédiction hâtive, de certaines de ces conditions de santé.
 
-Pour la phase 1 du projet, le but est de simplifier et améliorer l'outil de prédiction existant du VO2 max dans le futur
-pour les patients ayant été atteints de la LLA.
+La phase 1 consiste au développement d'un modèle d'estimation amélioré de la consommation maximal d'oxygène pour le diagnostic de problèmes cardiorespiratoires.
 
-Pour la phase 2 du projet, l'objectif est de créer un modèle de prédiction hâtif de l'obésité dans le futur pour les
-patients ayant été atteints de la LLA.
+La phase 2 consiste au développement d'un modèle de prédiction de l'obésité se basant sur des variables disponibles depuis la fin du traitement de la LAL, en particulier, des composantes du génomes.
+
+Pour chacune des phases mentionnées ci-dessus, nous comparons la performance de réseaux de neurones graphiques avec celles de d'autres modèles communs, soit le Perceptron multi-couches, la régression linéaire, la forêt aléatoire et l'arbre de décision avec boosting de gradient (XGBoost).

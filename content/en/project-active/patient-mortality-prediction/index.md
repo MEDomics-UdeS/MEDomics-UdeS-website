@@ -8,6 +8,8 @@ authors:
   - Martin Vallières
 ---
 
+![Project presentation](project.png "Project presentation")
+
 ## Status
 
 In progress (2022-today)
@@ -23,7 +25,6 @@ Doctorate
 
 <sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
-![Project presentation](project.png "Project presentation")
 
 ## Description
 
