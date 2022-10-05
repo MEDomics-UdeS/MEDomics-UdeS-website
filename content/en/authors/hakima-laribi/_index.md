@@ -20,8 +20,9 @@ bio:
 
 
 interests:
-  - Python
-  - Machine learning
+  - Knowledge graphs
+  - Graph neural networks
+  - Health informatics
 
 education:
   courses:
@@ -64,5 +65,5 @@ user_groups:
   - Students (Ph. D.)
 ---
 
-Hakima Laribi is a PhD student in the MEDomics UdeS laboratory since 2022. She is working on a project to predict 
-patient mortality using various machine learning techniques.
+Hakima Laribi is a PhD student in the MEDomics UdeS laboratory since 2022. She dedicates her research to the use of graph structures to perform learning tasks on healthcare data.
+
