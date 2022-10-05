@@ -20,8 +20,9 @@ bio:
 
 
 interests:
-  - Python
-  - Apprentissage machine
+  - Graphes de connaissance
+  - Réseaux de neurones graphiques
+  - Informatique de la santé
 
 education:
   courses:
@@ -65,4 +66,4 @@ user_groups:
 ---
 
 Hakima Laribi est étudiante au doctorat dans le laboratoire MEDomics UdeS depuis 2022. 
-Elle travaille sur un projet de prédiction de la mortalité à l'aide de diverses techniques d'apprentissage machine.
+Elle consacre ses recherches à l'utilisation des structures de graphes pour effectuer des tâches d'apprentissage sur des données de santé.
