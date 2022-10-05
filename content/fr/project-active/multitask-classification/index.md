@@ -8,6 +8,8 @@ authors:
   - Martin Vallières
 ---
 
+![Exemple d'architecture de hard-sharing](hard_sharing_fr.png "Exemple d'architecture de hard-sharing.")
+
 ## État
 
 En cours (2020-aujourd'hui)

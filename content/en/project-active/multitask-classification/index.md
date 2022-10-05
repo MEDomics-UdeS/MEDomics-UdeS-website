@@ -8,6 +8,8 @@ authors:
   - Martin Vallières
 ---
 
+![Hard-sharing architecture example](hard_sharing_en.png "Hard-sharing architecture example.")
+
 ## Status
 
 In progress (2020-today)
