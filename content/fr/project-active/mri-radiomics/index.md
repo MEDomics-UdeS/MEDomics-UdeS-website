@@ -8,6 +8,8 @@ authors:
   - Martin Vallières
 ---
 
+![Présentation du projet](image_website_AndreanneAllaire.svg "")
+
 ## État
 
 En cours (2021-aujourd'hui)
