@@ -15,11 +15,9 @@ cta:
   icon_pack: far
   icon: bar-chart
 
-cta:
+cta_alt:
   url: about
   label: Research areas
-  icon_pack: far
-  icon: bar-chart
 
 ---
 <br>
