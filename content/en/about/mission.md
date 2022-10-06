@@ -15,4 +15,6 @@ this federated learning framework:
 
 The figures below provide an overview of the main research framework of the MEDomics UdeS lab.
 
-![](main-fig.png)
+<p align="center">
+  <img src=main-fig.png />
+</p>
