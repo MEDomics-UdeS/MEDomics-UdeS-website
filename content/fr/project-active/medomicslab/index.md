@@ -12,6 +12,7 @@ authors:
   - Kayla Davio-Roy
   - Mahdi Ait Lhaj Loutfi
   - Mamadou Mountagha Bah
+  - Mohammed Benabbassi
   - Nicolas Longchamps
   - Robin Mailhot
   - Martin Vallières
@@ -37,6 +38,7 @@ Général
 - [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})<sup>1</sup> (été 2021)
 - [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-aujourd'hui)
 - [Mamadou Mountagha Bah]({{< relref "/authors/mamadou-mountagha-bah" >}})<sup>1</sup> (2020-2021)
+- [Mohammed Benabbassi]({{< relref "/authors/mohammed-benabbassi" >}})<sup>1</sup> (automne 2022-aujourd'hui)
 - [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})<sup>1</sup> (été 2022-aujourd'hui)
 - [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})<sup>1</sup> (automne 2020)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)

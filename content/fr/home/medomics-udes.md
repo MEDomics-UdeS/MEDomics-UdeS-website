@@ -29,8 +29,9 @@ est axé sur la création de modèles prédictifs en informatique de la santé d
 
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
-<div style="text-align: center;">
-  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS"></a>
+<div style="text-align: left;">
+  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
+    <div class="section-subheading">GitHub</div></a>
 </div>
 
 <br>
