@@ -15,6 +15,6 @@ ce qui constituera une étape importante pour le progrès de l'IA en médecine. 
 
 Les figures ci-dessous présentent un aperçu du cadre de recherche principal du laboratoire MEDomics UdeS.
 
-<div style="text-align: center;">
-![](main-fig.png)
-<div>
+<p align="center">
+  <img src=main-fig.png />
+</p>
