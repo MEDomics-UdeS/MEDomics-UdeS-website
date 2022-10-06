@@ -30,7 +30,7 @@ focused on the creation of predictive models in health informatics since its fou
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
 <div style="text-align: left;">
-  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS">
+  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
     <div class="section-subheading">Github</div> </a>
 </div>
 
