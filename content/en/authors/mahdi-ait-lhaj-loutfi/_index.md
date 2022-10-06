@@ -20,6 +20,8 @@ bio:
 interests:
   - Python
   - Medical imaging
+  - Radiomics
+  - Artificial intelligence
 
 education:
   courses:
