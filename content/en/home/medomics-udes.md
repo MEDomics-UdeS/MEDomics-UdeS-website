@@ -15,9 +15,11 @@ cta:
   icon_pack: far
   icon: bar-chart
 
-cta_alt:
+cta:
   url: about
   label: Research areas
+  icon_pack: far
+  icon: bar-chart
 
 ---
 <br>
@@ -29,8 +31,8 @@ focused on the creation of predictive models in health informatics since its fou
 
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
-<div style="text-align: center;">
-  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS"></a>
+<div style="text-align: left;">
+  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" name="Github"></a>
 </div>
 
 <br>
