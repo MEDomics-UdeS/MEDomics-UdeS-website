@@ -11,7 +11,7 @@ authors:
   - Mohammed Benabbassi
 ---
 
-![Schematic diagram of the MEDimage package](medimage-overview.svg "Schematic diagram of the MEDimage package")
+![Schematic diagram of the MEDimage package](medimage-overview.png "Schematic diagram of the MEDimage package")
 
 ## Status
 
