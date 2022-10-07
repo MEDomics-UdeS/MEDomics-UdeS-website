@@ -31,7 +31,7 @@ est axé sur la création de modèles prédictifs en informatique de la santé d
 
 <div style="text-align: left;">
   <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
-    <div class="section-subheading">Github</div></a>
+    <div class="section-subheading">GitHub</div></a>
 </div>
 
 <br>
