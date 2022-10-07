@@ -18,7 +18,11 @@ bio:
 
 
 interests:
-  - Graphical neural networks
+  - Machine learning
+  - Multiomics data
+  - Graph neural networks
+  - Tree-structured models (e.g., Random forest, XGBoost)
+  - Hyperparameter optimization
 
 education:
   courses:
@@ -61,5 +65,7 @@ user_groups:
   - Students (M. Sc.)
 ---
 
-Nicolas Raymond is a master's student in computer science since the summer of 2020 and his research focuses on the 
-prediction of VO2 max and obesity following the diagnosis of acute lymphoblastic leukemia.
+Nicolas Raymond started is master's degree in computer science during the summer of 2020. 
+His research project focuses on the development of machine learning models for the diagnostic 
+and the prediction of late adverse effects associated to childhood acute lymphoblastic leukaemia treatment.
+He is mostly dedicated to the application and the design of new graph neural network architectures.
