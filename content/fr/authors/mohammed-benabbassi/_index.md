@@ -19,6 +19,9 @@ bio:
 
 interests:
   - Python
+  - Apprentissage par renforcement
+  - Apprentissage fédéré
+  - Sciences des données
 
 education:
   courses:
