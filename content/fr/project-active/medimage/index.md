@@ -11,7 +11,7 @@ authors:
   - Mohammed Benabbassi
 ---
 
-![Schéma de principe de la plateforme MEDimage](medimage-overview.svg "Schéma de principe de la plateforme MEDimage")
+![Schéma de principe de la plateforme MEDimage](medimage-overview.png "Schéma de principe de la plateforme MEDimage")
 
 ## État
 
