@@ -64,8 +64,10 @@ highlight_name: false
 user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
-  
-Nicolas Raymond est étudiant à la maîtrise en informatique depuis l’été 2020. Sa recherche se consacre 
-sur le développement de modèles d'apprentissage automatique pour le diagnostic et la prédiction des effets 
-secondaires tardifs associés au traitement de la leucémie aiguë lymphoblastique infantile.
+
+Nicolas Raymond est étudiant à la maîtrise en informatique depuis l’été 2020. 
+Sa recherche se consacre sur le développement de modèles d'apprentissage automatique pour le diagnostic 
+et la prédiction des effets secondaires tardifs associés au traitement de la leucémie aiguë 
+lymphoblastique infantile. Celui-ci s'intéresse principalement à l'application et la création de 
+nouvelles architectures de réseaux de neurones graphiques.
 
