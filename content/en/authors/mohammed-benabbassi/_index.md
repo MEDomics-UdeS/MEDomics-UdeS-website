@@ -19,6 +19,9 @@ bio:
 
 interests:
   - Python
+  - Reinforcement learning
+  - Federated learning
+  - Data Science
 
 education:
   courses:

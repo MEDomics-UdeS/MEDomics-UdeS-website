@@ -19,6 +19,8 @@ bio:
 
 interests:
   - Python
+  - Robotics
+  - Full Stack Web Development
 
 education:
   courses:
