@@ -70,7 +70,7 @@ données de nos hôpitaux. Dès lors, la maîtrise et la combinaison des techniq
 données suivantes devraient augmenter l'impact des modèles de prédiction « multi-omiques »
 qui sont construits à partir de ces bases de données:
 
-1. _Analyse d'image_ : la radiomique nous permet de mieux caractériser l'hétérogénéité  tumorale.
+1. _Analyse d'image_ : l'extraction des caractéristiques radiomiques nous permet de mieux caractériser l'hétérogénéité  tumorale. Le logiciel [MEDimage]({{< relref "medimage" >}}) est la composante consacrée pour cette tâche.
 2. _Apprentissage automatique_ : certaines techniques d'apprentissage permettent de mieux combiner les données de différentes catégories (telles que multi-omiques).
 3. _Apprentissage profond_ : la multitude d'architectures de réseaux de neurones profonds offre plusieurs possibilités par rapport à l'apprentissage automatique de différentes tâches en oncologie. La performance de certains réseaux est parfois supérieure à celle des humains.
 4. _Traitement automatique du texte_ : le traitement et le codage automatique des comptes rendus textuels des dossiers électroniques des patients permettraient une meilleure intégration d'informations pertinentes à la modélisation multi-omique durant toute la période de prise en charge des patients.

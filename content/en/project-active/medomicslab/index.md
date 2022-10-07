@@ -66,7 +66,7 @@ to our ability to properly manage, structure and leverage our hospital databases
 the following data analysis techniques should increase the impact of the "multi-omics" prediction models that are 
 built from these databases:
 
-1. _Image analysis_: radiomics allows us to better characterize tumor heterogeneity.
+1. _Image analysis_: extraction of radiomic features allows us to better characterize tumor heterogeneity. The package [MEDimage]({{< relref "medimage" >}}) is the dedicated component for this task.
 2. _Machine learning_: some learning techniques allow us to better combine data from different categories (such as multi-omics).
 3. _Deep learning_: the multitude of deep neural network architectures offers several possibilities for the automatic learning of different tasks in oncology. The performance of some networks is sometimes superior to that of humans.
 4. _Automatic text processing_: automatic processing and coding of textual reports from electronic patient records would allow for better integration of information relevant to multi-omics modeling throughout the patient management period.
