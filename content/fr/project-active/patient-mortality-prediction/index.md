@@ -8,7 +8,7 @@ authors:
   - Martin Vallières
 ---
 
-![Présentation du projet](project.svg "Présentation du projet")
+![Présentation du projet](projet.svg "Présentation du projet")
 
 ## État
 
