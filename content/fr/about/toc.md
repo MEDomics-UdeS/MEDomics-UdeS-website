@@ -14,4 +14,5 @@ design:
 [Axe de recherche 2 : Données hétérogènes]({{< relref "#axe_2" >}}) • 
 [Axe de recherche 3 : Apprentissage fédéré]({{< relref "#axe_3" >}}) •
 [MEDomicsTools]({{< relref "#medomics-tools" >}}) • 
-[Consortium MEDomics]({{< relref "#medomics" >}})
+[Consortium MEDomics]({{< relref "#medomics" >}}) •
+[GRIIS]({{< relref "#griis" >}})
