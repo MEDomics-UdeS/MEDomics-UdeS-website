@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} MEDomics UdeS ({license}). Créé par [Simon Giard-Leroux](https://www.medomics-udes.org/fr/author/simon-giard-leroux/).'
+    notice: '© {year} MEDomics UdeS ({license}). Créé par [Simon Giard-Leroux](https://www.medomics-udes.org/fr/author/simon-giard-leroux/) et maintenue par [Olivier Lefebvre](https://www.medomics-udes.org/fr/author/olivier-lefebvre/).'
     license:
       enable: true
       allow_derivatives: false
