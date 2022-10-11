@@ -20,6 +20,7 @@ banner:
 ### Général
 
 - [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "medomicslab" >}})
+- [Développement du logiciel  _MEDimage_]({{< relref "medimage" >}})
 - [Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé]({{< relref "distributed-learning-inference" >}})
 
 ### Doctorat
@@ -32,7 +33,7 @@ banner:
 - [La radiomique pour la prise en charge des petites masses rénales]({{< relref "kidney-small-tumors" >}})
 - [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "mri-radiomics" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
-- [Optimisation des caractéristiques radiomiques]({{< relref "radiomics-optimization" >}})
+- [Exploration de la complexité des caractéristiques radiomiques]({{< relref "radiomics-complexity" >}})
 - [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë]({{< relref "vo2max-obesity" >}})
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
 

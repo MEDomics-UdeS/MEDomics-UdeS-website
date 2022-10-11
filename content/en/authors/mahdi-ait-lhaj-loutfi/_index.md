@@ -61,5 +61,4 @@ user_groups:
   - Students (M. Sc.)
 ---
 
-Mahdi Ait Lhaj Loutfi is a master student in the MEDomics UdeS laboratory since 2021. His research project concerns 
-the optimization of radiomic features.
+Mahdi Ait Lhaj Loutfi is a master student in the MEDomics UdeS laboratory since 2021. His research project concerns the exploration of the complexity of radiomic features. He is also the main architect and maintainer of the MEDimage package, an essential component of the MEDomicsLab.
