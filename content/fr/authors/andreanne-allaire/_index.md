@@ -18,8 +18,9 @@ bio:
 
 
 interests:
-  - Physique médicale
   - Imagerie par résonance magnétique
+  - Physique médicale
+  - Radiomique
 
 education:
   courses:
@@ -62,5 +63,4 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Andréanne Allaire est étudiante à la maîtrise en informatique depuis 2022 et se consacre à l'exploitation des 
-caractéristiques radiomiques en imagerie par résonance magnétique.
+Andréanne Allaire est étudiante à la maîtrise en informatique depuis 2022 et se consacre à l'optimisation de caractéristiques radiomiques en imagerie par résonance magnétique (IRM) afin d'améliorer la médecine de précision.

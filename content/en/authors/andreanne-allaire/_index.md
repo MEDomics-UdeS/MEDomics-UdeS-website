@@ -18,8 +18,9 @@ bio:
 
 
 interests:
-  - Medical physics
   - Magnetic resonance imaging
+  - Medical physics
+  - Radiomics
 
 education:
   courses:
@@ -62,5 +63,4 @@ user_groups:
   - Students (M. Sc.)
 ---
 
-Andréanne Allaire is a Master's student in Computer Science since 2022 and is dedicated to the exploitation of 
-radiomic features in magnetic resonance imaging.
+Andréanne Allaire is a master's student in Computer Science since 2022 and is dedicated to the optimization of radiomic features in magnetic resonance imaging (MRI) to improve precision medicine.
