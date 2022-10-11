@@ -1,8 +1,8 @@
 ---
 widget: hero
 headless: true
-weight: 60
-hero_media: logo-medomics.png
+weight: 61
+hero_media: logo-griis.png
 design:
   columns: "2"
   css_style: null
