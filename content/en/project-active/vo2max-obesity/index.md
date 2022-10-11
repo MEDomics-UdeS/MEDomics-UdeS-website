@@ -10,6 +10,7 @@ authors:
   - Martin Vallières
 ---
 
+![Project presentation](introduction_figure.svg "")
 
 ## Status
 
@@ -49,4 +50,4 @@ tree with gradient boosting (XGBoost). In particular, the second phases presents
 new graph neural network architecture used to encode the genome of the patients. The latter, is presented 
 in the figure below.
 
-![Project presentation](introduction_figure.png "")
+![GGAE](GGAE.svg "")
