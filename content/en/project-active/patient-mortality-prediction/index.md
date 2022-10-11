@@ -1,5 +1,5 @@
 ---
-title: "Project: Prediction of patient mortality"
+title: "Project: Graph neural networks for predicting patient mortality within one year of hospital admission"
 
 type: book
 
@@ -8,7 +8,7 @@ authors:
   - Martin Vallières
 ---
 
-![Project presentation](project.png "Project presentation")
+![Project presentation](project.svg "Project presentation")
 
 ## Status
 
@@ -28,7 +28,7 @@ Doctorate
 
 ## Description
 
-A goal of care discussion GOC is a communication process that takes place in a hospital setting between a clinician and a patient at the end of life. The purpose of a GOC discussion is to determine the types of care to be administered to the patient so as not to result in more aggressive cares than desired. Nevertheless, the prognoses established by doctors only gaining certainty over time constitute the main constraint delaying the initiation of a GOC discussion. Therefore, the automatic identification of the patients at the end of life when admitted to the hospital would increase the chances to carry out a GOC discussion on time. In this sense, a model based on random forests [R. Taseen, 2021] which attempts to predict patient mortality in the year following their admission to hospital has already been developed. Although the trees constituting the random forests expose relevant informations about the importance of each predictor, no relationship between the patients can be learned. Consequently, we propose a solution based on graphical neural networks for the prediction of patient mortality in the year following their hospital admission. Thus, the predictions at patient level will be made according to all the neighboring and the results obtained can be explained by consulting the connections of the patient. This graph-based approach would infer relationships between patients and thus add interpretability and performance to a model based on random forests.
+A goal of care discussion GOC is a communication process that takes place in a hospital setting between a clinician and a patient at the end of life. The purpose of a GOC discussion is to determine the types of care to be administered to the patient so as not to result in more aggressive cares than desired. Nevertheless, the prognoses established by doctors only gaining certainty over time constitute the main constraint delaying the initiation of a GOC discussion. Therefore, the automatic identification of the patients at the end of life when admitted to the hospital would increase the chances to carry out a GOC discussion on time. In this sense, a model based on random forests [[R. Taseen, 2021](https://www.researchgate.net/publication/354327628_Expected_clinical_utility_of_automatable_prediction_models_for_improving_palliative_and_end-of-life_care_outcomes_Toward_routine_decision_analysis_before_implementation)] which attempts to predict patient mortality in the year following their admission to hospital has already been developed. Although the trees constituting the random forests expose relevant informations about the importance of each predictor, no relationship between the patients can be learned. Consequently, we propose a solution based on graphical neural networks for the prediction of patient mortality in the year following their hospital admission. Thus, the predictions at patient level will be made according to all the neighboring and the results obtained can be explained by consulting the connections of the patient. This graph-based approach would infer relationships between patients and thus add interpretability and performance to a model based on random forests.
 
 **Objectives:** 
 
