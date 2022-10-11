@@ -10,14 +10,14 @@
 
   cta:
   url: https://griis.ca/
-  label: Visit the GRIIS website
+  label: Consultez le site du GRIIS
   icon_pack: far
   icon: at
 
   ---
 <br>
 
-At Université de Sherbrooke, this laboratory is part of the Interdisciplinary Research Group
-in Health Informatics (GRIIS).
+  À l'Université de Sherbrooke, ce laboratoire fait partie du Groupe de recherche interdisciplinaire
+  en informatique de la santé (GRIIS).
 
-<br>
+  <br>
