@@ -1,9 +1,8 @@
 ---
-widget: hero
+widget: blank
 headless: true
-weight: 50
+weight: 51
 title: ""
-hero_media: apprentissage-federe-400x400.png
 design:
   columns: "2"
   css_style: null
