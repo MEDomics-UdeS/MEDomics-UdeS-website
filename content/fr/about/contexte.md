@@ -7,7 +7,7 @@ design:
   columns: "1"
 
 ---
-
+<div style="text-align: justify;">
 Avec les progrès de la médecine moderne, un grand nombre de rencontres médicales (visites médicales, examens, 
 médicaments, imagerie, tests moléculaires, etc.) ont lieu dans notre système de santé. En fait, la quantité de 
 nouvelles données de santé mondiales générées en 2020 devrait avoir atteint 2 314 exaoctets. La plupart des 
@@ -34,4 +34,5 @@ en combinant l'inférence relationnelle des modèles graphiques avec la puissanc
 Cependant, étant donné que la puissance de l'apprentissage profond est fortement associée à la taille des données et 
 que les données médicales ne peuvent pas être facilement partagées entre les institutions médicales pour des raisons 
 de confidentialité des patients, le développement de modèles de GNN puissants pour la prédiction des maladies dans le 
-domaine de la santé est un défi majeur. 
+domaine de la santé est un défi majeur.
+</div>
