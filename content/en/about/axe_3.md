@@ -16,3 +16,9 @@ design:
 - To guarantee patient privacy while ensuring maximum use of relevant data
 
 - Decentralized learning to ensure medical center sovereignty
+
+<div style="text-align: right;">
+  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
+    GitHub
+  </a>
+</div>
