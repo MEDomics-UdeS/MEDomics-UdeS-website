@@ -10,6 +10,7 @@ authors:
   - Martin Vallières
 ---
 
+![Présentation du projet](introduction_figure.svg "")
 
 ## État
 
@@ -49,4 +50,4 @@ linéaire, la forêt aléatoire et l'arbre de décision avec boosting de gradien
 En particulier, la seconde phase présente également la performance d'une nouvelle architecture graphique
 pour encodeur le génome des patients. Celle-ci est présentée dans la figure ci-dessous.
 
-![Présentation du projet](introduction_figure.png "")
+![GGAE](GGAE.svg "")

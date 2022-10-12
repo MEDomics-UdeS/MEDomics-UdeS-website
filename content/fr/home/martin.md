@@ -31,9 +31,10 @@ social:
     link: https://www.linkedin.com/in/martvallieres/
 ---
 <br>
-
+<div style="text-align: justify;">
 Martin Vallières est professeur adjoint au département d'informatique à l'Université de Sherbrooke depuis 2020.
-
+</div>
+  
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 

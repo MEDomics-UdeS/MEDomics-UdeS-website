@@ -7,7 +7,7 @@ design:
   columns: "1"
 
 ---
-
+<div style="text-align: justify;">
 With the advancement of modern medicine, a large number of medical encounters (doctor visits, exams, medications, 
 imaging, molecular tests, etc.) take place in our healthcare system. In fact, the amount of new global health data 
 generated in 2020 is expected to have reached 2,314 exabytes. Most of the content in our hospitals' electronic health 
@@ -28,4 +28,5 @@ data science revolution in medicine. In particular, _graphical neural networks (
 learning meaningful and powerful data representations by combining the relational inference of graphical models with 
 the power of deep learning. However, since the power of deep learning is strongly associated with data size and 
 medical data cannot be easily shared among medical institutions due to patient privacy concerns, developing powerful 
-GNN models for disease prediction in healthcare is a major challenge. 
+GNN models for disease prediction in healthcare is a major challenge.
+</div>
