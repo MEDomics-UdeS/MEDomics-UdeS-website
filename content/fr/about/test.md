@@ -13,10 +13,11 @@ design:
     
 <div class="row">
   <div class="column" style="width:50%">
-    <h2>**Axe de recherche 3 : Apprentissage fédéré**</h2>
-    <p>- Pour garantir la vie privée des patients tout en s'assurant de pouvoir utiliser un maximum de données probantes
-
-      - Apprentissage décentralisé permettant d'assurer la souveraineté des centres médicaux</p>
+    <h2><b>Axe de recherche 3 : Apprentissage fédéré</b></h2>
+    <ul>
+    <li>Pour garantir la vie privée des patients tout en s'assurant de pouvoir utiliser un maximum de données probantes</li>
+    <li>Apprentissage décentralisé permettant d'assurer la souveraineté des centres médicaux</li>
+    </ul>
   </div>
   <div class="column" style="width:50%">
     <img src="apprentissage-federe-400x400.png" >
