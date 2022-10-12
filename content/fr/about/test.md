@@ -34,7 +34,7 @@ design:
     <p>Data..</p>
   </div>
   <div class="column" style="width:50%">
-    <img src="icon-400x400.png" alt="Trulli">
+    <img src="icon-400x400.png" >
     <p>Data..</p>
   </div>
 </div>
