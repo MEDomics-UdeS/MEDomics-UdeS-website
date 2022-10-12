@@ -17,10 +17,11 @@ design:
 
 - Decentralized learning to ensure medical center sovereignty
 <br>
-<script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
-  
-<div style="text-align: right;">
-  <a class="fa-brands fa-youtube fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
-  </a>
-</div>
-<br>
+  <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
+
+  <div style="text-align: right;">
+    <a class="fa-brands fa-youtube fa-2x" href="https://www.youtube.com/watch?v=nQpqMIuHyOk" target="_blank" rel="noopener noreferrer">
+    </a>
+  </div>
+  <br>
+

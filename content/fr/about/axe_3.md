@@ -16,3 +16,12 @@ design:
 - Pour garantir la vie privée des patients tout en s'assurant de pouvoir utiliser un maximum de données probantes
 
 - Apprentissage décentralisé permettant d'assurer la souveraineté des centres médicaux
+
+<br>
+  <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
+
+  <div style="text-align: right;">
+    <a class="fa-brands fa-youtube fa-2x" href="https://www.youtube.com/watch?v=nQpqMIuHyOk" target="_blank" rel="noopener noreferrer">
+    </a>
+  </div>
+  <br>
