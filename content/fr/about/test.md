@@ -29,12 +29,12 @@ design:
     
     
 <div class="row">
-  <div class="column" style="background-color:#FFB695; " width="50%">
+  <div class="column" style="width:50%">
     <h2>Column 1</h2>
     <p>Data..</p>
   </div>
-  <div class="column" style="background-color:#96D1CD;">
-    <h2>Column 2</h2>
+  <div class="column" style="width:50%">
+    <img src="icon-400x400.png" alt="Trulli">
     <p>Data..</p>
   </div>
 </div>
