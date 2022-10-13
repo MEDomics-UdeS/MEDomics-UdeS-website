@@ -9,6 +9,7 @@ design:
 
 
 <div class="row">
+  <big>
 <div class="column" style="width:50%">
   <h2><strong>Axe de recherche 3 : Apprentissage fédéré</strong></h2>
   <ul>
@@ -24,4 +25,5 @@ design:
     </a>
   </div>
 </div>
+  </big>
 </div>
