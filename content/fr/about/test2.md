@@ -9,12 +9,13 @@ design:
 
 
 <div class="row">
-  <big>
 <div class="column" style="width:50%">
+  <big>
   <h2><strong>Axe de recherche 3 : Apprentissage fédéré</strong></h2>
   <ul>
     <li><p>Pour garantir la vie privée des patients tout en s'assurant de pouvoir utiliser un maximum de données probantes</p></li>
     <li><p>Apprentissage décentralisé permettant d'assurer la souveraineté des centres médicaux</p></li>
+  </big>
   </ul>
 </div>
 <div class="column" style="width:50% ">
@@ -25,5 +26,4 @@ design:
     </a>
   </div>
 </div>
-  </big>
 </div>
