@@ -19,7 +19,7 @@ design:
       <li><p>Apprentissage décentralisé permettant d'assurer la souveraineté des centres médicaux</p></li>
     </ul>
   </div>
-  <div class="column" style="width:46% ">
+  <div class="column" style="width:50% ">
     <img src="apprentissage-federe-400x400.png" >
     <div style="text-align: right;">
       <a class="fa-brands fa-youtube fa-2x" href="https://www.youtube.com/watch?v=nQpqMIuHyOk" target="_blank" rel="noopener noreferrer">
