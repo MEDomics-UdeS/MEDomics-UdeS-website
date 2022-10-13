@@ -2,7 +2,6 @@
 widget: blank
 headless: true
 weight: 51
-  columns: "1"
 ---
     
     
