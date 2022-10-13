@@ -40,6 +40,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Mahdi.Ait.Lhaj.Loutfi@USherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mahdi-ait-lhaj-loutfi-332014253/
   - icon: github
     icon_pack: fab
     link: https://github.com/MahdiAll99
