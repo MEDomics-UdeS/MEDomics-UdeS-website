@@ -1,8 +1,8 @@
 ---
 widget: blank
 headless: true
-weight: 29
-title: Mission
+weight: 51
+title: ""
 design:
   columns: "1"
 ---
