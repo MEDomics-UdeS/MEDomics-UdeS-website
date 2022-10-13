@@ -2,12 +2,6 @@
 widget: blank
 headless: true
 weight: 51
-title: ""
-design:
-  columns: "2"
-  css_style: null
-  css_class: null
-
 ---
     
     
