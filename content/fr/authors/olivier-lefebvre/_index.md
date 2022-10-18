@@ -24,7 +24,7 @@ interests:
   - Incertitude et interprétabilité de modèles d’apprentissage automatique
 
 
-  education:
+education:
   courses:
     - course: Ph. D. Informatique
       institution: Université de Sherbrooke, Sherbrooke, Canada
