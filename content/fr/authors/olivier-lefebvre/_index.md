@@ -18,7 +18,11 @@ bio:
 
 
 interests:
+  - Apprentissage automatique
   - Apprentissage fédéré
+  - Confidentialité différentielle
+  - Incertitude et interprétabilité de modèles d’apprentissage automatique
+
 
 education:
   courses:
@@ -61,5 +65,8 @@ user_groups:
   - Étudiants et étudiantes (Ph. D.)
 ---
 
-Olivier Lefebvre est étudiant au doctorat en informatique depuis 2021 et consacre ses recherches à l'apprentissage 
-fédéré.
+Olivier Lefebvre est étudiant au doctorat en informatique depuis 2021. Il consacre ses recherches 
+à l’apprentissage fédéré et à la confidentialité différentielle. Le but de son projet est d’évaluer 
+l’impact de ces méthodes sur les performances obtenues par un modèle de prédiction. 
+Il travaille également sur le développement de nouvelles métriques pour quantifier l’incertitude d’un 
+modèle lors de chaque prédiction effectuée.
