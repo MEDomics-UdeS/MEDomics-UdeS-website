@@ -18,7 +18,10 @@ bio:
 
 
 interests:
+  - Machine learning
   - Federated learning
+  - Differential privacy
+  - Uncertainty and interpretability of machine learning models
 
 education:
   courses:
@@ -61,4 +64,8 @@ user_groups:
   - Students (Ph. D.)
 ---
 
-Olivier Lefebvre is a Ph.D. student in Computer Science since 2021 and dedicates his research to federated learning.
+  Olivier Lefebvre is a Ph.D. student in computer science since 2021. 
+  His research focuses on federated learning and differential privacy. 
+  The goal of his project is to evaluate the impact of these methods on the performances obtained 
+  by a prediction model. He is also working on the development of new metrics to quantify the uncertainty 
+  of a model during each prediction performed.
