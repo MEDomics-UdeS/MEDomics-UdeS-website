@@ -35,6 +35,9 @@ Artificial intelligence in the medical field can greatly contribute to improving
 
 ## Objectives
 
-  - Development of a federated ensemble learning model (distributed superlearner)
-  - Adding differential privacy to learning models
-  - Investigation of model prediction uncertainty
+  1. Investigation of model prediction uncertainty
+  2. Development of a federated ensemble learning model (distributed superlearner)
+  3. Adding differential privacy to learning models
+
+  ![Objective 1](sl_tree.drawio.svg "Objectif 1: Investigation of model prediction uncertainty")
+  ![Objective 2+3](objectives.drawio.svg "Objectives 2 & 3: Federated learning and Differential privacy")
