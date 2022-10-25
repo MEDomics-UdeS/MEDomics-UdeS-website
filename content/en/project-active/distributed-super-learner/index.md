@@ -1,7 +1,6 @@
 ---
 title: "Project: Distributed super-learner"
 
-type: book
 
 authors:
   - Olivier Lefebvre

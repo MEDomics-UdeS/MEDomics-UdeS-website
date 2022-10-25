@@ -26,7 +26,7 @@ banner:
 ### Doctorat
 
 - [Super-apprenant distribué]({{< relref "distributed-super-learner" >}})
-- [Prédiction de la mortalité des patients]({{< relref "patient-mortality-prediction" >}})
+- [Réseaux de neurones graphiques pour la prédiction de la mortalité des patients dans l’année suivant leur admission à l’hôpital]({{< relref "patient-mortality-prediction" >}})
 
 ### Maîtrise
 

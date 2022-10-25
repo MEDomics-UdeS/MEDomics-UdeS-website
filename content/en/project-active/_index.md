@@ -26,7 +26,7 @@ banner:
 ### Doctorate
 
 - [Distributed super-learner]({{< relref "distributed-super-learner" >}})
-- [Prediction of patient mortality]({{< relref "patient-mortality-prediction" >}})
+- [Graph neural networks for predicting patient mortality within one year of hospital admission]({{< relref "patient-mortality-prediction" >}})
 
 ### Master's
 
