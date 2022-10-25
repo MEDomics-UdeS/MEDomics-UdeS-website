@@ -25,7 +25,7 @@ banner:
 
 ### Doctorat
 
-- [Super-apprenant distribué]({{< relref "distributed-super-learner" >}})
+- [Évaluation systématique de l’impact de l’optimisation distribuée avec confidentialité différentielle en contexte d’apprentissage fédéré]({{< relref "distributed-super-learner" >}})
 - [Réseaux de neurones graphiques pour la prédiction de la mortalité des patients dans l’année suivant leur admission à l’hôpital]({{< relref "patient-mortality-prediction" >}})
 
 ### Maîtrise
@@ -34,7 +34,7 @@ banner:
 - [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "mri-radiomics" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
 - [Exploration de la complexité des caractéristiques radiomiques]({{< relref "radiomics-complexity" >}})
-- [Prédiction du VO2 max et de l'obésité suite au diagnostic de la leucémie lymphoblastique aiguë]({{< relref "vo2max-obesity" >}})
+- [Développement de modèles d'apprentissage automatique pour le diagnostic et la prédiction des effets secondaires tardifs associés au traitement de la leucémie aiguë lymphoblastique infantile]({{< relref "vo2max-obesity" >}})
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
 
 ## Projets disponibles

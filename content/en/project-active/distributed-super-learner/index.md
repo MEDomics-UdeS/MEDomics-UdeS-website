@@ -1,6 +1,7 @@
 ---
-title: "Project: Distributed super-learner"
+title: "Project: Systematic Impact Assessment of Distributed Optimization with Differential Privacy in a Federated Learning Environment"
 
+type: book
 
 authors:
   - Olivier Lefebvre
