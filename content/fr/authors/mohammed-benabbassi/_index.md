@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche
+  - Auxiliaires de recherche et stagiaires
 ---
 
 Mohammed Benabbassi est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis 2022.

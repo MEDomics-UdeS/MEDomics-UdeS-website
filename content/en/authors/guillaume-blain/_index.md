@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Research Assistants and Interns
 ---
 
 Guillaume Blain completed his internship in the MEDomics UdeS laboratory in the summer of 2022. He worked on the 

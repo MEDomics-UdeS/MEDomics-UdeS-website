@@ -8,6 +8,7 @@ authors:
   - Clarisse Cheng
   - Corentin Gauthier
   - Guillaume Blain
+  - Hithem Lamri
   - Jonathan Perron
   - Kayla Davio-Roy
   - Mahdi Ait Lhaj Loutfi
@@ -34,6 +35,7 @@ Général
 - [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})<sup>1</sup> (été 2022)
 - [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})<sup>1</sup> (été 2022)
 - [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})<sup>1</sup> (été 2022-aujourd'hui)
+- [Hithem Lamri]({{< relref "/authors/hithem-lamri" >}})<sup>1</sup> (automne 2022-aujourd'hui)
 - [Jonathan Perron]({{< relref "/authors/jonathan-perron" >}})<sup>1</sup> (2020-2021)
 - [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})<sup>1</sup> (été 2021)
 - [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-aujourd'hui)

@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Research Assistants and Interns
 ---
 
 Nicolas Longchamps completed an internship in the MEDomics UdeS lab in the summer of 2022. He maintained his 

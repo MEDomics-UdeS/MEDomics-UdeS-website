@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nicolas Longchamps
+title: Hithem Lamri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,14 @@ bio:
 
 
 interests:
-  - Robotique
+  - Federated Learning
+  - Computer science
 
 education:
   courses:
-    - course: B. Ing. Génie robotique
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 
+  - course: Engineering Diploma, M. Sc. Computer science
+  institution: École nationale Supérieure d'Informatique, Alger, Algeria
+  year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -33,11 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Nicolas.Longchamps@USherbrooke.ca'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/NicoLongfield
-
+    link: 'mailto:hithem.lamri@usherbrooke.ca'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,8 +50,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche et stagiaires
+  - Research Assistants and Interns
 ---
 
-Nicolas Longchamps a complété un stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a conservé son lien avec 
-le laboratoire en étant auxiliaire de recherche à temps partiel durant l'automne 2022.
+Hithem Lamri is doing an internship in the MEDomics UdeS laboratory.

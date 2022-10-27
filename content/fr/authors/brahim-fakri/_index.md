@@ -1,30 +1,33 @@
 ---
 # Display name
-title: Nicolas Longchamps
+title: Brahim Fakri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: Collège de Rosemont
+    url: 'https://www.crosemont.qc.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Robotique
+  - Big Data
 
 education:
   courses:
-    - course: B. Ing. Génie robotique
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 
+    - course:  AEC en Big Data
+      institution:  Collège de Rosemont, Montréal, Canada
+      year: 2022
+    - course:  M. Sc. en administration d’affaires
+      institution: Sprott School of Business, Carleton University, Ottawa, Canada
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -33,11 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Nicolas.Longchamps@USherbrooke.ca'
-  - icon: github
+    link: 'mailto:brahim.fakri@yahoo.fr'
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/NicoLongfield
-
+    link: http://www.linkedin.com/in/brahim-fakri
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,5 +58,4 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-Nicolas Longchamps a complété un stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a conservé son lien avec 
-le laboratoire en étant auxiliaire de recherche à temps partiel durant l'automne 2022.
+  Brahim Fakri effectue un stage dans le laboratoire MEDomics UdeS.

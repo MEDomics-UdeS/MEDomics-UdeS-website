@@ -10,11 +10,11 @@ main:
   - name: Cours
     url: course
     weight: 15
-  - name: Événements
-    url: event
-    weight: 16
   - name: Nouvelles
     url: post
+    weight: 16
+  - name: Événements
+    url: event
     weight: 20
   - name: Équipe
     url: team
