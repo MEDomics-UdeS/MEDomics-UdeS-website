@@ -10,18 +10,24 @@ role: Intern
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: Collège de Rosemont
+    url: 'https://www.crosemont.qc.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - PostgreSQL
+  - Big Data
 
 education:
   courses:
+    - course:  ACS in Big Data
+      institution:  Collège de Rosemont, Montréal, Canada
+      year: 2022
+    - course:  M. Sc. in Management
+      institution: Sprott School of Business, Carleton University, Ottawa, Canada
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -30,7 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:brahim.fakri@usherbrooke.ca'
+    link: 'mailto:brahim.fakri@yahoo.fr'
+  - icon: linkedin
+    icon_pack: fab
+    link: http://www.linkedin.com/in/brahim-fakri
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

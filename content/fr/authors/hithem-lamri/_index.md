@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: Diplôme d'ingénieure, Maîtrise en informatique
+  - course: Diplôme d'ingénieur, Maîtrise en informatique
   institution: École nationale Supérieure d'Informatique, Alger, Algérie
   year: 2018-2023
 
