@@ -20,7 +20,7 @@ content:
     - Étudiants et étudiantes (Ph. D.)
     - Étudiants et étudiantes (M. Sc.)
     - Professionnels de recherche
-    - Auxiliaires de recherche
+    - Auxiliaires de recherche et stagiaires
     - Stagiaires
     - Anciens membres (2022)
     - Anciens membres (2021)

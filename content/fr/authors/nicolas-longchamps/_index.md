@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche
+  - Auxiliaires de recherche et stagiaires
 ---
 
 Nicolas Longchamps a complété un stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a conservé son lien avec 

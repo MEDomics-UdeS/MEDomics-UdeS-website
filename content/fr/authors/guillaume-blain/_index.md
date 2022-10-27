@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche
+  - Auxiliaires de recherche et stagiaires
 ---
 
 Guillaume Blain a complété son stage dans le laboratoire MEDomics UdeS à l'été 2022. Il a travaillé sur la 

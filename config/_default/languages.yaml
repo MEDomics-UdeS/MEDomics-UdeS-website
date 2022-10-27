@@ -23,11 +23,11 @@ en:
     - name: Courses
       url: course
       weight: 15
-    - name: Events
-      url: event
-      weight: 16
     - name: News
       url: post
+      weight: 16
+    - name: Events
+      url: event
       weight: 20
     - name: Team
       url: team
