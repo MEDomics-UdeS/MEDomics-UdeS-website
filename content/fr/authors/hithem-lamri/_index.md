@@ -11,7 +11,7 @@ role: Stagiaire
 # Organizations/Affiliations
 organizations:
   - name: École nationale Supérieure d'Informatique
-  url: 'https://www.esi.dz/'
+    url: 'https://www.esi.dz/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
