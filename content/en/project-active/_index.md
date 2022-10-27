@@ -25,8 +25,8 @@ banner:
 
 ### Doctorate
 
-- [Distributed super-learner]({{< relref "distributed-super-learner" >}})
-- [Prediction of patient mortality]({{< relref "patient-mortality-prediction" >}})
+- [Systematic Impact Assessment of Distributed Optimization with Differential Privacy in a Federated Learning Environment]({{< relref "distributed-super-learner" >}})
+- [Graph neural networks for predicting patient mortality within one year of hospital admission]({{< relref "patient-mortality-prediction" >}})
 
 ### Master's
 
@@ -34,7 +34,7 @@ banner:
 - [Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging]({{< relref "mri-radiomics" >}})
 - [Resilient predictive models based on quantitative imaging to guide prostate cancer treatment]({{< relref "prostate-models" >}})
 - [Exploration of radiomic characteristics complexity]({{< relref "radiomics-complexity" >}})
-- [Prediction of VO2 max and obesity following diagnosis of acute lymphoblastic leukemia]({{< relref "vo2max-obesity" >}})
+- [Machine learning strategies for the diagnostic and the prediction of late adverse effects related to childhood lymphoblastic leukaemia treatment]({{< relref "vo2max-obesity" >}})
 - [Multi-task learning for image classification of renal tumors]({{< relref "multitask-classification" >}})
 
 ## Available projects

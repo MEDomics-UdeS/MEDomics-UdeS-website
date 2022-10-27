@@ -26,6 +26,9 @@ can be found in his [Google Scholar](https://scholar.google.ca/citations?user=fR
 
 ## Presentations
 
+- [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2022). [A compliant package with international standards for radiomics analysis of medical images]({{< relref "/publication/cirius-mahdi-2022" >}}). _Scientific day of the Centre interdisciplinaire de recherche en informatique de la santé de l’Université de Sherbrooke (CIRIUS) 2022_.
+- [H. Laribi]({{< relref "/authors/hakima-laribi" >}}) (2022). [Graph neural networks for predicting patient mortality within one year of hospital admission]({{< relref "/publication/cirius-hakima-2022" >}}). _Scientific day of the Centre interdisciplinaire de recherche en informatique de la santé de l’Université de Sherbrooke (CIRIUS) 2022_.
+- [O. Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) (2022). [Precision analysis of predictive uncertainty of machine learning models in medical context]({{< relref "/publication/cirius-olivier-2022" >}}). _Scientific day of the Centre interdisciplinaire de recherche en informatique de la santé de l’Université de Sherbrooke (CIRIUS) 2022_.
 - [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2022). [An international standard compliant tool for radiomic feature extraction from medical images]({{< relref "/publication/medomicslab-rbiq-2022" >}}). _Scientific day of the Quebec Bioimaging Network 2022_.
 - [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}) (2021). [Integration of genomic data in the design of learning models in precision oncology]({{< relref "/publication/genomics-acfas-2021" >}}). _88th Acfas Congress_.
 - [A. Ayotte]({{< relref "/authors/alexandre-ayotte" >}}) (2021). [3D convolution neural network as a decision support system for multiple renal tumor classification tasks]({{< relref "/publication/3d-conv-acfas-2021" >}}). _88th Acfas Congress_.
