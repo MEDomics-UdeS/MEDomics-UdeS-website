@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Research Assistants and Interns
 ---
 
 Mohammed Benabbassi is a research assistant in the MEDomics UdeS laboratory since 2022.

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Guillaume Blain
+title: Hithem Lamri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,14 @@ bio:
 
 
 interests:
-  - Python
-  - Robotics
-  - Full Stack Web Development
+  - Federated Learning
+  - Computer science
 
 education:
   courses:
-    - course: B. Eng. Robotic engineering
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2020-2024
+  - course: Engineering Diploma, M. Sc. Computer science
+  institution: École nationale Supérieure d'Informatique, Alger, Algeria
+  year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -35,10 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Guillaume.Blain2@USherbrooke.ca'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guillaume-blain-a7b9871a2/
+    link: 'mailto:hithem.lamri@usherbrooke.ca'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,6 +53,4 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-Guillaume Blain completed his internship in the MEDomics UdeS laboratory in the summer of 2022. He worked on the 
-MEDomicsLab platform developing UI/UX modules. He kept his link with the lab by being a part-time research assistant 
-during the fall of 2022.
+Hithem Lamri is doing an internship in the MEDomics UdeS laboratory.

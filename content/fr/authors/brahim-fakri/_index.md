@@ -1,32 +1,25 @@
 ---
 # Display name
-title: Guillaume Blain
+title: Brahim Fakri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Python
-  - Robotics
-  - Full Stack Web Development
+  - PostgreSQL
 
 education:
   courses:
-    - course: B. Eng. Robotic engineering
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -35,10 +28,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Guillaume.Blain2@USherbrooke.ca'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guillaume-blain-a7b9871a2/
+    link: 'mailto:brahim.fakri@usherbrooke.ca'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,9 +44,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Auxiliaires de recherche et stagiaires
 ---
 
-Guillaume Blain completed his internship in the MEDomics UdeS laboratory in the summer of 2022. He worked on the 
-MEDomicsLab platform developing UI/UX modules. He kept his link with the lab by being a part-time research assistant 
-during the fall of 2022.
+  Brahim Fakri effectue un stage dans le laboratoire MEDomics UdeS.

@@ -20,7 +20,7 @@ content:
     - Students (Ph. D.)
     - Students (M. Sc.)
     - Research Professionals
-    - Research Assistants
+    - Research Assistants and Interns
     - Interns
     - Former Members (2022)
     - Former Members (2021)
