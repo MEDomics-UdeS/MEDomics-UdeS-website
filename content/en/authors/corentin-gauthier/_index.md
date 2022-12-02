@@ -58,4 +58,11 @@ user_groups:
 ---
 
 Corentin Gauthier completed an internship in the MEDomics UdeS lab in the summer session of 2022. He worked on 
-improving the UI/UX features of the MEDomicsLab platform.
+improving the UI/UX features of the MEDomicsLab platform. Here is a video that presents Corentin's internship in the Medomics team.
+
+  
+<p align="center">
+  <iframe width="420" height="315"
+          src="https://www.youtube.com/watch?v=ODJ3TD5H11Q">
+  </iframe>
+</p>
