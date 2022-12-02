@@ -62,7 +62,5 @@ improving the UI/UX features of the MEDomicsLab platform. Here is a video that p
 
   
 <p align="center">
-  <iframe width="420" height="315"
-          src="https://www.youtube.com/watch?v=ODJ3TD5H11Q">
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ODJ3TD5H11Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
