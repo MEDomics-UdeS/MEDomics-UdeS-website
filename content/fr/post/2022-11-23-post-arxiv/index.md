@@ -11,7 +11,7 @@ authors:
 
   Nous félicitons [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}}) et [Martin Vallières]({{< relref "/authors/martin-vallieres" >}}) 
   pour la publication de leur article « Machine learning strategies to predict late adverse effects in childhood acute lymphoblastic 
-  leukemia survivors » sur arXiv. Actuellement sous révision par le journal Communications Medicine , les auteurs ont également déposé celui-ci 
+  leukemia survivors » sur arXiv. Actuellement sous révision par le journal _Communications Medicine_, les auteurs ont également déposé celui-ci 
   sur la plateforme arXiv pour accélérer le partage des résultats de leur recherche en oncologie de précision avec l’ensemble de la communauté scientifique.
 
   L’article peut être consulté au lien suivant : [https://arxiv.org/abs/2211.13188](https://arxiv.org/abs/2211.13188)
