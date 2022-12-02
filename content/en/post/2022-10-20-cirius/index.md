@@ -20,7 +20,7 @@ authors:
   -	2nd price (250$) : [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}}) ([presentation]({{< relref "/publication/cirius-olivier-2022" >}}))
   -	Prize “coup de coeur” (100$) : [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}}) ([presentation]({{< relref "/publication/cirius-hakima-2022" >}}))
 
-## Liens
+## Links
 
   - [Event Details](https://www.dropbox.com/s/qshut4vilvaja93/Programmation_Cirius_JS_2022.pdf?dl=0)
   - [CIRIUS website](https://cirius.ca/)
