@@ -12,7 +12,7 @@ authors:
 
 ## Status
 
-In progress (2022-today)
+Completed (2022)
 
 ## Type
 
@@ -39,3 +39,6 @@ A goal of care discussion GOC is a communication process that takes place in a h
 
 - Improve the precision and accuracy of prediction with a solution based on graphical neural networks.
 - A post analysis and interpretation of the results.
+
+[Link to the final-year project thesis.] (https://drive.google.com/file/d/1V07KJhqhuX_QNnorJ6pKtT83dpRiq2qz/view?usp=share_link)
+[Link to the defense presentation.] (https://drive.google.com/file/d/1OVMOlbU7Df9fkjsuBtZW7mfl0lQwFfl_/view?usp=share_link)
