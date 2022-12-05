@@ -48,4 +48,4 @@ In this work, we aim to build a multi-level graph topology to optimize patients 
 
 ## Methodology
 
-To evaluate the performance of our solution, we will use the [HAIM multimodal dataset](https://physionet.org/content/haim-multimodal/1.0.1/) [[Soenksen et al., 2022](https://www.nature.com/articles/s41746-022-00689-4)] containing data from four different modalities (time series, notes, tabular, images) to predict chest pathology diagnosis (Fracture, Lung Lesion, Enlarged cardio mediastinum, Consolidation, Pneumonia, Lung, Atelectasis, Pneumothorax, Edema and Cardiomegaly), Length Of Stay and 48 hours mortality.
+To evaluate the performance of our solution, we will use the [HAIM multimodal dataset](https://physionet.org/content/haim-multimodal/1.0.1/) [[Soenksen et al., 2022](https://www.nature.com/articles/s41746-022-00689-4)] containing data from four different modalities (time series, notes, tabular, images) to predict chest pathology diagnosis (Fracture, Lung Lesion, Enlarged cardio mediastinum, Consolidation, Pneumonia, Lung, Atelectasis, Pneumothorax, Edema and Cardiomegaly), length Of Stay and 48 hours mortality.
