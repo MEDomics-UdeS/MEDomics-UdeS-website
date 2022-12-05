@@ -57,7 +57,7 @@ authors:
   participate to a physical function test (e.g., 6-minute walk test) and further created an obesity prediction model 
   using clinical variables that are available from the end of childhood ALL treatment as well as genomic variables. 
   Our solutions were able to achieve better performance than linear and tree-based models on small cohorts of patients 
-  ($\leq$ 223) for both tasks.
+  (<span>&#8804;</span> 223) for both tasks.
 
 
 ## Liens
