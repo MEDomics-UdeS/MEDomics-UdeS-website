@@ -26,7 +26,7 @@ banner:
 ### Doctorate
 
 - [Systematic Impact Assessment of Distributed Optimization with Differential Privacy in a Federated Learning Environment]({{< relref "distributed-super-learner" >}})
-- [Graph neural networks for predicting patient mortality within one year of hospital admission]({{< relref "patient-mortality-prediction" >}})
+
 
 ### Master's
 
