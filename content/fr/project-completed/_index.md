@@ -18,6 +18,7 @@ banner:
 ### Maîtrise
 
 - [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-2022)]({{< relref "energAI" >}})
+- [Réseaux de neurones graphiques pour la prédiction de la mortalité des patients dans l’année suivant leur admission à l’hôpital]({{< relref "../project-active/patient-mortality-prediction" >}})
 
 ### Baccalauréat
 
