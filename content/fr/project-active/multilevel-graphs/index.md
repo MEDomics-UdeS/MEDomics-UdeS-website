@@ -1,5 +1,5 @@
 ---
-title: "Projet : Projet Hakima"
+title: "Modélisation prédictive basée sur des représentations sous formes de graphes multi-niveaux des données de santé multimodales"
 
 type: book
 
@@ -8,7 +8,7 @@ authors:
   - Martin Vallières
 ---
 
-![Présentation du projet](projet.svg "Présentation du projet")
+![Présentation du projet](Projet.svg "Présentation du projet")
 
 ## État
 
@@ -26,15 +26,26 @@ Doctorat
 <sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 
 
-## Description
-Une discussion sur les objectifs de soins DOS est un processus de communication ayant lieu dans un institut hospitalier entre un clinicien et un patient en fin de vie. Le but d’une DOS est de déterminer les types de soins à administrer au patient afin de ne pas résulter en des soins plus agressifs que ce qu’il souhaite. Néanmoins, les pronostics établis par les médecins ne gagnant en certitude qu’avec le temps constituent la principale contrainte retardant l’initiation d’une DOS. De ce fait, l’identification automatique des patients en fin de vie dès leur admission à l’hôpital donnerait plus de chances à une DOS d’être effectuée dans les temps. En ce sens, un modèle basé sur des forêts aléatoires [[R. Taseen, 2021](https://www.researchgate.net/publication/354327628_Expected_clinical_utility_of_automatable_prediction_models_for_improving_palliative_and_end-of-life_care_outcomes_Toward_routine_decision_analysis_before_implementation)] qui tente de prédire la mortalité des patients dans l’année suivant leur admission à l’hôpital a déjà été développé. Bien que les arbres constituant les forêts aléatoires permettent d’exposer des informations pertinentes sur l’importance de chaque variable de prédiction, aucune relation entre les patients ne peut être apprise. Nous proposons donc une solution basée sur des réseaux de neurones graphiques pour la prédiction de la mortalité des patients dans l’année suivant leur admission à l’hôpital. Ainsi, les prédictions au niveau de chaque patient se feront en fonction de tous les patients auxquels il est connecté et les résultats obtenus peuvent être expliqués en consultant les connexions du patient. Cette approche basée sur des graphes permettrait d’inférer des relations entre les patients et rajouterait ainsi de l’interprétabilité et  de la performance à un model basé sur des forêts aléatoires.
+## Motivations
 
-**Objectifs :** 
+Les réseaux de neurones graphiques ont récemment révélé un grand potentiel pour apprendre des représentations de graphes et capturer des relations topologiques entre les nœuds. La convolution spatiale des réseaux de neurones graphiques permet à chaque nœud de reconnaître son voisinage en recevant de l'information via les arêtes et de générer des représentations vectorielles significatives pour la tâche à accomplir. Plusieurs niveaux de graphes peuvent être construits pour explorer différents types de connexions entre les données et apprendre des représentations exhaustives dans des contextes distincts.
 
-- Modéliser sous forme de graphe les données afin d’apprendre des connexions entre les patients.
-- Développer une méthode de prédiction basée sur des réseaux de neurones graphiques afin d’identifier les patients à risque.
+Par ailleurs, l’identification de différents niveaux des connexions entre les différentes entités peut résulter en une grande quantité de travail manuel.  La sélection des connexions les plus signifiantes au fur et à mesure de la contruction de la topologie du graphe en fonction des performances prédictives du réseau de neurones graphique épargenrait beaucoup de supervision manuelle et permettrait d’exploiter un grand espace de connexions possibles. L’apprentissage par renforcement se distingue comme une des méthodes d'apprentissage automatique permettant de guider la prise d’action (i.e. l’ajout d’un type de connexion dans le graphe) par des récompenses en fonction de l’état de l’environnement (i.e. performance prédictive du modèle)
 
-**Résultats attendus :**
+Dans ce travail, nous visons à construire une topologie de graphe multi-niveaux pour optimiser les représentations des patients puis à l'améliorer à l'aide de l'apprentissage par renforcement, nous allons également entraîner un réseau de neurones graphique fédéré sur une topologie distribuée du graphe. La figure ci-dessus présente les différentes étapes de notre démarche.
 
-- Améliorer la précision et la justesse de prédiction avec une solution basée sur des réseaux de neurones graphiques.
-- Analyse a posteriori et interprétation des résultats obtenus.
+## Hypotheses
+
+- Un graphe au niveau du patient permettrait de co-apprendre les représentations des modalités et pourrait extraire des associations significatives entre les modalités pour améliorer les représentations des patients.
+- Un graphe au niveau institution permettrait le partage d'informations entre les patients lors de la résolution d'une tâche de prédiction et pourrait améliorer la précision et l'interprétabilité de la solution.
+- Un algorithme d'apprentissage par renforcement explorerait un large espace de structures de graphes et pourrait découvrir des dépendances cachées entre les patients et/ou les modalités, améliorant ainsi la précision et l'interprétabilité de la solution.
+
+## Objectives
+
+- Optimiser les représentations des patients dans une topologie graphique à plusieurs niveaux pour les tâches de prédiction subséquentes.
+- Apprendre une topologie graphique à plusieurs niveaux avec des liens hétérogènes entre les modalités et les patients à l'aide de l'apprentissage par renforcement.
+- Entraîner les réseaux neuronaux graphiques sur une topologie distribuée du graphe à plusieurs niveaux défini ci-dessus à l'aide de l'apprentissage fédéré.
+
+## Methodology
+
+Pour évaluer les performances de notre solution, nous utiliserons le [jeu de données à plusieurs modalités HAIM](https://physionet.org/content/haim-multimodal/1.0.1/) [[Soenksen et al., 2022](https:/ /www.nature.com/articles/s41746-022-00689-4)] contenant des données de quatre modalités différentes (séries chronologiques, notes, tables, images) pour prédire le diagnostic de pathologie thoracique (Fracture, Lésion pulmonaire, Hypertrophie du médiastin cardiaque, Consolidation , Pneumonie, Poumon, Atélectasie, Pneumothorax, Œdème et Cardiomégalie), durée du séjour à l'hôpital et mortalité dans les 48 heures.
