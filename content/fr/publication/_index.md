@@ -26,6 +26,9 @@ peut être trouvée dans son
 
 - [M. Larose]({{< relref "/authors/maxence-larose" >}}), N. Touma, [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}), D. LeBlanc, F. Rasekh, B. Neveu, H. Hovington, [M. Vallières]({{< relref "/authors/martin-vallieres" >}}), F. Pouliot, L. Archambault (2022). [Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction]({{< relref "/publication/graph-attention-midl-2022" >}}). Dans _Medical Imaging with Deep Learning 2022_.
 
+## Prépublications
+  - [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}), M. Caru, [H. Laribi]({{< relref "/authors/hakima-laribi" >}}), [M. Mitiche]({{< relref "/authors/mehdi-mitiche" >}}), V. Marcil, M.  Krajinovic, D. Curnier, D. Sinnett, [M. Vallières]({{< relref "/authors/martin-vallieres" >}}) (2022). [Machine learning strategies to predict late adverse effects in childhood acute lymphoblastic leukemia survivors]({{< relref "/publication/2022-ml-strategies-laes" >}}). Dans _arXiv_.
+
 ## Présentations
 
 - [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2022). [Un logiciel conforme aux standards internationaux pour l’analyse radiomique d’images médicales]({{< relref "/publication/cirius-mahdi-2022" >}}). _Journée scientifique du Centre interdisciplinaire de recherche en informatique de la santé de l’Université de Sherbrooke (CIRIUS) 2022_.
