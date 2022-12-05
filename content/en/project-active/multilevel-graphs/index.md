@@ -1,5 +1,5 @@
 ---
-title: "Project: Projet Hakima"
+title: Predictive modeling based on multi-level graphical representations of multimodal healthcare data
 
 type: book
 
