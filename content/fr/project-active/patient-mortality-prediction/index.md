@@ -39,5 +39,5 @@ Une discussion sur les objectifs de soins DOS est un processus de communication 
 - Améliorer la précision et la justesse de prédiction avec une solution basée sur des réseaux de neurones graphiques.
 - Analyse a posteriori et interprétation des résultats obtenus.
 
-[Lien vers le mémoire de fin d'étude.(https://drive.google.com/file/d/1V07KJhqhuX_QNnorJ6pKtT83dpRiq2qz/view?usp=sharing)]
-[Lien vers la présentation de soutenance. (https://drive.google.com/file/d/1OVMOlbU7Df9fkjsuBtZW7mfl0lQwFfl_/view?usp=share_link)]
+[Lien vers le mémoire de fin d'étude.](https://drive.google.com/file/d/1V07KJhqhuX_QNnorJ6pKtT83dpRiq2qz/view?usp=sharing)
+[Lien vers la présentation de soutenance.](https://drive.google.com/file/d/1OVMOlbU7Df9fkjsuBtZW7mfl0lQwFfl_/view?usp=share_link)
