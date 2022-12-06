@@ -1,5 +1,5 @@
 ---
-title: Predictive modeling based on multi-level graphical representations of multimodal healthcare data
+title: "Project: Predictive modeling based on multi-level graphical representations of multimodal healthcare data"
 
 type: book
 
