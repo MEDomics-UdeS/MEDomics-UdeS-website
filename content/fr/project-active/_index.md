@@ -26,8 +26,7 @@ banner:
 ### Doctorat
 
 - [Évaluation systématique de l’impact de l’optimisation distribuée avec confidentialité différentielle en contexte d’apprentissage fédéré]({{< relref "distributed-super-learner" >}})
-- [Réseaux de neurones graphiques pour la prédiction de la mortalité des patients dans l’année suivant leur admission à l’hôpital]({{< relref "patient-mortality-prediction" >}})
-
+- [Modélisation prédictive basée sur des représentations sous formes de graphes multi-niveaux des données de santé multimodales]({{< relref "multilevel-graphs" >}})
 ### Maîtrise
 
 - [La radiomique pour la prise en charge des petites masses rénales]({{< relref "kidney-small-tumors" >}})
