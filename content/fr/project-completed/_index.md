@@ -22,3 +22,6 @@ banner:
 ### Baccalauréat
 
 - [Forêts aléatoires dans un contexte d'apprentissage distribué (2022)]({{< relref "distributed-random-forests" >}})
+
+### Stage
+  - [Réseaux de neurones graphiques pour la prédiction de la mortalité des patients dans l’année suivant leur admission à l’hôpital (2022)]({{< relref "patient-mortality-prediction" >}})

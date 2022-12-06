@@ -16,7 +16,7 @@ Terminé (2022)
 
 ## Type
 
-Doctorat
+Stage
 
 ## Équipe
 

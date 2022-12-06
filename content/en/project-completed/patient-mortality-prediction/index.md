@@ -16,7 +16,7 @@ Completed (2022)
 
 ## Type
 
-Doctorate
+Internship
 
 ## Team
 

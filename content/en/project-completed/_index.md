@@ -22,3 +22,6 @@ banner:
 ### Bachelor's
 
 - [Random forests in a distributed learning context (2022)]({{< relref "distributed-random-forests" >}})
+
+### Internship
+- [Graph neural networks for predicting patient mortality within one year of hospital admission (2022)]({{< relref "patient-mortality-prediction" >}})
