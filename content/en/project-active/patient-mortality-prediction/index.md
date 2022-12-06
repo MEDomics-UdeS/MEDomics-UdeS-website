@@ -20,8 +20,8 @@ Doctorate
 
 ## Team
 
-- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})<sup>1</sup> (2022-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2022-aujourd'hui)
+- [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})<sup>1</sup> (2022-today)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2022-today)
 
 <sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
 
