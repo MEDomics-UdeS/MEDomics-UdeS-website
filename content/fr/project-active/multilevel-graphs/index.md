@@ -1,5 +1,5 @@
 ---
-title: "Modélisation prédictive basée sur des représentations sous formes de graphes multi-niveaux des données de santé multimodales"
+title: "Projet: Modélisation prédictive basée sur des représentations sous formes de graphes multi-niveaux des données de santé multimodales"
 
 type: book
 
@@ -46,6 +46,6 @@ Dans ce travail, nous visons à construire une topologie de graphe multi-niveaux
 - Apprendre une topologie graphique à plusieurs niveaux avec des liens hétérogènes entre les modalités et les patients à l'aide de l'apprentissage par renforcement.
 - Entraîner les réseaux neuronaux graphiques sur une topologie distribuée du graphe à plusieurs niveaux défini ci-dessus à l'aide de l'apprentissage fédéré.
 
-## Methodologie
+## Méthodologie
 
 Pour évaluer les performances de notre solution, nous utiliserons le [jeu de données à plusieurs modalités HAIM](https://physionet.org/content/haim-multimodal/1.0.1/) [[Soenksen et al., 2022](https://www.nature.com/articles/s41746-022-00689-4)] contenant des données de quatre modalités différentes (séries chronologiques, notes, tables, images) pour prédire le diagnostic de pathologie thoracique (Fracture, Lésion pulmonaire, Hypertrophie du médiastin cardiaque, Consolidation , Pneumonie, Poumon, Atélectasie, Pneumothorax, Œdème et Cardiomégalie), durée du séjour à l'hôpital et mortalité dans les 48 heures.
