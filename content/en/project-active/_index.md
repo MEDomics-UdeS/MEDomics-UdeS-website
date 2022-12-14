@@ -35,7 +35,6 @@ banner:
 - [Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging]({{< relref "mri-radiomics" >}})
 - [Resilient predictive models based on quantitative imaging to guide prostate cancer treatment]({{< relref "prostate-models" >}})
 - [Exploration of radiomic characteristics complexity]({{< relref "radiomics-complexity" >}})
-- [Machine learning strategies for the diagnostic and the prediction of late adverse effects related to childhood lymphoblastic leukaemia treatment]({{< relref "vo2max-obesity" >}})
 - [Multi-task learning for image classification of renal tumors]({{< relref "multitask-classification" >}})
 
 ## Available projects

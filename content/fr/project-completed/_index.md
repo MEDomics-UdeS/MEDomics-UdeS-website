@@ -17,6 +17,7 @@ banner:
 
 ### Maîtrise
 
+- [Développement de modèles d'apprentissage automatique pour le diagnostic et la prédiction des effets secondaires tardifs associés au traitement de la leucémie aiguë lymphoblastique infantile (2020-2022)]({{< relref "vo2max-obesity" >}})
 - [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-2022)]({{< relref "energAI" >}})
 
 ### Baccalauréat

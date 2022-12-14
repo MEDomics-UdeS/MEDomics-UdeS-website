@@ -14,7 +14,7 @@ authors:
 
 ## État
 
-En cours (2020-aujourd'hui)
+Terminé (2020-2022)
 
 ## Type
 

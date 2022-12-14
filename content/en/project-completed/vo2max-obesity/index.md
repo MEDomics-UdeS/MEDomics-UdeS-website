@@ -14,7 +14,7 @@ authors:
 
 ## Status
 
-In progress (2020-today)
+Completed  (2020-2022)
 
 ## Type
 
