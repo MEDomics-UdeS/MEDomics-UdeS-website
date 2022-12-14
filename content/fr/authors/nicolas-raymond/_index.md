@@ -6,7 +6,7 @@ title: Nicolas Raymond
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique)
+role: Ancien étudiant (M. Sc. Informatique)
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Anciens membres (2022)
 ---
 
 Nicolas Raymond est étudiant à la maîtrise en informatique depuis l’été 2020. 

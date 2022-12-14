@@ -6,7 +6,7 @@ title: Nicolas Raymond
 superuser: false
 
 # Role/position
-role: Student (M. Sc. Computer science)
+role: Former student (M. Sc. Computer science)
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students (M. Sc.)
+  - Former Members (2022)
 ---
 
 Nicolas Raymond started is master's degree in computer science during the summer of 2020. 
