@@ -19,5 +19,5 @@ authors:
 
 ## Liens
 
-- [Détails sur le projet]({{< relref "/project-active/vo2max-obesity">}})
+- [Détails sur le projet]({{< relref "/project-completed/vo2max-obesity">}})
 - [Liens de l'article](https://arxiv.org/abs/2211.13188)
