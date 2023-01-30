@@ -12,8 +12,6 @@ role: Étudiante (Ph. D. Informatique)
 organizations:
   - name: Université de Sherbrooke
     url: 'https://www.usherbrooke.ca/'
-  - name: École nationale Supérieure d'Informatique
-    url: 'https://www.esi.dz/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
