@@ -14,4 +14,5 @@ design:
 [Research Area 2: Heterogeneous Data]({{< relref "#axe_2" >}}) • 
 [Research Area 3: Federated Learning]({{< relref "#axe_3" >}}) •
 [MEDomicsTools]({{< relref "#medomics-tools" >}}) • 
-[MEDomics Consortium]({{< relref "#medomics" >}}) 
+[MEDomics Consortium]({{< relref "#medomics" >}}) •
+[GRIIS]({{< relref "#griis" >}})
