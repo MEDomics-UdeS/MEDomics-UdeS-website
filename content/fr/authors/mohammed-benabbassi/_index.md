@@ -6,7 +6,7 @@ title: Mohammed Benabbassi
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Ancien auxiliaire de recherche
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche et stagiaires
+  - Anciens membres (2022)
 ---
 
-Mohammed Benabbassi est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis 2022.
+Mohammed Benabbassi a été auxiliaire de recherche dans le laboratoire MEDomics UdeS en 2022.

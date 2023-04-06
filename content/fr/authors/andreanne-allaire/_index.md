@@ -6,7 +6,7 @@ title: Andréanne Allaire
 superuser: false
 
 # Role/position
-role: Étudiante (M. Sc. Informatique, imagerie)
+role: Auxiliaire de recherche
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Auxiliaires de recherche et stagiaires
 ---
 
-Andréanne Allaire est étudiante à la maîtrise en informatique depuis 2022 et se consacre à l'optimisation de caractéristiques radiomiques en imagerie par résonance magnétique (IRM) afin d'améliorer la médecine de précision.
+Andréanne Allaire est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis 2022 et se consacre à l'optimisation de caractéristiques radiomiques en imagerie par résonance magnétique (IRM) afin d'améliorer la médecine de précision.

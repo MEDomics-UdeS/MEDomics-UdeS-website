@@ -6,7 +6,7 @@ title: Andréanne Allaire
 superuser: false
 
 # Role/position
-role: Student (M. Sc. Computer science, imaging)
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students (M. Sc.)
+  - Research Assistants and Interns
 ---
 
-Andréanne Allaire is a master's student in Computer Science since 2022 and is dedicated to the optimization of radiomic features in magnetic resonance imaging (MRI) to improve precision medicine.
+Andréanne Allaire is a research assistant in the MEDomics UdeS laboratory since 2022 and is dedicated to the optimization of radiomic features in magnetic resonance imaging (MRI) to improve precision medicine.

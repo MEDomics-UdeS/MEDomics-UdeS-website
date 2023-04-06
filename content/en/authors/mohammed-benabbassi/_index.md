@@ -6,7 +6,7 @@ title: Mohammed Benabbassi
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Former research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2022)
 ---
 
-Mohammed Benabbassi is a research assistant in the MEDomics UdeS laboratory since 2022.
+Mohammed Benabbassi was a research assistant in the MEDomics UdeS laboratory in 2022.

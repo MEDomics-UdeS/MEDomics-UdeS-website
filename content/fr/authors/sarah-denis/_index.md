@@ -1,33 +1,30 @@
 ---
 # Display name
-title: Brahim Fakri
+title: Sarah Denis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Auxiliaire de recherche
 
 # Organizations/Affiliations
 organizations:
-  - name: Collège de Rosemont
-    url: 'https://www.crosemont.qc.ca/'
+  - name: Université de Sherbrooke
+    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Big Data
+  - Intelligence Artificielle
 
 education:
   courses:
-    - course:  ACS in Big Data
-      institution:  Collège de Rosemont, Montréal, Canada
-      year: 2022
-    - course:  M. Sc. in Management
-      institution: Sprott School of Business, Carleton University, Ottawa, Canada
-      year: 2014
+    - course: M. Sc. Informatique
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,10 +33,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:brahim.fakri@yahoo.fr'
+    link: 'mailto:sarah.denis@usherbrooke.ca'
   - icon: linkedin
     icon_pack: fab
-    link: http://www.linkedin.com/in/brahim-fakri
+    link: https://www.linkedin.com/in/sarah-denis-b384b722b/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Auxiliaires de recherche et stagiaires
 ---
 
-  Brahim Fakri is doing an internship in the MEDomics UdeS laboratory.
+Sarah Denis est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis janvier 2023.
