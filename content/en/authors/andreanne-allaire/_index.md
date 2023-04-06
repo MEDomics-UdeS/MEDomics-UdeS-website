@@ -24,9 +24,6 @@ interests:
 
 education:
   courses:
-    - course: M. Sc. Computer science
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2022-2024
     - course: B. Sc. Physics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2021
