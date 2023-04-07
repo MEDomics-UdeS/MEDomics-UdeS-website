@@ -22,7 +22,7 @@ interests:
   - Healthcare Informatics
 
 education:
-  courses:
+  courses:g
     - course: M. Sc. Computer Science, concentration in AI and data science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 

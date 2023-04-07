@@ -26,9 +26,9 @@ education:
     - course: M. Sc. Informatique cheminement IA et sciences des données
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year:
-  - course: B. Ing. Informatique
-    institution: Polytechnique de l'Université de Tours, Tours, France
-    year: 2018-2023
+    - course: B. Ing. Informatique
+      institution: Polytechnique de l'Université de Tours, Tours, France
+      year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
