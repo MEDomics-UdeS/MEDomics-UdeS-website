@@ -19,12 +19,16 @@ bio:
 
 interests:
   - Intelligence Artificielle
+  - Informatique de la santé
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Informatique cheminement IA et sciences des données
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 
+      year:
+  - course: B. Ing. Informatique
+    institution: Polytechnique de l'Université de Tours, Tours, France
+    year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,6 +41,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sarah-denis-b384b722b/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Sari27
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,3 +64,4 @@ user_groups:
 ---
 
 Sarah Denis est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis janvier 2023.
+Elle se consacre au développement de la plateforme MEDomicsLab, en particulier sur la visualisation des données (MEDProfiles).
