@@ -1,5 +1,5 @@
 ---
-title: "Soutenance de mémoire : CLASSIFICATION DES TUMEURS RÉNALES À L’AIDE D’IMAGERIE PAR RÉSONANCE MAGNÉTIQUE DANS UN CONTEXTE D’APPRENTISSAGE MULTITÂCHES"
+title: "Soutenance de mémoire : Classification des tumeurs rénales à l’aide d’imagerie par résonance magnétique dans un contexte d’apprentissage multitâches"
 
 event: Soutenance de mémoire d'Alexandre Ayotte
 event_url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus06web.zoom.us%2Fj%2F84766376718%3Fpwd%3DUU9iVng3aTRkOWp2ZzVJMTNLOSt6Zz09&data=05%7C01%7COlivier.Lefebvre3%40USherbrooke.ca%7Cea023b46e7b74359149808db35e077e5%7C3a5a8744593545f99423b32c3a5de082%7C0%7C0%7C638163010416379433%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vgAp7HziVm1GBkdumy0lxUMT3a0QCUgj0dHXdbc%2B%2BoA%3D&reserved=0
