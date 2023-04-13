@@ -32,7 +32,6 @@ banner:
 ### Master's
 
 - [Radiomics for the management of small renal masses]({{< relref "kidney-small-tumors" >}})
-- [Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging]({{< relref "mri-radiomics" >}})
 - [Resilient predictive models based on quantitative imaging to guide prostate cancer treatment]({{< relref "prostate-models" >}})
 - [Exploration of radiomic characteristics complexity]({{< relref "radiomics-complexity" >}})
 - [Multi-task learning for image classification of renal tumors]({{< relref "multitask-classification" >}})

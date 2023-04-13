@@ -28,7 +28,7 @@ Coming soon.
 
 ### Master's
 
-Coming soon.
+- [Systematic evaluation of the robustness and exploitability of radiomic features in magnetic resonance imaging]({{< relref "mri-radiomics" >}})
 
 ### Bachelor's
 

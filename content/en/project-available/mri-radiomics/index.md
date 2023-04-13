@@ -4,7 +4,6 @@ title: "Project: Systematic evaluation of the robustness and exploitability of r
 type: book
 
 authors:
-  - Andréanne Allaire
   - Martin Vallières
 ---
 
@@ -12,21 +11,11 @@ authors:
 
 ## Status
 
-In progress (2021-today)
+Available
 
 ## Type
 
 Master's
-
-## Team
-
-- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})<sup>1</sup> (2021-today)
-- [Philippe Després](https://iid.ulaval.ca/equipes/philippe-despres/)<sup>2</sup> (2021-today)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2021-today)
-
-<sup>1</sup> Computer science department, Université de Sherbrooke, Sherbrooke (QC), Canada
-
-<sup>2</sup> Physics, physics engineering and optics department, Université Laval, Québec (QC), Canada
 
 ## Description
 

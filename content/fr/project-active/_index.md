@@ -30,7 +30,6 @@ banner:
 ### Maîtrise
 
 - [La radiomique pour la prise en charge des petites masses rénales]({{< relref "kidney-small-tumors" >}})
-- [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "mri-radiomics" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
 - [Exploration de la complexité des caractéristiques radiomiques]({{< relref "radiomics-complexity" >}})
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})

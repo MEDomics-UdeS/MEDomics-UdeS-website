@@ -28,7 +28,7 @@ laboratoire. Si vous êtes intéressés à vous joindre à nous, veuillez nous [
 
 ### Maîtrise
 
-À venir.
+- [Évaluation systématique de la robustesse et du potentiel d'exploitation des caractéristiques radiomiques en imagerie par résonance magnétique]({{< relref "mri-radiomics" >}})
 
 ### Baccalauréat
 
