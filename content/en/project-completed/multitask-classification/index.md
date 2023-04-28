@@ -12,7 +12,7 @@ authors:
 
 ## Status
 
-In progress (2020-today)
+Completed (2020-2023)
 
 ## Type
 

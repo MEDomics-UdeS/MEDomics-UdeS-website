@@ -27,12 +27,12 @@ banner:
 
 - [Évaluation systématique de l’impact de l’optimisation distribuée avec confidentialité différentielle en contexte d’apprentissage fédéré]({{< relref "distributed-super-learner" >}})
 - [Modélisation prédictive basée sur des représentations sous formes de graphes multi-niveaux des données de santé multimodales]({{< relref "multilevel-graphs" >}})
+
 ### Maîtrise
 
 - [La radiomique pour la prise en charge des petites masses rénales]({{< relref "kidney-small-tumors" >}})
 - [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
 - [Exploration de la complexité des caractéristiques radiomiques]({{< relref "radiomics-complexity" >}})
-- [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
 
 ## Projets disponibles
 
