@@ -6,7 +6,7 @@ title: Alexandre Ayotte
 superuser: false
 
 # Role/position
-role: Student (M. Sc. Computer science, imaging)
+role: Former student (M. Sc. Computer science, imaging)
 
 # Organizations/Affiliations
 organizations:
@@ -59,8 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students (M. Sc.)
+  - Former Members (2023)
 ---
 
-Alexandre Ayotte is a master's student in computer science since winter 2020 and focuses on multi-task learning and 
+Alexandre Ayotte was a master's student in computer science between winter 2020 and spring 2023 and focused on multi-task learning and 
 image classification of kidney tumors.

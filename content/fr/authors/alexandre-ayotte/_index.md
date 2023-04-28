@@ -6,7 +6,7 @@ title: Alexandre Ayotte
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Ancien étudiant (M. Sc. Informatique, imagerie)
 
 # Organizations/Affiliations
 organizations:
@@ -59,8 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Anciens membres (2023)
 ---
 
-Alexandre Ayotte est étudiant à la maîtrise en informatique depuis l'hiver 2020 et se consacre à 
+Alexandre Ayotte était étudiant à la maîtrise en informatique de l'hiver 2020 jusqu'au printemps 2023 et se consacrait à 
 l'apprentissage multi-tâches et à la classification d'images de tumeurs rénales.
