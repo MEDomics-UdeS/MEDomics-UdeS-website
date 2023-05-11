@@ -20,6 +20,7 @@ bio:
 interests:
   - Machine Learning
   - Computer science
+  - Data science
 
 education:
   courses:
