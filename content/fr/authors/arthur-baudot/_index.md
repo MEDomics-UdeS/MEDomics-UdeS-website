@@ -20,6 +20,7 @@ bio:
 interests:
   - Apprentissage automatique
   - Informatique
+  - Sciences des Données
 
 education:
   courses:
@@ -41,7 +42,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/arthur-baudot-980b88208/
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
