@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Arthur Baudot1
+title: Arthur Baudot
 
 # Is this the primary user of the site?
 superuser: false
