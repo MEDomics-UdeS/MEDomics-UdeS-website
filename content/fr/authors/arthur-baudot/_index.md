@@ -27,7 +27,7 @@ education:
     - course: M. Sc. Informatique cheminement IA et sciences des données
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2023
-    - course: Diplôme d'ingénieure, Maîtrise en informatique
+    - course: Diplôme d'ingénieur, Maîtrise en informatique
       institution: TELECOM Nancy, Nancy, France
       year: 2020-2023
 
