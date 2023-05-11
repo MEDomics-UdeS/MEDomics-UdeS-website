@@ -19,7 +19,7 @@ bio:
 
 interests:
   - Machine Learning
-  - Computer science
+  - Bioinformatics
   - Data science
 
 education:
@@ -27,7 +27,7 @@ education:
     - course: M. Sc. Computer Science, concentration in AI and data science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2023
-    - course: B. Ing. Computer Science
+    - course: Engineering Diploma, M. Sc. Computer science
       institution: TELECOM Nancy, Nancy, France
       year: 2020-2023
 
@@ -60,4 +60,5 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-  Arthur Baudot is doing an internship in the MEDomics UdeS laboratory.
+  Arthur Baudot is doing an internship in the MEDomics UdeS laboratory. The project he is working on aims to better understand the determinants of immunotherapy efficacy in gastrointestinal cancers.
+  More specifically, Arthur is analyzing sequencing data from colorectal cancer patients who have received a particular immunotherapy treatment (immune checkpoint inhibitor), and then developing predictive models to better interpret the mutational signatures that best predict the outcome of immunotherapy treatments.

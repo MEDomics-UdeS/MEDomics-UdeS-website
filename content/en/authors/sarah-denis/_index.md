@@ -26,8 +26,8 @@ education:
     - course: M. Sc. Computer Science, concentration in AI and data science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 
-    - course: B. Ing. Computer Science
-      institution: Polytechnique de l'Université de Tours, Tours, France
+    - course: Engineering Diploma, M. Sc. Computer science
+      institution: École Polytechnique de l'Université de Tours, Tours, France
       year: 2018-2023
 
 # Social/Academic Networking

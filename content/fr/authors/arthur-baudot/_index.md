@@ -19,7 +19,7 @@ bio:
 
 interests:
   - Apprentissage automatique
-  - Informatique
+  - Bioinformatique
   - Sciences des Données
 
 education:
@@ -27,7 +27,7 @@ education:
     - course: M. Sc. Informatique cheminement IA et sciences des données
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2022-2023
-    - course: B. Ing. Informatique
+    - course: Diplôme d'ingénieure, Maîtrise en informatique
       institution: TELECOM Nancy, Nancy, France
       year: 2020-2023
 
@@ -60,4 +60,6 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-  Arthur Baudot effectue un stage dans le laboratoire MEDomics UdeS.
+  Arthur Baudot effectue un stage dans le laboratoire MEDomics UdeS. Le projet pour lequel il travaille vise à mieux comprendre les déterminants de l'efficacité de l'immunothérapie dans les cancers gastro-intestinaux.
+  Plus précisément, Arthur analyse les données de séquençage issues de patients atteints de cancers colorectaux et ayant reçu un traitement d'immunothérapie particulier (inhibiteur de point de contrôle immunitaire), pour ensuite développer des modèles prédictifs permettant de mieux interpréter les signatures mutationnelles qui prédisent le mieux les résultats de traitements d'immunothérapie.
+
