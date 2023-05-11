@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hithem Lamri
+title: Arthur Baudot
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,22 +10,25 @@ role: Stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: École nationale Supérieure d'Informatique
-    url: 'https://www.esi.dz/'
+  - name: Université de Sherbrooke
+    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Apprentissage fédéré
+  - Apprentissage automatique
   - Informatique
 
 education:
   courses:
-  - course: Diplôme d'ingénieur, Maîtrise en informatique
-  institution: École nationale Supérieure d'Informatique, Alger, Algérie
-  year: 2018-2023
+    - course: M. Sc. Informatique cheminement IA et sciences des données
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: 2022-2023
+    - course: B. Ing. Informatique
+      institution: TELECOM Nancy, Nancy, France
+      year: 2020-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +37,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hithem.lamri@usherbrooke.ca'
+    link: 'mailto:arthur.baudot@usherbrooke.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/arthur-baudot-980b88208/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,4 +60,4 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-  Hithem Lamri effectue un stage dans le laboratoire MEDomics UdeS.
+  Arthur Baudot effectue un stage dans le laboratoire MEDomics UdeS.

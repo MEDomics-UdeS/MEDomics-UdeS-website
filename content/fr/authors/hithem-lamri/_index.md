@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - course: Diplôme d'ingénieur, Maîtrise en informatique
-  institution: École nationale Supérieure d'Informatique, Alger, Algérie
-  year: 2018-2023
+    - course: Diplôme d'ingénieur, Maîtrise en informatique
+      institution: École nationale Supérieure d'Informatique, Alger, Algérie
+      year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
