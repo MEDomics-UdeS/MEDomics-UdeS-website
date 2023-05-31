@@ -10,8 +10,8 @@ role: Auxiliaire de recherche
 
 # Organizations/Affiliations
 organizations:
-  - name: Collège de Rosemont
-    url: 'https://www.crosemont.qc.ca/'
+  - name: Université de Sherbrooke
+    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -58,4 +58,5 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-  Brahim Fakri effectue un stage dans le laboratoire MEDomics UdeS.
+Brahim a rejoint MEDomics UdeS pour son stage de fin d'études en 2022 pendant lequel il a utilisé des modèles d’apprentissage automatique pour le traitement de données médicales.
+Depuis 2023, il travaille comme auxilliaire de recherche pour le projet MEDomicsLab ou il a facilité l'utilisation des données MIMIC pour la plateforme, et assure le role de coordinateur du projet.

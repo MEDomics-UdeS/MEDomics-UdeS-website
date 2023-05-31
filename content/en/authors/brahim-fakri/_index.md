@@ -10,8 +10,8 @@ role: Research assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Collège de Rosemont
-    url: 'https://www.crosemont.qc.ca/'
+  - name: Université de Sherbrooke
+    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -58,4 +58,5 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-  Brahim Fakri is doing an internship in the MEDomics UdeS laboratory.
+Brahim joined MEDomics UdeS for his end-of-studies internship in 2022 during which he used machine learning models for medical data processing.
+Since 2023, he has been working as a research assistant for the MEDomicsLab project where he facilitated the use of MIMIC data for the platform, and assumes the role of project coordinator.
