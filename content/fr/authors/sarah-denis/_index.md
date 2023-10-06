@@ -6,7 +6,7 @@ title: Sarah Denis
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Professionnelle de recherche
 
 # Organizations/Affiliations
 organizations:
@@ -63,5 +63,5 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-Sarah Denis est auxiliaire de recherche dans le laboratoire MEDomics UdeS depuis janvier 2023.
+Sarah Denis est professionnelle de recherche dans le laboratoire MEDomics UdeS depuis janvier 2023.
 Elle se consacre au développement de la plateforme MEDomicsLab, en particulier sur la visualisation des données (MEDProfiles).

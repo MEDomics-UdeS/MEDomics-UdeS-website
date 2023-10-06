@@ -6,7 +6,7 @@ title: Sarah Denis
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Research professional
 
 # Organizations/Affiliations
 organizations:
@@ -63,5 +63,5 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-  Sarah Denis is a research assistant in the MEDomics UdeS laboratory since January 2022.
+  Sarah Denis is a research professional in the MEDomics UdeS laboratory since January 2023.
   She is dedicated to the development of the MEDomicsLab platform, in particular on data visualization (MEDProfiles).
