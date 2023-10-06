@@ -6,7 +6,7 @@ title: Arthur Baudot
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Ancien stagiaire
 
 # Organizations/Affiliations
 organizations:
@@ -57,9 +57,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche et stagiaires
+  - Anciens membres (2023)
 ---
 
-  Arthur Baudot effectue un stage dans le laboratoire MEDomics UdeS. Le projet pour lequel il travaille vise à mieux comprendre les déterminants de l'efficacité de l'immunothérapie dans les cancers gastro-intestinaux.
-  Plus précisément, Arthur analyse les données de séquençage issues de patients atteints de cancers colorectaux et ayant reçu un traitement d'immunothérapie particulier (inhibiteur de point de contrôle immunitaire), pour ensuite développer des modèles prédictifs permettant de mieux interpréter les signatures mutationnelles qui prédisent le mieux les résultats de traitements d'immunothérapie.
+  Arthur Baudot a effectué un stage dans le laboratoire MEDomics UdeS. Le projet pour lequel il travaillait vise à mieux comprendre les déterminants de l'efficacité de l'immunothérapie dans les cancers gastro-intestinaux.
+  Plus précisément, Arthur analysait les données de séquençage issues de patients atteints de cancers colorectaux et ayant reçu un traitement d'immunothérapie particulier (inhibiteur de point de contrôle immunitaire), pour ensuite développer des modèles prédictifs permettant de mieux interpréter les signatures mutationnelles qui prédisent le mieux les résultats de traitements d'immunothérapie.
 

@@ -6,7 +6,7 @@ title: Arthur Baudot
 superuser: false
 
 # Role/position
-role: Intern
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -57,8 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2023)
 ---
 
-  Arthur Baudot is doing an internship in the MEDomics UdeS laboratory. The project he is working on aims to better understand the determinants of immunotherapy efficacy in gastrointestinal cancers.
-  More specifically, Arthur is analyzing sequencing data from colorectal cancer patients who have received a particular immunotherapy treatment (immune checkpoint inhibitor), and then developing predictive models to better interpret the mutational signatures that best predict the outcome of immunotherapy treatments.
+  Arthur Baudot completed his internship in the MEDomics UdeS laboratory in the summer of 2023. The project he was working on aims to better understand the determinants of immunotherapy efficacy in gastrointestinal cancers.
+  More specifically, Arthur was analyzing sequencing data from colorectal cancer patients who have received a particular immunotherapy treatment (immune checkpoint inhibitor), and then developing predictive models to better interpret the mutational signatures that best predict the outcome of immunotherapy treatments.
