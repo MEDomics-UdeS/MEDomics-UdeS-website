@@ -6,7 +6,7 @@ title: Hithem Lamri
 superuser: false
 
 # Role/position
-role: Stagiaire
+role: Ancien stagiaire
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche et stagiaires
+  - Anciens membres (2023)
 ---
 
-  Hithem Lamri effectue un stage dans le laboratoire MEDomics UdeS.
+  Hithem Lamri a effectué un stage dans le laboratoire MEDomics UdeS de janvier à août 2023. 
+  Il travaillait sur l'aspect d'apprentissage fédéré de la plateforme MEDomicsLab.

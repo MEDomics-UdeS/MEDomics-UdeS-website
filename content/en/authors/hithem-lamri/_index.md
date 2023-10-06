@@ -6,7 +6,7 @@ title: Hithem Lamri
 superuser: false
 
 # Role/position
-role: Intern
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2023)
 ---
 
-Hithem Lamri is doing an internship in the MEDomics UdeS laboratory.
+  Hithem Lamri completed an internship in the MEDomics UdeS laboratory from January to August 2023.
+  He worked on the federated learning aspect of the MEDomicsLab platform.
