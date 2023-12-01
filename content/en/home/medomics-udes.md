@@ -33,7 +33,7 @@ focused on the creation of predictive models in health informatics since its fou
     <small><small><small> GitHub </small></small></small> 
   </a>
   <a class="medomicslab" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
-    <img src="media/medomicslab.png">
+    <img src="assets/media/medomicslab.png">
     <small><small><small> GitHub </small></small></small>
   </a>
   
