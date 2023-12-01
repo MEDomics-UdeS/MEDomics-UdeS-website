@@ -31,6 +31,10 @@ focused on the creation of predictive models in health informatics since its fou
     {{< gallery album="2022-08-05-mini-putt" >}}
   </div>
 
+  <div class="image">
+    <img src="medomicslab.png">
+  </div>
+
   <div style="text-align: center;">
     {{< img src="medomicslab.png" >}}
   </div>
