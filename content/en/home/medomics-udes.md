@@ -28,13 +28,13 @@ focused on the creation of predictive models in health informatics since its fou
   
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
-<div style="text-align: left;">
+<div style="text-align: left; white-space: nowrap;">
   <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
     <small><small><small> GitHub </small></small></small> 
   </a>
   
-  <ul id="menu"><button type="button" class="fa-brands fa-square-github fa-2x" id="meeting" href="https://github.com/MEDomics-UdeS">test!</button>
-  </ul>
+  <button type="button" class="fa-brands fa-square-github fa-2x" id="meeting" href="https://github.com/MEDomics-UdeS">test!</button>
+  
 </div>
   
 
