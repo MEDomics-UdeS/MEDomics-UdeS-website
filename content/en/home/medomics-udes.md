@@ -32,21 +32,10 @@ focused on the creation of predictive models in health informatics since its fou
   <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
     <small><small><small> GitHub </small></small></small> 
   </a>
+  
   <ul id="menu"><button type="buttons" id="meeting">Plan a free meeting!</button>
   </ul>
 </div>
-
-- block: buttons
-  content:
-    buttons:
-      - title: Read my latest paper on LLMs
-        icon: arxiv
-        url: https://arxiv.org/abs/2304.01852
-      - title: Watch my new YouTube video to achieve 20x productivity
-        icon: youtube
-        url: https://youtube.com
-      - title: Connect with me on LinkedIn
-        icon: linkedin
-        url: https://linkedin.com
+  
 
 <br>
