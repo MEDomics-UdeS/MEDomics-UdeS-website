@@ -32,7 +32,7 @@ focused on the creation of predictive models in health informatics since its fou
   </div>
 
   <div style="text-align: center;">
-    {{< image img="medomicslab.png" >}}
+    {{< img src="medomicslab.png" >}}
   </div>
   
 <img src="medomicslab.png"> 
