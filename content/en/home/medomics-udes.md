@@ -25,6 +25,10 @@ cta_alt:
 The MEDomics UdeS research laboratory, led by Professor Martin Vallières at the Université de Sherbrooke, has been 
 focused on the creation of predictive models in health informatics since its founding in 2020.
 </div>
+
+<div style="text-align: center;">
+  {{< gallery album="2022-08-05-mini-putt" >}}
+</div>
   
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
