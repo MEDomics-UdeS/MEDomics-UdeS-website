@@ -26,9 +26,13 @@ The MEDomics UdeS research laboratory, led by Professor Martin Vallières at the
 focused on the creation of predictive models in health informatics since its founding in 2020.
 </div>
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
-  
 
-<div style="text-align: left; white-space: nowrap;">
+  <div class="image">
+    <img src="/media/albums/general-images/medomicslab.png" loading="">
+  </div>
+
+
+  <div style="text-align: left; white-space: nowrap;">
   <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
     <small><small><small> GitHub </small></small></small> 
   </a>
