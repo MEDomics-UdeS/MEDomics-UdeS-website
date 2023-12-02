@@ -95,7 +95,3 @@ Enjoy your vacations dear Martin!
 <div style="text-align: center;">
   {{< gallery album="2022-08-05-mini-putt" >}}
 </div>
-
-<div style="text-align: center;">
-{{< gallery album="general-images" >}}
-</div>
