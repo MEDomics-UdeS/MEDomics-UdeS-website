@@ -33,6 +33,9 @@ focused on the creation of predictive models in health informatics since its fou
     <div style="text-align: center;">
       < gallery album="general-images" >
     </div>
+  <div style="text-align: center;">
+    < gallery album="2022-08-05-mini-putt" >
+  </div>
 
 
   <div style="text-align: left; white-space: nowrap;">
