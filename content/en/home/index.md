@@ -5,4 +5,7 @@ type: widget_page
 # Homepage is headless, other widget pages are not.
 headless: true
 
+<div>
+  {{< gallery album="general-images" >}}
+</div>
 ---
