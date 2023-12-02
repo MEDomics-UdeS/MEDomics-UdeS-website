@@ -29,7 +29,11 @@ focused on the creation of predictive models in health informatics since its fou
   
  
   <div class="image">
-    <img src="/media/albums/logo/medomicslab.png" loading="">
+    <img src="/media/albums/general-images/medomicslab.png" loading="">
+  </div>
+
+  <div class="image">
+    <img src="/media/medomicslab.png" loading="">
   </div>
  
   
