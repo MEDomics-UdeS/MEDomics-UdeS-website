@@ -28,14 +28,6 @@ focused on the creation of predictive models in health informatics since its fou
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
 
   <div class="image">
-    <img src="medomicslab.png">
-  </div>
-  
-  <div class="image">
-    <img src="/media/albums/logo/medomicslab.png">
-  </div>
-
-  <div class="image">
     <img src="/media/albums/general-images/medomicslab.png">
   </div>
 
@@ -43,11 +35,10 @@ focused on the creation of predictive models in health informatics since its fou
     <img src="/media/albums/2022-08-05-mini-putt/mini-putt-7.png">
   </div>
 
-  <div class="image">
-    <img src="/media/albums/2022-10-20-cirius/cirius-all.png">
-  </div>
-
   {{< figure src="/media/albums/logo/medomicslab.png" >}}
+  {{< figure src="assets/media/albums/logo/medomicslab.png" >}}
+  {{< figure src="/assets/media/albums/logo/medomicslab.png" >}}
+  {{< figure src="./assets/media/albums/logo/medomicslab.png" >}}
   
 <div style="text-align: left; white-space: nowrap;">
   <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
