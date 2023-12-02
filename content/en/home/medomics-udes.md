@@ -27,12 +27,12 @@ focused on the creation of predictive models in health informatics since its fou
 </div>
 <script src="https://kit.fontawesome.com/d1c402c681.js" crossorigin="anonymous"></script>
   
-  <div class="image">
-    <img src="/media/albums/general-images/medomicslab.png" loading="">
-  </div>
+  
   <div class="image">
     <img src="/media/albums/general-images/medomicslab.png">
   </div>
+
+  {{< figure src="./assets/media/medomicslab.png" alt="Alt text" caption="Image caption" loading="" >}}
 
   <div class="image">
     <img src="/media/medomicslab.png" loading="">
