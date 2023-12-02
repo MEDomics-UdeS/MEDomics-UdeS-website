@@ -32,7 +32,7 @@ focused on the creation of predictive models in health informatics since its fou
     <small style="font-family: serif; align-self: flex-end;"> GitHub </small>
   </a>
   <a class="medomicslabsite fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer" 
-     style="display: flex; align-items: center; text-decoration: none; margin-right: 10px;">
+     style="display: flex; align-items: center; text-decoration: none; margin-right: auto;">
     <img src="/media/albums/general-images/medomicslab.png" style="max-width: 2em">
     <small style="font-family: serif; align-self: flex-end;"> GitHub </small>
   </a>
