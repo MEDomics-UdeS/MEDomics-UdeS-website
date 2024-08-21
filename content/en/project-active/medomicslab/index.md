@@ -4,6 +4,7 @@ title: "Project: Development of the MEDomicsLab platform"
 type: book
 
 authors:
+  - Andréanne Allaire
   - Charles Lévesque-Matte
   - Clarisse Cheng
   - Corentin Gauthier
@@ -31,6 +32,7 @@ General
 
 ## Team
 
+- [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})<sup>1</sup> (2022-2024)
 - [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})<sup>1</sup> (fall 2020)
 - [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})<sup>1</sup> (summer 2022)
 - [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})<sup>1</sup> (summer 2022)
