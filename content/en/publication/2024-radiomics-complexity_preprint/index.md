@@ -21,8 +21,8 @@ authors:
 
   - [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})<sup>1</sup>
   - Maxime Caru<sup>2,3</sup>
-  - [Hakima Laribi]({{< relref "/authors/hakima-laribi" >}})<sup>1</sup>
-  - [Mehdi Mitiche]({{< relref "/authors/mehdi-mitiche" >}})<sup>1</sup>
+  - Hakima Laribi<sup>1</sup>
+  - Mehdi Mitiche<sup>1</sup>
   - Valérie Marcil<sup>4</sup>
   - Maja Krajinovic<sup>5</sup>
   - Daniel Curnier<sup>6</sup>
