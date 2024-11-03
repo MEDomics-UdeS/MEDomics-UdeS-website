@@ -27,6 +27,7 @@ can be found in his [Google Scholar](https://scholar.google.ca/citations?user=fR
 ## Preprints
   - [H. Laribi]({{< relref "/authors/hakima-laribi" >}}) (2024). [Leveraging patients’ longitudinal data to improve the Hospital One-year Mortality Risk]({{< relref "/publication/2024-longitudinal-oym-preprint" >}}). In _medRxiv_.
   - [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2024). [Unraveling Radiomics Complexity: Strategies for Optimal Simplicity in Predictive Modeling]({{< relref "/publication/2024-radiomics-complexity-preprint" >}}). In _arXiv_.
+  - [M. Larose]({{< relref "/authors/maxence-larose" >}}) (2024). [Multi-task Bayesian Model Combining FDG-PET/CT Imaging and Clinical Data for Interpretable High-Grade Prostate Cancer Prognosis]({{< relref "/publication/2024-prostate-models-preprint" >}}). In _medRxiv_.
   - [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}), M. Caru, [H. Laribi]({{< relref "/authors/hakima-laribi" >}}), [M. Mitiche]({{< relref "/authors/mehdi-mitiche" >}}), V. Marcil, M.  Krajinovic, D. Curnier, D. Sinnett, [M. Vallières]({{< relref "/authors/martin-vallieres" >}}) (2022). [Machine learning strategies to predict late adverse effects in childhood acute lymphoblastic leukemia survivors]({{< relref "/publication/2022-ml-strategies-laes" >}}). In _arXiv_.
 
 
