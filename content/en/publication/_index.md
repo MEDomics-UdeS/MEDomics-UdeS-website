@@ -25,6 +25,7 @@ can be found in his [Google Scholar](https://scholar.google.ca/citations?user=fR
 - [M. Larose]({{< relref "/authors/maxence-larose" >}}), N. Touma, [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}), D. LeBlanc, F. Rasekh, B. Neveu, H. Hovington, [M. Vallières]({{< relref "/authors/martin-vallieres" >}}), F. Pouliot, L. Archambault (2022). [Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction]({{< relref "/publication/graph-attention-midl-2022" >}}). In _Medical Imaging with Deep Learning 2022_.
 
 ## Preprints
+  - [M. Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}}) (2024). [Unraveling Radiomics Complexity: Strategies for Optimal Simplicity in Predictive Modeling]({{< relref "/publication/2024-radiomics-complexity_preprint" >}}). In _arXiv_.
   - [N. Raymond]({{< relref "/authors/nicolas-raymond" >}}), M. Caru, [H. Laribi]({{< relref "/authors/hakima-laribi" >}}), [M. Mitiche]({{< relref "/authors/mehdi-mitiche" >}}), V. Marcil, M.  Krajinovic, D. Curnier, D. Sinnett, [M. Vallières]({{< relref "/authors/martin-vallieres" >}}) (2022). [Machine learning strategies to predict late adverse effects in childhood acute lymphoblastic leukemia survivors]({{< relref "/publication/2022-ml-strategies-laes" >}}). In _arXiv_.
 
 
