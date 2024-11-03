@@ -42,25 +42,45 @@ authors:
   - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1,21</sup>
 
 <sup>1</sup> Department of Computer Science, Université de Sherbrooke, Sherbrooke, QC, Canada
+
 <sup>2</sup> Department of Surgery, Service of Urology, Université de Sherbrooke, Sherbrooke, QC, Canada
+
 <sup>3</sup> OncoRay – National Center for Radiation Research in Oncology, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany
+
 <sup>4</sup> National Center for Tumor Diseases Dresden (NCT/UCC), Germany: German Cancer Research Center (DKFZ), Heidelberg, Germany
+
 <sup>5</sup> Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany
+
 <sup>6</sup> Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany
+
 <sup>7</sup> Department of Radiation Oncology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
+
 <sup>8</sup> Department of Radiation Oncology, University of California San Francisco, San Francisco, CA, USA
+
 <sup>9</sup> Departments of Radiation Oncology, Neurological Surgery, and Pathology, University of California San Francisco, San Francisco, CA, USA
+
 <sup>10</sup> Center for Biomedical Informatics Research, School of Medicine, Stanford University, CA 94305, USA
+
 <sup>11</sup> Department of Medicine, and Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, USA
+
 <sup>12</sup> Department of Radiology, The Second Xiangya Hospital of Central South University, Changsha, 410011, Hunan, China
+
 <sup>13</sup> Department of Radiology, Mayo Clinic Arizona, 13400 E Shea Blvd., Scottsdale, AZ 85259, USA
+
 <sup>14</sup> Department of Pathology and Clinical Medicine, Hospital of the University of Pennsylvania, Philadelphia, PA, USA
+
 <sup>15</sup> Department of Radiology and Radiological Sciences, Johns Hopkins, Baltimore, MD, USA
+
 <sup>16</sup> Princess Margaret Cancer Centre, University Health Network & Departments of Radiation Oncology & Medical Biophysics, University of Toronto, Toronto, ON, Canada.
+
 <sup>17</sup> Division of Urology, Centre Hospitalier Universitaire de Sherbrooke; Université de Sherbrooke Cancer Research Institute, Sherbrooke, QC, Canada
+
 <sup>18</sup> Department of Radiology, McGill University Health Center, Director and Co-founder, Augmented Intelligence Precision Health Laboratory (AIPHL) of the Research Institute of the McGill University Health Center, Montreal, QC, Canada
+
 <sup>19</sup> Département de médecine nucléaire et radiobiologie, Université de Sherbrooke, Sherbrooke, QC, Canada
+
 <sup>20</sup> Centre d’imagerie moléculaire de Sherbrooke, Université de Sherbrooke, Sherbrooke, QC, Canada
+
 <sup>21</sup> Centre de recherche du Centre hospitalier universitaire de Sherbrooke, Université de Sherbrooke, Sherbrooke, QC, Canada
 
 
