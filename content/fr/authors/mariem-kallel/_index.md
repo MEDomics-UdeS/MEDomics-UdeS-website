@@ -25,7 +25,7 @@ interests:
 education:
   courses:
     - course: M. Sc. Génie Logiciel
-        institution: Université de Sherbrooke, Sherbrooke, Canada
+      institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2024-2026
     - course: Diplôme d'ingénieure, Maîtrise en informatique
       institution: École Nationale des Sciences de l'Informatique, Université de Manouba, Tunis, Tunisie
