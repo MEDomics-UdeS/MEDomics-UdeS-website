@@ -22,6 +22,7 @@ content:
     - Professionnels de recherche
     - Auxiliaires de recherche et stagiaires
     - Stagiaires
+    - Anciens membres (2024)
     - Anciens membres (2023)
     - Anciens membres (2022)
     - Anciens membres (2021)

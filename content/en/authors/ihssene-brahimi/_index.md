@@ -1,36 +1,31 @@
 ---
 # Display name
-title: Mahdi Ait Lhaj Loutfi
+title: Ihssene Brahimi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: Higher National School of Computer Science
+    url: 'https://www.esi.dz/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Python
-  - Imagerie médicale
-  - Radiomique
-  - Intelligence artificielle
+    - Artificial Intelligence
+    - Medical Imaging
 
 education:
   courses:
-    - course: M. Sc. Informatique
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-2023
-    - course: B. Sc. Informatique
-      institution: 
-      year: 
+    - course: Engineering Degree, M. Sc. Computer science
+      institution: Higher National School of Computer Science, Algiers, Algeria
+      year: 2019-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,13 +34,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Mahdi.Ait.Lhaj.Loutfi@USherbrooke.ca'
+    link: 'mailto:ihssene.brahimi@usherbrooke.ca'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mahdi-ait-lhaj-loutfi-332014253/
+    link: https://www.linkedin.com/in/%D8%A5%D8%AD%D8%B3%D8%A7%D9%86-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A-%F0%9F%87%B5%F0%9F%87%B8%F0%9F%87%A9%F0%9F%87%BF-89724519a/
   - icon: github
     icon_pack: fab
-    link: https://github.com/MahdiAll99
+    link: https://github.com/Ihssene-Brahimi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Former Members (2024)
 ---
 
-Mahdi Ait Lhaj Loutfi est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2021. Son projet de recherche concerne l'exploration des niveaux de complexité des caractéristiques radiomiques. Il est aussi l'architecte et le mainteneur principal du logiciel MEDimage, une composante essentielle de MEDomicsLab.
+        Ihssene Brahimi did a research internship at MEDomics Lab between October 2023 and August 2024. Her research project involved developing a pipeline for detecting and classifying small renal masses using deep learning and semi-supervised methods.

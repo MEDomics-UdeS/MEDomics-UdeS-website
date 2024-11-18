@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mahdi Ait Lhaj Loutfi
+title: Ouael Nedjem Eddine SAHBI
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Student (M. Sc. Software Engineering)
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,20 @@ bio:
 
 
 interests:
-  - Python
-  - Imagerie médicale
-  - Radiomique
-  - Intelligence artificielle
+    ⁃ Machine Learning
+    ⁃ Federated Learning
+    ⁃ Differential Privacy
+    ⁃ Transfer learning
+    ⁃ Software engineering
 
 education:
   courses:
-    - course: M. Sc. Informatique
+    - course: M. Sc. Software Engineering
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-2023
-    - course: B. Sc. Informatique
-      institution: 
-      year: 
+      year: 2025-2027
+    - course: Engineering Degree, M. Sc. Computer science
+      institution: Higher National School of Computer Science, Algiers, Algeria
+      year: 2019-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,13 +40,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Mahdi.Ait.Lhaj.Loutfi@USherbrooke.ca'
+    link: 'mailto:ouael2019esi@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mahdi-ait-lhaj-loutfi-332014253/
+    link: https://www.linkedin.com/in/ouael-nedjem-eddine-sahbi-4674231b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   - icon: github
     icon_pack: fab
-    link: https://github.com/MahdiAll99
+    link: github.com/ouaelesi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Students (M. Sc.)
 ---
 
-Mahdi Ait Lhaj Loutfi est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2021. Son projet de recherche concerne l'exploration des niveaux de complexité des caractéristiques radiomiques. Il est aussi l'architecte et le mainteneur principal du logiciel MEDimage, une composante essentielle de MEDomicsLab.
+        Ouael is a master student in the Medomics UdeS laboratory since 2025. He previously did a research intern at the laboratory between October 2023 and August 2024. He is working on the integration of federated learning and transfer learning with differential privacy to ensure the confidentiality of medical data. He is developing a federated learning simulation package that will be integrated into the Medomics Lab platform.

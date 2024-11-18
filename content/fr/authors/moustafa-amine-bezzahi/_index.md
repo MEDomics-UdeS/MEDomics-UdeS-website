@@ -1,36 +1,33 @@
 ---
 # Display name
-title: Mahdi Ait Lhaj Loutfi
+title: Moustafa Amine Bezzahi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Ancien stagiaire
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/'
+  - name: Ecole supérieure d’informatique d’Alger
+    url: 'https://www.esi.dz/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-  - Python
-  - Imagerie médicale
-  - Radiomique
-  - Intelligence artificielle
+    - Intelligence Artificielle
+    - Vision par ordinateur
+    - Informatique de la santé
+    - Imagerie médicale
 
 education:
   courses:
-    - course: M. Sc. Informatique
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-2023
-    - course: B. Sc. Informatique
-      institution: 
-      year: 
+    - course: Diplôme d'ingénieur, Maîtrise en informatique
+      institution: École nationale Supérieure d'Informatique, Alger, Algérie
+      year: 2019-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,13 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Mahdi.Ait.Lhaj.Loutfi@USherbrooke.ca'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/mahdi-ait-lhaj-loutfi-332014253/
+    link: 'mailto:hm_bezzahi@esi.dz'
   - icon: github
     icon_pack: fab
-    link: https://github.com/MahdiAll99
+    link: https://github.com/mus-bz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Anciens membres (2024)
 ---
 
-Mahdi Ait Lhaj Loutfi est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2021. Son projet de recherche concerne l'exploration des niveaux de complexité des caractéristiques radiomiques. Il est aussi l'architecte et le mainteneur principal du logiciel MEDimage, une composante essentielle de MEDomicsLab.
+        Moustafa a effectué un stage dans le laboratoire MEDomics UdeS de Novembre 2023 à Aoùt 2024. Il a travaillé sur la détection automatique des petites masses rénales en Imagerie médicale de CHUS. Il était co-encadré par Dr Partick Richard et Pr Martin Vallières.

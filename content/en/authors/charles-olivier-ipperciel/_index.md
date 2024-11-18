@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mahdi Ait Lhaj Loutfi
+title: Charles-Olivier Ipperciel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Informatique, imagerie)
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,14 @@ bio:
 
 
 interests:
-  - Python
-  - Imagerie médicale
-  - Radiomique
-  - Intelligence artificielle
+  - Web development
+  - Full stack
 
 education:
   courses:
-    - course: M. Sc. Informatique
-      institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-2023
-    - course: B. Sc. Informatique
-      institution: 
-      year: 
+    - course: Computer science
+      institution: Université de Sherbrooke
+      year: 2022-2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,13 +34,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Mahdi.Ait.Lhaj.Loutfi@USherbrooke.ca'
+    link: 'mailto:ippc2001@usherbrooke.ca'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mahdi-ait-lhaj-loutfi-332014253/
+    link: https://www.linkedin.com/in/coipp/
   - icon: github
     icon_pack: fab
-    link: https://github.com/MahdiAll99
+    link: https://github.com/CharlesOIpperciel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Research Assistants and Interns
 ---
 
-Mahdi Ait Lhaj Loutfi est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2021. Son projet de recherche concerne l'exploration des niveaux de complexité des caractéristiques radiomiques. Il est aussi l'architecte et le mainteneur principal du logiciel MEDimage, une composante essentielle de MEDomicsLab.
+        Charles-Olivier Ipperciel is a FullStack developer, currently working on improving data management within our application. Outside of work, he is passionate about running, cycling, and gym training. In his free time, he also enjoys developing small projects, mainly web applications. He is in his third year of a bachelor's degree in computer science, as part of the co-op program, at the University of Sherbrooke.

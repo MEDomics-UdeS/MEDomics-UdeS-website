@@ -22,6 +22,7 @@ content:
     - Research Professionals
     - Research Assistants and Interns
     - Interns
+    - Former Members (2024)
     - Former Members (2023)
     - Former Members (2022)
     - Former Members (2021)
