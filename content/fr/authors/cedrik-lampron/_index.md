@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Charles-Olivier Ipperciel
+title: Cedrik Lampron
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Auxiliaire de recherche
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,18 @@ bio:
 
 
 interests:
-  - Web development
-  - Full stack
+  - Game Jams
+  - CyberSécurité
+  - Gouvernance des données 
 
 education:
   courses:
-    - course: B. Sc. Computer science
-      institution: Université de Sherbrooke
-      year: 2022-2025
+    - course: B. Sc. Informatique
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: 2021-2025
+    - course: M.A. Histoire
+      institution: 
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,13 +38,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ippc2001@usherbrooke.ca'
+    link: 'mailto:cedrik.lampron@usherbrooke.ca'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/coipp/
+    link: https://www.linkedin.com/in/c%C3%A9drik-lampron-541002187/
   - icon: github
     icon_pack: fab
-    link: https://github.com/CharlesOIpperciel
+    link: https://cedriklampron.github.io/Portfolio/theme/view
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Auxiliaires de recherche et stagiaires
 ---
 
-Charles-Olivier Ipperciel is a FullStack developer, currently working on improving data management within our application. Outside of work, he is passionate about running, cycling, and gym training. In his free time, he also enjoys developing small projects, mainly web applications. He is in his third year of a bachelor's degree in computer science, as part of the co-op program, at the University of Sherbrooke.
+Cédrik termine son Baccalauréat en informatique sous peu. (2025) Il s’agit de sa dernière aventure dans le monde académique après sa maîtrise en histoire.  Développeur fullstack, il s’intéresse particulièrement à l’impact des technologies sur les services ainsi que les défis que cela pose au processus démocratique. Il a effectué ces stages dans le milieu municipale et dans le domaine de la santé. Présentement, Cédrik travail à l’amélioration de l’application permettant aux professionnels de la santé à interagir plus facile avec la plateforme de machine learning.
