@@ -18,11 +18,11 @@ bio:
 
 
 interests:
-    ⁃ Machine Learning
-    ⁃ Federated Learning
-    ⁃ Differential Privacy
-    ⁃ Transfer learning
-    ⁃ Software engineering
+    - Machine Learning
+    - Federated Learning
+    - Differential Privacy
+    - Transfer learning
+    - Software engineering
 
 education:
   courses:
