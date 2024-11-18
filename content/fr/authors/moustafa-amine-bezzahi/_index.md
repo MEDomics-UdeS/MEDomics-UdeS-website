@@ -58,4 +58,4 @@ user_groups:
   - Anciens membres (2024)
 ---
 
-        Moustafa a effectué un stage dans le laboratoire MEDomics UdeS de Novembre 2023 à Aoùt 2024. Il a travaillé sur la détection automatique des petites masses rénales en Imagerie médicale de CHUS. Il était co-encadré par Dr Partick Richard et Pr Martin Vallières.
+Moustafa a effectué un stage dans le laboratoire MEDomics UdeS de Novembre 2023 à Aoùt 2024. Il a travaillé sur la détection automatique des petites masses rénales en Imagerie médicale de CHUS. Il était co-encadré par Dr Partick Richard et Pr Martin Vallières.

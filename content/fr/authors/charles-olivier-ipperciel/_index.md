@@ -59,4 +59,4 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-        Charles-Olivier Ipperciel est développeur FullStack, actuellement engagé dans l'amélioration de la gestion des données au sein de notre application. En dehors du travail, il est passionné par la course, le vélo et l'entraînement au gym. Dans mon temps libre, il aime aussi développer de petits projets, principalement des applications web. Il est en troisième année du baccalauréat en informatique, dans le cadre du régime coopératif, à l'Université de Sherbrooke.
+Charles-Olivier Ipperciel est développeur FullStack, actuellement engagé dans l'amélioration de la gestion des données au sein de notre application. En dehors du travail, il est passionné par la course, le vélo et l'entraînement au gym. Dans mon temps libre, il aime aussi développer de petits projets, principalement des applications web. Il est en troisième année du baccalauréat en informatique, dans le cadre du régime coopératif, à l'Université de Sherbrooke.

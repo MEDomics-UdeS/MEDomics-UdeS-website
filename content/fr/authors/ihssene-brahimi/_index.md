@@ -59,4 +59,4 @@ user_groups:
   - Anciens membres (2024)
 ---
 
-        Ihssene Brahimi a effectué un stage de recherche au sein du laboratoire MEDomicsLab entre Octobre 2023 et Aout 2024. Son projet de recherche consistait à mettre au point un pipeline de détection et de classification des petites masses rénales en utilisant des méthodes d'apprentissage profond et semi-supervisé.
+Ihssene Brahimi a effectué un stage de recherche au sein du laboratoire MEDomicsLab entre Octobre 2023 et Aout 2024. Son projet de recherche consistait à mettre au point un pipeline de détection et de classification des petites masses rénales en utilisant des méthodes d'apprentissage profond et semi-supervisé.

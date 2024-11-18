@@ -59,5 +59,5 @@ user_groups:
   - Anciens membres (2024)
 ---
 
-        Amriou Ludmila a travaillé comme stagiaire au laboratoire MEDomicsLab en 2024. Elle travaillait sur la couche d'évaluation de la plateforme MedomicsLab.
-        Son travail consistait à évaluer les performance des modèles d'IA déployés dans le domaine médical en utilisant des techniques d'évaluation traditionnelles ainsi que des méthodes innovantes telles que MED3pa et Detectron. Ces méthodes nous aident à identifier les profils de patients causant des problèmes de performance dans les modèles et à détecter si le jeu de données ou ces patients sont affectés par un Covariate Shift.
+Amriou Ludmila a travaillé comme stagiaire au laboratoire MEDomicsLab en 2024. Elle travaillait sur la couche d'évaluation de la plateforme MedomicsLab.
+Son travail consistait à évaluer les performance des modèles d'IA déployés dans le domaine médical en utilisant des techniques d'évaluation traditionnelles ainsi que des méthodes innovantes telles que MED3pa et Detectron. Ces méthodes nous aident à identifier les profils de patients causant des problèmes de performance dans les modèles et à détecter si le jeu de données ou ces patients sont affectés par un Covariate Shift.

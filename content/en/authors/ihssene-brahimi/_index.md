@@ -59,4 +59,4 @@ user_groups:
   - Former Members (2024)
 ---
 
-        Ihssene Brahimi did a research internship at MEDomics Lab between October 2023 and August 2024. Her research project involved developing a pipeline for detecting and classifying small renal masses using deep learning and semi-supervised methods.
+Ihssene Brahimi did a research internship at MEDomics Lab between October 2023 and August 2024. Her research project involved developing a pipeline for detecting and classifying small renal masses using deep learning and semi-supervised methods.

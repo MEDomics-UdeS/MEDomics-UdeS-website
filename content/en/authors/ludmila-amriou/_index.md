@@ -59,5 +59,5 @@ user_groups:
   - Former Members (2024)
 ---
 
-        Amriou Ludmila was an intern at the MEDomicsLab in 2024. She was working on the evaluation layer of the MedomicsLab platform.
-        Her work involved evaluating the performance of AI models deployed in the medical field, employing both traditional evaluation techniques and innovative methods like MED3pa and Detectron. These methods help us identify patient profiles that cause performance issues in the models and detect whether the dataset or these patients are affected by Covariate Shift.
+Amriou Ludmila was an intern at the MEDomicsLab in 2024. She was working on the evaluation layer of the MedomicsLab platform.
+Her work involved evaluating the performance of AI models deployed in the medical field, employing both traditional evaluation techniques and innovative methods like MED3pa and Detectron. These methods help us identify patient profiles that cause performance issues in the models and detect whether the dataset or these patients are affected by Covariate Shift.

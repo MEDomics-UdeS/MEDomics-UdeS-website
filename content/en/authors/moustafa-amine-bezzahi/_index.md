@@ -58,4 +58,4 @@ user_groups:
   - Former Members (2024)
 ---
 
-        Moustafa did an internship at MEDomicsLab UdeS from November 2023 till August 2024. He Worked on automatic detection of small renal masses using CHUS Medical Imaging dataset. He was supervised by Dr Partick Richard and Pr Martin Vallières.
+Moustafa did an internship at MEDomicsLab UdeS from November 2023 till August 2024. He Worked on automatic detection of small renal masses using CHUS Medical Imaging dataset. He was supervised by Dr Partick Richard and Pr Martin Vallières.

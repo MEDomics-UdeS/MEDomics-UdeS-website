@@ -59,4 +59,4 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-        Charles-Olivier Ipperciel is a FullStack developer, currently working on improving data management within our application. Outside of work, he is passionate about running, cycling, and gym training. In his free time, he also enjoys developing small projects, mainly web applications. He is in his third year of a bachelor's degree in computer science, as part of the co-op program, at the University of Sherbrooke.
+Charles-Olivier Ipperciel is a FullStack developer, currently working on improving data management within our application. Outside of work, he is passionate about running, cycling, and gym training. In his free time, he also enjoys developing small projects, mainly web applications. He is in his third year of a bachelor's degree in computer science, as part of the co-op program, at the University of Sherbrooke.

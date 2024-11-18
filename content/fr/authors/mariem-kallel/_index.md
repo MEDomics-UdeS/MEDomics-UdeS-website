@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mariem.kallel@usherbrooke.ca
+    link: 'mailto:mariem.kallel@usherbrooke.ca'
   - icon: linkedin
     icon_pack: fab
     link: https://ca.linkedin.com/in/mariem-kallel-4a80201b5'
@@ -63,4 +63,4 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-        Mariem Kallel est étudiante à la maîtrise en génie logiciel au laboratoire MEDomics de l'Université de Sherbrooke depuis l'hiver 2024. Son projet de recherche se concentre principalement sur l'optimisation de l'interface MEDomicsLab afin de favoriser une adoption et une compréhension généralisées pour tous les utilisateurs de l'application, en particulier les médecins.
+Mariem Kallel est étudiante à la maîtrise en génie logiciel au laboratoire MEDomics de l'Université de Sherbrooke depuis l'hiver 2024. Son projet de recherche se concentre principalement sur l'optimisation de l'interface MEDomicsLab afin de favoriser une adoption et une compréhension généralisées pour tous les utilisateurs de l'application, en particulier les médecins.

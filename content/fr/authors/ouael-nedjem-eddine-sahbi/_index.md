@@ -65,4 +65,4 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-        Ouael est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2025. Il a auparavant effectué un stage de recherche au laboratoire entre octobre 2023 et aout 2024. Il travaille sur l'intégration de l'apprentissage fédéré et de l'apprentissage par transfert avec la confidentialité différentielle afin de garantir la confidentialité des données médicales. Il développe un package de simulation d'apprentissage fédéré qui sera intégré à la plateforme Medomics Lab.
+Ouael est un étudiant à la maîtrise dans le laboratoire MEDomics UdeS depuis 2025. Il a auparavant effectué un stage de recherche au laboratoire entre octobre 2023 et aout 2024. Il travaille sur l'intégration de l'apprentissage fédéré et de l'apprentissage par transfert avec la confidentialité différentielle afin de garantir la confidentialité des données médicales. Il développe un package de simulation d'apprentissage fédéré qui sera intégré à la plateforme Medomics Lab.
