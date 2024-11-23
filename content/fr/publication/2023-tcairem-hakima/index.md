@@ -55,11 +55,11 @@ authors:
   data to advance predictive models and enhance patient care.
 
 ## Présentation
-<a href="assets/media/code.png" download>
-<img src="media/code.png" alt="W3Schools">
+<a href="/media/code.png" download>
+<img src="/media/code.png" alt="W3Schools">
 </a>
 
-<a href="media/code.png" download>Click to Download</a>
+<a href="/media/code.png" download>Click to Download</a>
 
 ## Liens
 
