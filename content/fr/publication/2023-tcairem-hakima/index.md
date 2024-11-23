@@ -56,10 +56,10 @@ authors:
 
 ## Présentation
 <a href="assets/media/code.png" download>
-<img src="assets/media/code.png" alt="W3Schools">
+<img src="media/code.png" alt="W3Schools">
 </a>
 
-<a href="assets/media/code.png" download>Click to Download</a>
+<a href="media/code.png" download>Click to Download</a>
 
 ## Liens
 
