@@ -65,9 +65,8 @@ user_groups:
   - Anciens membres (2022)
 ---
 
-Nicolas Raymond est étudiant à la maîtrise en informatique depuis l’été 2020. 
-Sa recherche se consacre sur le développement de modèles d'apprentissage automatique pour le diagnostic 
+Nicolas Raymond était étudiant à la maîtrise en informatique depuis l’été 2020 jusqu'en 2022. 
+Sa recherche se consacrait sur le développement de modèles d'apprentissage automatique pour le diagnostic 
 et la prédiction des effets secondaires tardifs associés au traitement de la leucémie aiguë 
 lymphoblastique infantile. Celui-ci s'intéresse principalement à l'application et la création de 
 nouvelles architectures de réseaux de neurones graphiques.
-

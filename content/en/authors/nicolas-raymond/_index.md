@@ -65,7 +65,7 @@ user_groups:
   - Former Members (2022)
 ---
 
-Nicolas Raymond started is master's degree in computer science during the summer of 2020. 
-His research project focuses on the development of machine learning models for the diagnostic 
+Nicolas Raymond started his master's degree in computer science during the summer of 2020. 
+His research project focused on the development of machine learning models for the diagnostic 
 and the prediction of late adverse effects associated to childhood acute lymphoblastic leukaemia treatment.
 He is mostly dedicated to the application and the design of new graph neural network architectures.

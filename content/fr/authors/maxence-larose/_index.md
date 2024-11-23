@@ -6,7 +6,7 @@ title: Maxence Larose
 superuser: false
 
 # Role/position
-role: Étudiant (M. Sc. Physique)
+role: Ancien étudiant (M. Sc. Physique)
 
 # Organizations/Affiliations
 organizations:
@@ -60,9 +60,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Anciens membres (2024)
 ---
 
-Maxence Larose est étudiant à la maîtrise en physique dans le laboratoire MEDomics UdeS. Son projet de recherche
-consiste à développer des modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement 
+Maxence Larose était étudiant à la maîtrise en physique dans le laboratoire MEDomics UdeS. Son projet de recherche
+consistait à développer des modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement 
 du cancer de la prostate.
