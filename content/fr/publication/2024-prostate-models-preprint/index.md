@@ -26,7 +26,7 @@ authors:
   - Félix Desroches<sup>1,2</sup>
   - [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})<sup>3</sup>
   - Daphnée Bédard-Tremblay<sup>2</sup>
-  -Danahé LeBlanc<sup>1,2</sup>
+  - Danahé LeBlanc<sup>1,2</sup>
   - Fatemeh Rasekh<sup>2</sup>
   - Hélène Hovington<sup>2</sup>
   - Bertrand Neveu<sup>2</sup>
