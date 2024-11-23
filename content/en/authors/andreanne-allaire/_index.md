@@ -6,7 +6,7 @@ title: Andréanne Allaire
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Former research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2024)
 ---
 
-Andréanne Allaire is a research assistant in the MEDomics UdeS laboratory since 2022 and is dedicated to the optimization of radiomic features in magnetic resonance imaging (MRI) to improve precision medicine.
+Andréanne Allaire was a research assistant in the MEDomics UdeS laboratory between 2022 and 2024. Andréanne was dedicated to the optimization of radiomic features in magnetic resonance imaging (MRI) to improve precision medicine.
