@@ -55,6 +55,9 @@ authors:
   data to advance predictive models and enhance patient care.
 
 ## Presentation
+<a href="/media/presentations/2023-tcairem-laribi.pptx" download>
+<img src="/media/icons/ppt.png" alt="Download PPT">
+</a>
 
 ## Links
 
