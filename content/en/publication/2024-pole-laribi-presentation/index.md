@@ -12,7 +12,7 @@ authors:
   - Martin Vallières
 ---
 
-![Pole]("/media/logos/pole_numerique_en.jpg")
+![Pole](/media/logos/pole_numerique_en.jpg)
 
 ## Date
 
