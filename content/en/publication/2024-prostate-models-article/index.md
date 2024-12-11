@@ -1,5 +1,5 @@
 ---
-title: "Paper: Electric Power Fuse Identification With Deep Learning"
+title: "Paper: Multi-task Bayesian Model Combining FDG-PET/CT Imaging and Clinical Data for Interpretable High-Grade Prostate Cancer Prognosis"
 date: 2024-11-06
 image:
   focal_point: 'top'
