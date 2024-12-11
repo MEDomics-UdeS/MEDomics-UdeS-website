@@ -60,7 +60,12 @@ ensuring the safe and effective integration of machine learning models in clinic
 {{< download-pdf file="/media/presentations/2023-tcairem-lefebvre.pdf" >}}
 [![Presentation](/media/icons/pdf.png)](/media/presentations/2023-tcairem-lefebvre.pdf)
 ![Presentation](/media/presentations/2023-tcairem-lefebvre.pdf)
+<iframe src="/media/presentations/2023-tcairem-lefebvre.pdf" width="100%" height="600px" style="border: none; background: transparent;"></iframe>
+
 <embed src="/media/presentations/2023-tcairem-lefebvre.pdf" width="100%" height="600px" type="application/pdf">
+<div style="display: flex; justify-content: center; align-items: center; background: transparent; padding: 0;">
+  <embed src="/media/presentations/2023-tcairem-lefebvre.pdf" width="100%" height="600px" type="application/pdf" style="border: none;" />
+</div>
 
 
 ## Liens
