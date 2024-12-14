@@ -15,6 +15,10 @@ banner:
   image: ''
 ---
 
+### Général
+
+- [Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé]({{< relref "distributed-learning-inference" >}})
+
 ### Maîtrise
 
 - [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})

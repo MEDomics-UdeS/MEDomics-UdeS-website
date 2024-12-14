@@ -21,7 +21,6 @@ banner:
 
 - [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "medomicslab" >}})
 - [Développement du logiciel  _MEDimage_]({{< relref "medimage" >}})
-- [Développement d'une revue méthodologique sur l'inférence statistique et l'apprentissage distribués en santé]({{< relref "distributed-learning-inference" >}})
 
 ### Doctorat
 

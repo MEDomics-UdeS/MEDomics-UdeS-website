@@ -16,7 +16,7 @@ authors:
 
 ## État
 
-En cours (2020-aujourd'hui)
+En cours (2020-)
 
 ## Type
 
@@ -27,9 +27,9 @@ Général
 - [Fabio Provencher-Flores]({{< relref "/authors/fabio-provencher-flores" >}})<sup>1</sup> (été 2020)
 - [François Marcoux]({{< relref "/authors/francois-marcoux" >}})<sup>1</sup> (été 2020)
 - [Julien Corriveau-Trudel]({{< relref "/authors/julien-corriveau-trudel" >}})<sup>1</sup> (été 2020)
-- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})<sup>1</sup> (2020-aujourd'hui)
-- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (2020-aujourd'hui)
-- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
+- [Nicolas Raymond]({{< relref "/authors/nicolas-raymond" >}})<sup>1</sup> (2020-)
+- [Olivier Lefebvre]({{< relref "/authors/olivier-lefebvre" >}})<sup>1</sup> (2020-)
+- [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-)
 
 <sup>1</sup> Départment d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
 

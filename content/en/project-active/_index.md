@@ -21,7 +21,6 @@ banner:
 
 - [Development of the _MEDomicsLab_ platform]({{< relref "medomicslab" >}})
 - [Development of the _MEDimage_ package]({{< relref "medimage" >}})
-- [Development of a methodological review on statistical inference and distributed learning in health]({{< relref "distributed-learning-inference" >}})
 
 ### Doctorate
 

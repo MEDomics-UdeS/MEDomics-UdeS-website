@@ -15,6 +15,11 @@ banner:
   image: ''
 ---
 
+### General
+
+- [Development of a methodological review on statistical inference and distributed learning in health]({{< relref "distributed-learning-inference" >}})
+
+
 ### Master's
 
 - [Development of artificial intelligence techniques for the automated identification of electrical energy assets (2020-2022)]({{< relref "energAI" >}})
