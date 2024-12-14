@@ -8,6 +8,7 @@ type: book
 
 authors:
   - Mahdi Ait Lhaj Loutfi
+  - Teodora Boblea Podasca
   - Martin Vallières
 ---
 
