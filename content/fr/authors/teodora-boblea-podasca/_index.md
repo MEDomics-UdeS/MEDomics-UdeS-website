@@ -6,7 +6,7 @@ title: Teodora Boblea Podasca
 superuser: false
 
 # Role/position
-role: Étudiante (M. Sc. Sciences de la santé)
+role: Ancienne étudiante (M. Sc. Sciences de la santé)
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: M. Sc. Sciences de la santé, type recherche
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2022-2023
+      year: 2022-2024
     - course: Medicinæ Doctor
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2018-2022
@@ -56,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Étudiants et étudiantes (M. Sc.)
+  - Anciens membres (2024)
 ---
 
-Teodora Boblea est étudiante à la maîtrise en sciences de la santé depuis l’automne 2022. Son projet consiste à 
+Teodora Boblea était étudiante à la maîtrise en sciences de la santé entre l’automne 2022 et l'automne 2024. Son projet consistait à 
 utiliser la radiomique pour prédire l’histologie (bénin vs malin) d’une petite masse rénale sur les CT scan. 

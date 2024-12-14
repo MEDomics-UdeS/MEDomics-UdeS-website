@@ -6,7 +6,7 @@ title: Teodora Boblea Podasca
 superuser: false
 
 # Role/position
-role: Student (M. Sc. Health sciences)
+role: Former student (M. Sc. Health sciences)
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: M. Sc. Health sciences, research type
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2022-2023
+      year: 2022-2024
     - course: Medicinæ Doctor
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2018-2022
@@ -56,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students (M. Sc.)
+  - Former Members (2024)
 ---
 
-Teodora Boblea is a M. Sc. student in Health Sciences since fall 2022. Her project involves using radiomics to 
+Teodora Boblea was a M. Sc. student in Health Sciences between fall 2022 and fall 2024. Her project involved using radiomics to 
 predict the histology (benign vs. malignant) of a small renal mass on CT scans. 

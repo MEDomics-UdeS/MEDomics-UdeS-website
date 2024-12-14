@@ -6,7 +6,7 @@ title: Brahim Fakri
 superuser: false
 
 # Role/position
-role: Auxiliaire de recherche
+role: Professionnel de recherche
 
 # Organizations/Affiliations
 organizations:

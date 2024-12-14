@@ -6,7 +6,7 @@ title: Mahdi Ait Lhaj Loutfi
 superuser: false
 
 # Role/position
-role: Student (M. Sc. Computer science, imaging)
+role: Research professional
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ education:
   courses:
     - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-2023
+      year: 2021-2024
     - course: B. Sc. Computer science
       institution: 
       year: 
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students (M. Sc.)
+  - Research Assistants and Interns
 ---
 
-Mahdi Ait Lhaj Loutfi is a master student in the MEDomics UdeS laboratory since 2021. His research project concerns the exploration of the complexity of radiomic features. He is also the main architect and maintainer of the MEDimage package, an essential component of the MEDomicsLab.
+Mahdi Ait Lhaj Loutfi is a research professional in the MEDomics UdeS laboratory, where he works on the development of the MEDomicsLab platform. He completed his master’s degree in 2024, with a research project focused on exploring the complexity of radiomic features. He is also the main architect and maintainer of the MEDimage package, a vital component of MEDomicsLab.

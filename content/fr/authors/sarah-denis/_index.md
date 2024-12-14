@@ -6,7 +6,7 @@ title: Sarah Denis
 superuser: false
 
 # Role/position
-role: Professionnelle de recherche
+role: Ancienne professionnelle de recherche
 
 # Organizations/Affiliations
 organizations:
@@ -60,8 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Auxiliaires de recherche et stagiaires
+  - Anciens membres (2024)
 ---
 
-Sarah Denis est professionnelle de recherche dans le laboratoire MEDomics UdeS depuis janvier 2023.
-Elle se consacre au développement de la plateforme MEDomicsLab, en particulier sur la visualisation des données (MEDProfiles).
+Sarah Denis a été professionnelle de recherche au sein du laboratoire MEDomics UdeS de janvier 2023 à août 2024. Elle s'est investie avec dévouement dans le développement de la plateforme MEDomicsLab, en particulier pour améliorer la visualisation des données grâce à MEDProfiles. Ses contributions ont considérablement fait progresser le laboratoire et le projet, jouant un rôle clé dans leur avancement et leur impact.
