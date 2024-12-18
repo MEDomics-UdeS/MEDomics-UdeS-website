@@ -10,6 +10,9 @@ authors:
   - Mahdi Ait Lhaj Loutfi
   - Teodora Boblea Podasca
   - Martin Vallières
+
+categories: Preprints
+where: arXiv
 ---
 
 ![arXiv](featured.png)

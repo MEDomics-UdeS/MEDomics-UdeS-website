@@ -9,6 +9,9 @@ type: book
 authors:
   - Olivier Lefebvre
   - Martin Vallières
+
+categories: Presentations
+where: T-CAIREM
 ---
 
 ![T-CAIREM](tcairem.png)

@@ -9,6 +9,9 @@ show_date: true
 
 authors:
   - Alexandre Ayotte
+
+categories: Presentations
+where: ACFAS 2021
 ---
 
 ![ACFAS](featured.png)

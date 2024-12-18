@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ihssene Brahimi
+nickname: I. Brahimi
 
 # Is this the primary user of the site?
 superuser: false

@@ -8,6 +8,9 @@ type: book
 
 authors:
   - Mahdi Ait Lhaj Loutfi
+
+categories: Presentations
+where: Medical Imaging with Deep Learning 2022
 ---
 
 ![RBIQ](featured.jpg)

@@ -10,6 +10,9 @@ authors:
   - Maxence Larose
   - Nicolas Raymond
   - Martin Vallières
+
+categories: Journal Papers
+where: Nature Scientific Reports
 ---
 
 ![arXiv](featured.png)

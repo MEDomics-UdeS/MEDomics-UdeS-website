@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Nicolas Longchamps
+nickname: N. Longchamps
 
 # Is this the primary user of the site?
 superuser: false

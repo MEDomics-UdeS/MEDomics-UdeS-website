@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Corentin Gauthier
+nickname: C. Gauthier
 
 # Is this the primary user of the site?
 superuser: false

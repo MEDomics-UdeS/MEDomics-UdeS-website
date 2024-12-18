@@ -1,0 +1,22 @@
+<!-- layouts/shortcodes/get-publications.html -->
+
+{{ $category := .Get 0 }}
+{{ $publications := where $.Site.RegularPages "Params.categories" "eq"  $category }}
+  {{ range $publications }}
+
+    <ul><li>
+      {{ range $index, $author := .Params.authors }}
+        {{ if gt $index 0 }}, {{ end }}
+          {{ with $.Page.GetPage  (printf "/authors/%s" $author | urlize) }}
+          <a href="../author/{{ $author | urlize }}">{{ .Params.nickname }}</a>
+          {{ end }}
+      {{ end }}
+<!--      <a href="../author/{{ index .Params.authors 0 | urlize }}">{{ index .Params.authors 0 }}</a>-->
+      ({{.Params.date.Year}}),
+      <a href="../{{ path.Clean .File.Dir | urlize }}">{{ replaceRE  `^.*: ` "" .Params.title }}</a>.
+      {{ if eq .Site.Params.languagecode "en-us" }} In {{ else if eq .Site.Params.languagecode "fr-ca" }} Dans {{ end }}
+      {{.Params.where}}.
+
+    </li></ul>
+<!--    <li>{{ .File.Path }} - {{ .Params.date }} = {{ .Params.categories }}</li>-->
+  {{ end }}

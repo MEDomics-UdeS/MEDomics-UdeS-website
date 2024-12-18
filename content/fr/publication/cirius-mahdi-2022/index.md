@@ -8,6 +8,9 @@ type: book
 
 authors:
   - Mahdi Ait Lhaj Loutfi
+
+categories: Presentations
+where: CIRIUS
 ---
 
 ![CIRIUS](cirius-blanc.png)

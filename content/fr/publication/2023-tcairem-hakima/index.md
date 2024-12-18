@@ -10,6 +10,9 @@ authors:
   - Hakima Laribi
   - Nicolas Raymond
   - Martin Vallières
+
+categories: Presentations
+where: T-CAIREM
 ---
 
 ![T-CAIREM](tcairem.png)

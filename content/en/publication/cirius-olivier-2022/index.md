@@ -8,6 +8,9 @@ type: book
 
 authors:
   - Olivier Lefebvre
+
+categories: Presentations
+where: CIRIUS
 ---
 
 ![CIRIUS](cirius-blanc.png)

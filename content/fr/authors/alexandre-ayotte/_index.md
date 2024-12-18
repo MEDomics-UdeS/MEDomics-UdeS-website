@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Alexandre Ayotte
+nickname: A. Ayotte
 
 # Is this the primary user of the site?
 superuser: false

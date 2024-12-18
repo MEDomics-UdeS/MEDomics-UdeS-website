@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ludmila Amriou
+nickname: L. Amriou
 
 # Is this the primary user of the site?
 superuser: false

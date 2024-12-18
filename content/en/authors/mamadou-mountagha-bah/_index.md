@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mamadou Mountagha Bah
+nickname: M. Mountagha Bah
 
 # Is this the primary user of the site?
 superuser: false

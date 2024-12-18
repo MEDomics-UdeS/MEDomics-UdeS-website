@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Moustafa Amine Bezzahi
+nickname: M. Amine Bezzahi
 
 # Is this the primary user of the site?
 superuser: false

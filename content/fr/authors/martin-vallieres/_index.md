@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Martin Vallières
+nickname: M. Vallières
 
 # Is this the primary user of the site?
 superuser: true

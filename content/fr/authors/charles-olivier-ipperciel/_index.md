@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Charles-Olivier Ipperciel
+nickname: C.O. Ipperciel
 
 # Is this the primary user of the site?
 superuser: false

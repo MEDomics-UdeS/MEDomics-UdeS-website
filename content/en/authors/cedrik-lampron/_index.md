@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Cedrik Lampron
+nickname: C. Lampron
 
 # Is this the primary user of the site?
 superuser: false
@@ -63,4 +64,4 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-Charles-Olivier Ipperciel is a FullStack developer, currently working on improving data management within our application. Outside of work, he is passionate about running, cycling, and gym training. In his free time, he also enjoys developing small projects, mainly web applications. He is in his third year of a bachelor's degree in computer science, as part of the co-op program, at the University of Sherbrooke.
+Cédrik is nearing the completion of his Bachelor's degree in Computer Science (2025). This marks his final academic endeavor following his Master's degree in History. As a full-stack developer, he has a keen interest in the role of technology in public services and the challenges it poses for democratic processes. He completed several internships, some in the municipal sector and others in healthcare. Cédrik is currently working on improving the application that enables healthcare professionals to interact more easily with a machine learning platform. 

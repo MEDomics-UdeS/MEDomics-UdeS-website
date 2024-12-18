@@ -9,9 +9,12 @@ type: book
 authors:
   - Maxence Larose
   - Martin Vallières
+
+categories: Preprints
+where: medRxiv
 ---
 
-![arXiv](featured.png)
+![medRxiv](featured.png)
 
 ## Date
 
@@ -46,5 +49,5 @@ authors:
 
   ## Links
 
-  - [Paper in arXiv](https://www.medrxiv.org/content/10.1101/2024.06.19.24308396v1)
+  - [Paper in medRxiv](https://www.medrxiv.org/content/10.1101/2024.06.19.24308396v1)
   - [Paper in PDF version](https://www.medrxiv.org/content/10.1101/2024.06.19.24308396v1.full.pdf)

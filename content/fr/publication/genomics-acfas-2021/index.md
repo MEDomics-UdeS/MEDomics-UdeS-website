@@ -8,6 +8,9 @@ type: book
 
 authors:
   - Nicolas Raymond
+
+categories: Presentations
+where: ACFAS 2021
 ---
 
 ![ACFAS](featured.png)

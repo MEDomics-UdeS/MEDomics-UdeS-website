@@ -11,6 +11,9 @@ authors:
   - Hakima Laribi
   - Mehdi Mitiche
   - Martin Vallières
+
+categories: Conference Papers
+where: Proceedings of Machine Learning Research
 ---
 
 ![PMLR](featured.png)

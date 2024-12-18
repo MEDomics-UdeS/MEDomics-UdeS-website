@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Lyna Hiba Chikouche
+nickname: L. Hiba Chikouche
 
 # Is this the primary user of the site?
 superuser: false

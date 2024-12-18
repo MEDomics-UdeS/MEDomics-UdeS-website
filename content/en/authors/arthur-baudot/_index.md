@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Arthur Baudot
+nickname: A. Baudot
 
 # Is this the primary user of the site?
 superuser: false

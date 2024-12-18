@@ -9,6 +9,9 @@ type: book
 authors:
   - Hakima Laribi
   - Martin Vallières
+
+categories: Preprints
+where: arXiv
 ---
 
 ![arXiv](featured.png)

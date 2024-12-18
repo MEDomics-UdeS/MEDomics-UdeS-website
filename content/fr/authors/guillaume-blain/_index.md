@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Guillaume Blain
+nickname: G. Blain
 
 # Is this the primary user of the site?
 superuser: false

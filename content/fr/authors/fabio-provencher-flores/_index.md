@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Fabio Provencher-Flores
+nickname: F. Provencher-Flores
 
 # Is this the primary user of the site?
 superuser: false

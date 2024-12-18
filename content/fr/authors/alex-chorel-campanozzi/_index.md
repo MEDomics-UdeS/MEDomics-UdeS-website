@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Alex Chorel-Campanozzi
+nickname: A. Chorel-Campanozzi
 
 # Is this the primary user of the site?
 superuser: false

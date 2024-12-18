@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Maxence Larose
+nickname: M. Larose
 
 # Is this the primary user of the site?
 superuser: false

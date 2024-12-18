@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Jonathan Perron
+nickname: J. Perron
 
 # Is this the primary user of the site?
 superuser: false

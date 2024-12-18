@@ -1,6 +1,7 @@
 ---
 # Display name
 title: François Marcoux
+nickname: F. Marcoux
 
 # Is this the primary user of the site?
 superuser: false

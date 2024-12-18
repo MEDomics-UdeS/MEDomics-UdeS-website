@@ -10,6 +10,9 @@ authors:
   - Hakima Laribi
   - Nicolas Raymond
   - Martin Vallières
+
+categories: Preprints
+where: Research Square
 ---
 
 ![arXiv](featured.png)

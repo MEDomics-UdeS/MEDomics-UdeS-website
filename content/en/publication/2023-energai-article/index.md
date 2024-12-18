@@ -11,6 +11,9 @@ authors:
   - Guillaume Cléroux
   - Shreyas Sunil Kulkarni
   - Martin Vallières
+
+categories: Journal Papers
+where: IEEE Transactions on Industrial Informatics
 ---
 
 ![arXiv](featured.png)

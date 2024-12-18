@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Guillaume Cléroux
+nickname: G. Cléroux
 
 # Is this the primary user of the site?
 superuser: false

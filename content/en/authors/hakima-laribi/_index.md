@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Hakima Laribi
+nickname: H. Laribi
 
 # Is this the primary user of the site?
 superuser: false

@@ -10,6 +10,9 @@ authors:
   - Maxence Larose
   - Nicolas Raymond
   - Martin Vallières
+
+categories: Conference Papers
+where: Quebec Bioimaging Network 2022
 ---
 
 ![MIDL](featured.png)

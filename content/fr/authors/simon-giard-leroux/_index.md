@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Simon Giard-Leroux
+nickname: S. Giard-Leroux
 
 # Is this the primary user of the site?
 superuser: false

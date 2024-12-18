@@ -9,6 +9,8 @@ type: book
 authors:
   - Nicolas Raymond
   - Martin Vallières
+categories: Preprints
+where: arXiv
 ---
 
 ![arXiv](featured.png)

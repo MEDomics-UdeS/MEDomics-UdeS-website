@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Kayla Davio-Roy
+nickname: K. Davio-Roy
 
 # Is this the primary user of the site?
 superuser: false

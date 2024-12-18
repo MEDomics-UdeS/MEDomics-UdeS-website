@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ouael Nedjem Eddine SAHBI
+nickname: O. Nedjem Eddine SAHBI
 
 # Is this the primary user of the site?
 superuser: false

@@ -8,6 +8,8 @@ type: book
 
 authors:
   - Hakima Laribi
+categories: Presentations
+where: CIRIUS
 ---
 
 ![CIRIUS](cirius-blanc.png)

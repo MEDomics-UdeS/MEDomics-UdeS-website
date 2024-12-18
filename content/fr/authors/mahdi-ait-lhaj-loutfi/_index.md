@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mahdi Ait Lhaj Loutfi
+nickname: M. Ait Lhaj Loutfi
 
 # Is this the primary user of the site?
 superuser: false

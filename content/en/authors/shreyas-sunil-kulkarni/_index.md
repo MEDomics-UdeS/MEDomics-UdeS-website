@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Shreyas Sunil Kulkarni
+nickname: S. Sunil Kulkarni
 
 # Is this the primary user of the site?
 superuser: false

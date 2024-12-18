@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Julien Corriveau-Trudel
+nickname: J. Corriveau-Trudel
 
 # Is this the primary user of the site?
 superuser: false

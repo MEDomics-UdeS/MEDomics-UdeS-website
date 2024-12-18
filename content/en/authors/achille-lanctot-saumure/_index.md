@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Achille Lanctôt-Saumure
+nickname: A. Lanctôt-Saumure
 
 # Is this the primary user of the site?
 superuser: false

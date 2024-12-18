@@ -10,6 +10,9 @@ authors:
   - Hakima Laribi
   - Nicolas Raymond
   - Martin Vallières
+
+categories: Presentations
+where: Pôle universitaire de santé numérique de l’Estrie
 ---
 
 ![Pole](/media/logos/pole_numerique_fr.jpg)

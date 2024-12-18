@@ -9,9 +9,12 @@ type: book
 authors:
   - Maxence Larose
   - Martin Vallières
+
+categories: Preprints
+where: medRxiv
 ---
 
-![arXiv](featured.png)
+![medRxiv](featured.png)
 
 ## Date
 

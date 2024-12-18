@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Hithem Lamri
+nickname: H. Lamri
 
 # Is this the primary user of the site?
 superuser: false
