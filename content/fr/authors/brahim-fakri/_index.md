@@ -60,4 +60,5 @@ user_groups:
 ---
 
 Brahim a rejoint MEDomics UdeS pour son stage de fin d'études en 2022 pendant lequel il a utilisé des modèles d’apprentissage automatique pour le traitement de données médicales.
-Depuis 2023, il travaille comme auxilliaire de recherche pour le projet MEDomicsLab ou il a facilité l'utilisation des données MIMIC pour la plateforme, et assure le role de coordinateur du projet.
+En 2023, il travaillait comme auxilliaire de recherche pour le projet MEDomicsLab ou il a facilité l'utilisation des données MIMIC pour la plateforme, et assurait le role de coordinateur du projet.
+Brahim Fakri est maintenant coordonnateur du "Projet intégré: Données numériques en santé" pour MEDomicsLab et l’Unité de soutien SSA Québec. Il a également contribué à l’utilisation de modèles d’apprentissage automatique pour le traitement des données médicales sur la plateforme MEDomicsLab.

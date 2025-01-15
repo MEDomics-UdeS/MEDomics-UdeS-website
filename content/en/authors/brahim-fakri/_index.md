@@ -60,4 +60,5 @@ user_groups:
 ---
 
 Brahim joined MEDomics UdeS for his end-of-studies internship in 2022 during which he used machine learning models for medical data processing.
-Since 2023, he has been working as a research assistant for the MEDomicsLab project where he facilitated the use of MIMIC data for the platform, and assumes the role of project coordinator.
+In 2023, he was working as a research assistant for the MEDomicsLab project where he facilitated the use of MIMIC data for the platform, and assumed the role of project coordinator.
+Brahim Fakri is now the coordinator of the "Projet intégré: Données numériques en santé" for MEDomicsLab and the SSA Québec Support Unit. He also contributed to the use of machine learning models for the processing of medical data on the MEDomicsLab platform.
