@@ -47,7 +47,7 @@ social:
     link: https://www.linkedin.com/in/ouael-nedjem-eddine-sahbi-4674231b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   - icon: github
     icon_pack: fab
-    link: github.com/ouaelesi
+    link: https://github.com/ouaelesi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
