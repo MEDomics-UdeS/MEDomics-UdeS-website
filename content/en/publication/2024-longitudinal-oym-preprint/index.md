@@ -64,5 +64,5 @@ where: arXiv
 
 ## Links
 
-  - [Paper in arXiv](https://www.medrxiv.org/content/10.1101/2024.06.21.24309191v3)
+  - [Paper in MedRXiv](https://www.medrxiv.org/content/10.1101/2024.06.21.24309191v3)
   - [Paper in PDF version](https://www.medrxiv.org/content/10.1101/2024.06.21.24309191v3.full.pdf)
