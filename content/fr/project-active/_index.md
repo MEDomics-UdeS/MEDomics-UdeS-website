@@ -29,9 +29,6 @@ banner:
 
 ### Maîtrise
 
-- [La radiomique pour la prise en charge des petites masses rénales]({{< relref "kidney-small-tumors" >}})
-- [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate]({{< relref "prostate-models" >}})
-- [Exploration de la complexité des caractéristiques radiomiques]({{< relref "radiomics-complexity" >}})
 
 ## Projets disponibles
 

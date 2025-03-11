@@ -12,7 +12,7 @@ authors:
 
 ## État
 
-En cours (2022-aujourd'hui)
+Terminé (2022-2024)
 
 ## Type
 

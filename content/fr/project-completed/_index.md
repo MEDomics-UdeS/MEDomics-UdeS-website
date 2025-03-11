@@ -21,9 +21,12 @@ banner:
 
 ### Maîtrise
 
-- [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales]({{< relref "multitask-classification" >}})
+- [Apprentissage multi-tâches pour la classification d'images de tumeurs rénales (2020-2023)]({{< relref "multitask-classification" >}})
 - [Développement de modèles d'apprentissage automatique pour le diagnostic et la prédiction des effets secondaires tardifs associés au traitement de la leucémie aiguë lymphoblastique infantile (2020-2022)]({{< relref "vo2max-obesity" >}})
 - [Développement de techniques d'intelligence artificielle pour l'identification automatisée des actifs en énergie électrique (2020-2022)]({{< relref "energAI" >}})
+- [La radiomique pour la prise en charge des petites masses rénales (2022-2024)]({{< relref "kidney-small-tumors" >}})
+- [Modèles résilients prédictifs basés sur l'imagerie quantitative pour guider le traitement du cancer de la prostate (2021-2024)]({{< relref "prostate-models" >}})
+- [Exploration de la complexité des caractéristiques radiomiques (2021-2024)]({{< relref "radiomics-complexity" >}})
 
 ### Baccalauréat
 
