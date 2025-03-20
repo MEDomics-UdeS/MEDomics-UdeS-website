@@ -5,18 +5,26 @@ type: book
 
 authors:
   - Andréanne Allaire
+  - Brahim Fakri
+  - Cedrik Lampron
   - Charles Lévesque-Matte
+  - Charles-Olivier Ipperciel
   - Clarisse Cheng
   - Corentin Gauthier
   - Guillaume Blain
   - Hithem Lamri
   - Jonathan Perron
   - Kayla Davio-Roy
+  - Ludmila Amriou
+  - Lyna Hiba Chikouche
   - Mahdi Ait Lhaj Loutfi
   - Mamadou Mountagha Bah
+  - Mariem Kallel
   - Mohammed Benabbassi
   - Nicolas Longchamps
+  - Ouael Nedjem Eddine SAHBI
   - Robin Mailhot
+  - Sarah Denis
   - Martin Vallières
 ---
 
@@ -33,18 +41,26 @@ Général
 ## Équipe
 
 - [Andréanne Allaire]({{< relref "/authors/andreanne-allaire" >}})<sup>1</sup> (2022-2024)
+- [Brahim Fakri]({{< relref "/authors/brahim-fakri" >}})<sup>1</sup> (2022-2025)
+- [Cedrik Lampron]({{< relref "/authors/Cedrik-Lampron" >}})<sup>1</sup> (2022-2025)
 - [Charles Lévesque-Matte]({{< relref "/authors/charles-levesque-matte" >}})<sup>1</sup> (automne 2020)
+- [Charles-Olivier Ipperciel]({{< relref "/authors/Charles-Olivier-Ipperciel" >}})<sup>1</sup> (2024-aujourd'hui)
 - [Clarisse Cheng]({{< relref "/authors/clarisse-cheng" >}})<sup>1</sup> (été 2022)
 - [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}})<sup>1</sup> (été 2022)
 - [Guillaume Blain]({{< relref "/authors/guillaume-blain" >}})<sup>1</sup> (été 2022-aujourd'hui)
-- [Hithem Lamri]({{< relref "/authors/hithem-lamri" >}})<sup>1</sup> (automne 2022-aujourd'hui)
+- [Hithem Lamri]({{< relref "/authors/hithem-lamri" >}})<sup>1</sup> (automne 2022-2023)
 - [Jonathan Perron]({{< relref "/authors/jonathan-perron" >}})<sup>1</sup> (2020-2021)
 - [Kayla Davio-Roy]({{< relref "/authors/kayla-davio-roy" >}})<sup>1</sup> (été 2021)
+- [Ludmila Amriou]({{< relref "/authors/Ludmila-Amriou" >}})<sup>1</sup> (2023-2024)
+- [Lyna Hiba Chikouche]({{< relref "/authors/Lyna-Hiba-Chikouche" >}})<sup>1</sup> (2023-2024)
 - [Mahdi Ait Lhaj Loutfi]({{< relref "/authors/mahdi-ait-lhaj-loutfi" >}})<sup>1</sup> (2021-aujourd'hui)
 - [Mamadou Mountagha Bah]({{< relref "/authors/mamadou-mountagha-bah" >}})<sup>1</sup> (2020-2021)
-- [Mohammed Benabbassi]({{< relref "/authors/mohammed-benabbassi" >}})<sup>1</sup> (automne 2022-aujourd'hui)
+- [Mariem Kallel]({{< relref "/authors/Mariem-Kallel" >}})<sup>1</sup> (2024-aujourd'hui)
+- [Mohammed Benabbassi]({{< relref "/authors/mohammed-benabbassi" >}})<sup>1</sup> (automne 2022)
 - [Nicolas Longchamps]({{< relref "/authors/nicolas-longchamps" >}})<sup>1</sup> (été 2022-aujourd'hui)
+- [Ouael Nedjem Eddine SAHBI]({{< relref "/authors/Ouael-Nedjem-Eddine-SAHBI" >}})<sup>1</sup> (2023-aujourd'hui)
 - [Robin Mailhot]({{< relref "/authors/robin-mailhot" >}})<sup>1</sup> (automne 2020)
+- [Sarah Denis]({{< relref "/authors/Sarah-Denis" >}})<sup>1</sup> (2023-2024)
 - [Martin Vallières]({{< relref "/authors/martin-vallieres" >}})<sup>1</sup> (2020-aujourd'hui)
 
 <sup>1</sup> Département d'informatique, Université de Sherbrooke, Sherbrooke (QC), Canada
@@ -79,6 +95,8 @@ qui sont construits à partir de ces bases de données:
 3. _Apprentissage profond_ : la multitude d'architectures de réseaux de neurones profonds offre plusieurs possibilités par rapport à l'apprentissage automatique de différentes tâches en médecine. La performance de certains réseaux est parfois supérieure à celle des humains.
 4. _Traitement automatique du texte_ : le traitement et le codage automatique des comptes rendus textuels des dossiers électroniques des patients permettraient une meilleure intégration d'informations pertinentes à la modélisation multi-omique durant toute la période de prise en charge des patients.
 5. _Apprentissage fédéré_ : afin d'augmenter la quantité de données modélisées provenant de différents établissements de santé, une approche d'apprentissage distribué peut être utilisée - les données sont conservées dans les limites de chaque établissement, évitant ainsi les problèmes de transfert de données et de confidentialité.
+
+Pour plus d'informations, voir le [site web du projet](https://medomics-udes.gitbook.io/medomicslab-docs).
 
 Cette plateforme est développée en collaboration avec : 
 
