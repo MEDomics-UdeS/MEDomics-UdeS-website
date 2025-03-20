@@ -28,7 +28,7 @@ banner:
 - [Modélisation prédictive basée sur des représentations sous formes de graphes multi-niveaux des données de santé multimodales]({{< relref "multilevel-graphs" >}})
 
 ### Maîtrise
-
+- [Optimisation de MEDomicsLab : Amélioration de l'utilisabilité pour une meilleure adoption clinique]({{< relref "medomicslab-optimization" >}})
 
 ## Projets disponibles
 

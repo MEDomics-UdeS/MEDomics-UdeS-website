@@ -29,7 +29,7 @@ banner:
 
 
 ### Master's
-
+- [Optimizing MEDomicsLab: Enhancing Usability for Clinical AI Adoption]({{< relref "medomicslab-optimization" >}})
 
 ## Available projects
 
