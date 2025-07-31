@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: EducationalOrganization
     local_business_type: ''
-    org_name: 'MEDomics UdeS'
-    description: 'MEDomics UdeS research lab'
-    twitter: 'MEDomics Ude'
+    org_name: 'MEDomicsLab'
+    description: 'MEDomicsLab research lab'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} MEDomics UdeS ({license}). Créé par [Simon Giard-Leroux](https://www.medomics-udes.org/fr/author/simon-giard-leroux/) et maintenu par [Olivier Lefebvre](https://www.medomics-udes.org/fr/author/olivier-lefebvre/).'
+    notice: '© {year} MEDomicsLab ({license}). Created by [Simon Giard-Leroux](https://www.medomicslab.com/fr/author/simon-giard-leroux/) and maintained by [Olivier Lefebvre](https://www.medomicslab.com/fr/author/olivier-lefebvre/).'
     license:
       enable: true
       allow_derivatives: false

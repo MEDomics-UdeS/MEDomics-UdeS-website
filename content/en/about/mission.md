@@ -7,7 +7,7 @@ design:
   columns: "1"
 ---
 <div style="text-align: justify;">
-The main mission of the MEDomics UdeS lab is to develop a framework for <b>privacy-preserving distributed GNN learning 
+The main mission of MEDomicsLab is to develop a framework for <b>privacy-preserving distributed GNN learning 
   from a network of federated healthcare databases</b>, which will be an important step in advancing AI in medicine. In 
 this federated learning framework:
 <ul>
@@ -15,7 +15,7 @@ this federated learning framework:
   <li> (ii) data are always kept within the boundaries of each healthcare facility, thus avoiding data transfer.</li>
 </ul>
   
-The figures below provide an overview of the main research framework of the MEDomics UdeS lab.
+The figures below provide an overview of the main research framework of the MEDomicsLab.
 </div>
 
 <p align="center">

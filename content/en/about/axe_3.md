@@ -20,7 +20,7 @@ design:
 </div>
 <div class="column" style="width:50% ">
   <p align="center"><img src="apprentissage-federe-400x400.png" > <p>
-  <div style="text-align: right;">
+  <div style="text-align: center;">
     <a class="fa-brands fa-youtube fa-2x" href="https://www.youtube.com/watch?v=nQpqMIuHyOk" target="_blank" rel="noopener noreferrer">
       <small><small><small> Distributed Learning </small></small></small>
     </a>

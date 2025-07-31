@@ -18,6 +18,6 @@ cta:
 ---
 <br>
 
-The MEDomics UdeS lab aims to promote the use of best practices in data science.
+MEDomicsLab aims to promote the use of best practices in data science.
 
 <br>

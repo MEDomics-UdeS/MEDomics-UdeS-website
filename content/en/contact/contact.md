@@ -18,16 +18,16 @@ content:
   email: martin.vallieres@mcgill.ca
   # phone: 888 888 88 88
   address:
-    street:  Université de Sherbrooke,<br>2500, Boulevard de l'Université,<br>Faculté des sciences, Local D4-2005,
-    city: Sherbrooke
+    street:  Cedars Cancer Centre,<br>1001 boul. Décarie,<br>Medical Physics Unit, room DS1.7137,
+    city: Montréal
     region: QC
-    postcode: 'J1K 2R1'
+    postcode: 'H4A 3J1'
     country: Canada
     country_code: CA
   coordinates:
-    latitude: '45.37995173234311'
-    longitude: '-71.92660439775052'
-  directions: Université de Sherbrooke, Faculté des sciences, Local D4-1010-20
+    latitude: '45.47415652874825'
+    longitude: '-73.60105718320938'
+  directions: Cedars Cancer Centre, Medical Physics Unit, room DS1.7137
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
