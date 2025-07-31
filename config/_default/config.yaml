@@ -10,7 +10,7 @@ baseURL: 'https://www.medomics-udes.org/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: fr
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true

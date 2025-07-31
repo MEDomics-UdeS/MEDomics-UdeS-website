@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: ""
-hero_media: icon-400x400.png
+hero_media: medomicslab-400x400.png
 design:
   columns: "2"
   css_style: null
@@ -22,18 +22,17 @@ cta_alt:
 ---
 <br>
 <div style="text-align: justify;">
-The MEDomics UdeS research laboratory, led by Professor Martin Vallières at the Université de Sherbrooke, has been 
-focused on the creation of predictive models in health informatics since its founding in 2020.
+The MEDomicsLab research laboratory focuses on the development of predictive models with heterogeneous medical data.
 </div>
   
   <div style="text-align: left; white-space: nowrap; display: flex; align-items: center; margin-left: auto;">
   <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
     <small style="font-family: FontAwesome; align-self: flex-end;font-size: xx-large;"> GitHub </small>
   </a>
-  <a class="medomicslabsite fa-2x" href="https://medomicslab.com/" target="_blank" rel="noopener noreferrer" 
+  <a class="medomicsplatformsite fa-2x" href="https://www.medomics.app/" target="_blank" rel="noopener noreferrer" 
      style="display: flex; align-items: center; text-decoration: none; margin-left: auto;">
-    <img src="/media/albums/general-images/medomicslab.png" style="max-width: 2em">
-    <small style="font-family: FontAwesome; align-self: flex-end;font-size: xx-large;"> MEDomicsLab </small>
+    <img src="/media/albums/general-images/medomicsplatform.png" style="max-width: 2em">
+    <small style="font-family: Arial; align-self: flex-end;font-size: xx-large;"> MEDomics <br> platform </small>
   </a>
 </div>
 <br>

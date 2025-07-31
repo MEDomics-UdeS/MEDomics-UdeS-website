@@ -11,7 +11,7 @@ design:
 <div class="row">
 <div class="column" style="width:50%">
   <big>
-  <h2><strong>Research Area 3: Federated Learning</strong></h2>
+  <h2><strong>Axis 3: Federated Learning</strong></h2>
   <ul>
     <li><p>To guarantee patient privacy while ensuring maximum use of relevant data</p></li>
     <li><p>Decentralized learning to ensure medical center sovereignty</p></li>

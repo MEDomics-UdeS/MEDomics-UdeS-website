@@ -11,7 +11,7 @@ design:
 
 ---
 
-## **Research Area 2: Heterogeneous Data**
+## **Axis 2: Heterogeneous Data**
 
 - Data from different sources can be combined to make better predictions
 

@@ -10,7 +10,7 @@ design:
 
 ---
 
-## **Research Area 1: Medical Imaging**
+## **Axis 1: Medical Imaging**
 
 - The most aggressive tumors tend to be more heterogeneous
 

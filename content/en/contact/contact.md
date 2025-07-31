@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: Martin.Vallieres@usherbrooke.ca
+  email: martin.vallieres@mcgill.ca
   # phone: 888 888 88 88
   address:
     street:  Université de Sherbrooke,<br>2500, Boulevard de l'Université,<br>Faculté des sciences, Local D4-2005,

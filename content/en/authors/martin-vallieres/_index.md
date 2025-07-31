@@ -13,8 +13,6 @@ role: Assistant professor, computer science department
 organizations:
   - name: Université de Sherbrooke
     url: 'https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/martin-vallieres'
-  - name: GRIIS
-    url: 'https://griis.ca/en/about/people/martin-vallieres/'
   - name: Centre de recherche du CHUS - Cancer and Imaging Axes
     url: 'https://www.crchus.ca/en/home'
   - name: MEDomics
@@ -60,7 +58,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Martin.Vallieres@USherbrooke.ca'
+    link: 'mailto:martin.vallieres@mcgill.ca'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=fRkjFK4AAAAJ

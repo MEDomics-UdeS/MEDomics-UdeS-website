@@ -3,18 +3,18 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-fr:
-  languageCode: fr-ca
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/fr
+#fr:
+#  languageCode: fr-ca
+#  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#  contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
 en:
  languageCode: en-us
  contentDir: content/en
- title: MEDomics UdeS Lab
+ title: MEDomicsLab
  params:
-    description: MEDomics UdeS Lab Website
+    description: MEDomicsLab Website
  menu:
     main:
     - name: About
