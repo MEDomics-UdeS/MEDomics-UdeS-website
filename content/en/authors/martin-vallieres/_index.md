@@ -86,7 +86,7 @@ user_groups:
 ---
 
 Martin Vallières devotes much of his current work to the development of a solution for integrative data modeling in 
-oncology. He is leading the development of MEDomicsLab, an open source end-to-end computational platform for 
+oncology. He is leading the development of MEDomics platform, an open source end-to-end computational platform for 
 precision oncology. This platform will integrate heterogeneous data from hospitals using deep learning and machine 
 learning methods based on graph theory. By contributing to the improvement of predictive models in oncology, 
-MEDomicsLab will become a key artificial intelligence tool in medicine. 
+MEDomics platform will become a key tool for artificial intelligence in medicine. 

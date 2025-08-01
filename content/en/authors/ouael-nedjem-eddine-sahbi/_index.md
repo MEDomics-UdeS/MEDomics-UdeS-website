@@ -66,4 +66,4 @@ user_groups:
   - Students (M. Sc.)
 ---
 
-Ouael is a master student in the Medomics UdeS laboratory since 2025. He previously did a research intern at the laboratory between October 2023 and August 2024. He is working on the integration of federated learning and transfer learning with differential privacy to ensure the confidentiality of medical data. He is developing a federated learning simulation package that will be integrated into the Medomics Lab platform.
+Ouael is a master student in the MEDomicsLab since 2025. He previously did a research intern at the laboratory between October 2023 and August 2024. He is working on the integration of federated learning and transfer learning with differential privacy to ensure the confidentiality of medical data. He is developing a federated learning simulation package that will be integrated into the MEDomics platform.

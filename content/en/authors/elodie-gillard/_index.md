@@ -62,4 +62,4 @@ user_groups:
   - Students (M. Sc.)
 ---
 
-Elodie Gillard is a M.Sc. student in radiation sciences and medical imaging at the MEDomics UdeS laboratory under the supervision of Pr Martin Vallières in co-direction with Pr David Mathieu, Pr David Fortin and Pr Martin Lepage. Her project aims to predict adverse radiation effects following stereotactic radiotherapy treatment to brain tumours using artificial intelligence, specifically radiomics and machine learning.
+Elodie Gillard is a M.Sc. student in radiation sciences and medical imaging at the MEDomicsLab under the supervision of Pr Martin Vallières in co-direction with Pr David Mathieu, Pr David Fortin and Pr Martin Lepage. Her project aims to predict adverse radiation effects following stereotactic radiotherapy treatment to brain tumours using artificial intelligence, specifically radiomics and machine learning.

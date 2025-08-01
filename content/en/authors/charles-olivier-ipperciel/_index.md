@@ -7,7 +7,7 @@ nickname: C.O. Ipperciel
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Former research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
 
 interests:
   - Web development
@@ -57,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2025)
 ---
 
-Charles-Olivier Ipperciel is a FullStack developer, currently working on improving data management within our application. Outside of work, he is passionate about running, cycling, and gym training. In his free time, he also enjoys developing small projects, mainly web applications. He is in his third year of a bachelor's degree in computer science, as part of the co-op program, at the University of Sherbrooke.
+Charles-Olivier Ipperciel worked on improving data management within the MEDomics platform. 

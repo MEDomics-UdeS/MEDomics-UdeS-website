@@ -57,5 +57,5 @@ user_groups:
   - Research Assistants and Interns
 ---
 
-Nicolas Longchamps completed an internship in the MEDomics UdeS lab in the summer of 2022. He maintained his 
-connection with the lab by being a part-time research assistant during the fall of 2022.
+Nicolas Longchamps completed an internship in the MEDomicsLab in the summer of 2022. He maintained his 
+connection with the lab by being a part-time research assistant since the fall of 2022.

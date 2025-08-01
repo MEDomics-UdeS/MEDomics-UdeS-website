@@ -7,7 +7,7 @@ nickname: G. Blain
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Former research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -55,9 +55,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2025)
 ---
 
-Guillaume Blain completed his internship in the MEDomics UdeS laboratory in the summer of 2022. He worked on the 
-MEDomicsLab platform developing UI/UX modules. He kept his link with the lab by being a part-time research assistant 
-during the fall of 2022.
+Guillaume Blain completed his internship in the MEDomics UdeS laboratory in the summer of 2022. During his internship, he worked on the 
+MEDomics platform developing UI/UX modules. He then continued his work as a part-time research assistant.

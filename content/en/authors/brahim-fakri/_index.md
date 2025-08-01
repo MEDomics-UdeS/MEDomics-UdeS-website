@@ -7,7 +7,7 @@ nickname: B. Fakri
 superuser: false
 
 # Role/position
-role: Research professional
+role: Former research professional
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2025)
 ---
 
-In 2022, Brahim joined MEDomics UdeS for his research project, where he applied machine learning models to medical data processing. Subsequently, in 2023, he served as a research assistant for the MEDomicsLab project, facilitating the integration of MIMIC data into the platform and assuming project coordination responsibilities. Brahim Fakri then became the coordinator of the "Integrated Project: Digital Health Data" for MEDomicsLab and the SSA Québec Support Unit. He has also contributed to the application of machine learning models for medical data analysis on the MEDomicsLab platform. 
+In 2022, Brahim joined MEDomics UdeS for his research project, where he applied machine learning models to medical data processing. Subsequently, in 2023, he served as a research assistant for the MEDomicsLab project, facilitating the integration of MIMIC data into the platform and assuming project coordination responsibilities. Brahim Fakri then became the coordinator of the "Integrated Project: Digital Health Data" for MEDomicsLab and the SSA Québec Support Unit. He also contributed to the application of machine learning models for medical data analysis on the MEDomicsLab platform. 

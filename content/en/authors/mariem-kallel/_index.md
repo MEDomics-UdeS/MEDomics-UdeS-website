@@ -64,4 +64,4 @@ user_groups:
   - Students (M. Sc.)
 ---
 
-Mariem Kallel is a M.Sc. student in Software Engineering at the MEDomics UdeS laboratory since Winter 2024. Her research project mainly focuses on optimizing the MEDomicsLab interface to encourage widespread understanding and adoption among different users, especially physicians.
+Mariem Kallel is a M.Sc. student in Software Engineering at the MEDomicsLab since Winter 2024. Her research project mainly focuses on optimizing the MEDomics platform interface to encourage widespread understanding and adoption among different users, especially physicians.

@@ -7,7 +7,7 @@ nickname: C. Lampron
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Former research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2025)
 ---
 
-Cédrik is nearing the completion of his Bachelor's degree in Computer Science (2025). This marks his final academic endeavor following his Master's degree in History. As a full-stack developer, he has a keen interest in the role of technology in public services and the challenges it poses for democratic processes. He completed several internships, some in the municipal sector and others in healthcare. Cédrik is currently working on improving the application that enables healthcare professionals to interact more easily with a machine learning platform. 
+Cédrik completed his Bachelor's degree in Computer Science in 2025. This marked his final academic endeavor following his Master's degree in History. As a full-stack developer, he has a keen interest in the role of technology in public services and the challenges it poses for democratic processes. He completed several internships, some in the municipal sector and others in healthcare. Cédrik worked on improving the MEDomics platform that enables healthcare professionals to interact more easily with a machine learning platform. 
