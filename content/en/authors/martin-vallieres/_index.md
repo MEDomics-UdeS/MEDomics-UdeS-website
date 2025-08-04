@@ -7,7 +7,7 @@ nickname: M. Vallières
 superuser: true
 
 # Role/position
-role: Associate professor, Department of oncology
+role: Associate Professor, Department of Oncology
 
 # Organizations/Affiliations
 organizations:
@@ -17,10 +17,8 @@ organizations:
     url: 'https://www.ladydavis.ca/'
   - name: Gerald Bronfman Department of Oncology, McGill University
     url: 'https://www.mcgill.ca/oncology/'
-  - name: MEDomics
-    url: 'https://www.medomics.ai/'
   - name: Mila - Quebec Artificial Intelligence Institute
-    url: 'https://mila.quebec/en/person/martin-vallieres/'
+    url: 'https://mila.quebec/en/directory/martin-vallieres'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
