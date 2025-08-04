@@ -7,19 +7,19 @@ nickname: M. Vallières
 superuser: true
 
 # Role/position
-role: Assistant professor, computer science department
+role: Associate professor, Department of oncology
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Sherbrooke
-    url: 'https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/martin-vallieres'
-  - name: Centre de recherche du CHUS - Cancer and Imaging Axes
-    url: 'https://www.crchus.ca/en/home'
+  - name: The Research Institute of the McGill University Health Centre
+    url: 'https://rimuhc.ca/'
+  - name: Lady Davis Institute for Medical Research
+    url: 'https://www.ladydavis.ca/'
+  - name: Gerald Bronfman Department of Oncology, McGill University
+    url: 'https://www.mcgill.ca/oncology/'
   - name: MEDomics
     url: 'https://www.medomics.ai/'
-  - name: CIFAR-AI Chair
-    url: 'https://cifar.ca/bios/martin-vallieres/'
-  - name: Mila
+  - name: Mila - Quebec Artificial Intelligence Institute
     url: 'https://mila.quebec/en/person/martin-vallieres/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -85,8 +85,6 @@ user_groups:
   - Director
 ---
 
-Martin Vallières devotes much of his current work to the development of a solution for integrative data modeling in 
-oncology. He is leading the development of MEDomics platform, an open source end-to-end computational platform for 
-precision oncology. This platform will integrate heterogeneous data from hospitals using deep learning and machine 
-learning methods based on graph theory. By contributing to the improvement of predictive models in oncology, 
-MEDomics platform will become a key tool for artificial intelligence in medicine. 
+Martin Vallières is devoting much of his work on the development of integrative modeling solutions for heterogeneous 
+medical data. He leads the development of MEDomics ([https://medomics.app/](https://medomics.app/)), an open-source platform for end-to-end 
+predictive modeling in medicine.
