@@ -113,7 +113,7 @@ General
 
 [//]: # (5. _Federated learning_: in order to increase the amount of modeled data from different health care institutions, a distributed learning approach can be used - data is kept within the boundaries of each institution, thus avoiding data transfer and privacy issues.)
 
-For more information, see the [project website](https://medomics-udes.gitbook.io/medomicslab-docs).
+For more information, see the [project website](https://medomics-udes.gitbook.io/medomics-docs/quick-start).
 
 ![MEDomics goal](MEDomicsLab-Principles-2.png "")
 ![MEDomics overview](MEDomicsLab-Principles-3.png "")
