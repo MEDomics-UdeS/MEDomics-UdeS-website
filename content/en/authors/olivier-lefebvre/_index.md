@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph. D. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2021-2025
+      year: 2021-
     - course: B. Sc. Mathematics
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2017-2020

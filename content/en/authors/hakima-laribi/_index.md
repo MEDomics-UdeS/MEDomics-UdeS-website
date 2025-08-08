@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph. D. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
-      year: 2022-2026
+      year: 2022-
     - course: Engineering Diploma, M. Sc. Computer science
       institution: École nationale Supérieure d'Informatique, Alger, Algeria
       year: 2017-2022

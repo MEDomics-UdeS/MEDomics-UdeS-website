@@ -19,16 +19,21 @@ bio:
 
 
 interests:
-#  - Knowledge graphs
+  - Multimodal fusion for survival prediction
+  - Interpretable AI methods for uncovering pathological features
+  - Computational pathology
+  - Computer vision
+  - NLP
+  - Transfer learning
 
 education:
-#  courses:
-#    - course: Ph. D. Computer science
-#      institution: Université de Sherbrooke, Sherbrooke, Canada
-#      year: 2022-2026
-#    - course: Engineering Diploma, M. Sc. Computer science
-#      institution: École nationale Supérieure d'Informatique, Alger, Algeria
-#      year: 2017-2022
+  courses:
+    - course: Ph. D.  Biomedical Engineering
+      institution: McGill University, Montreal, Canada
+      year: 2023-
+    - course: Master of Science; Artificial Intelligence
+      institution: Université de Montréal, Montreal, Canada
+      year: 2021-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,12 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:juan.duran@mail.mcgill.ca'
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/hakima-laribi-4631381b8/
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/LaribiHakima
+  - icon: linkedin
+    icon_pack: fab
+    link: http://linkedin.com/in/juan-duran-6aa742205
+  - icon: github
+    icon_pack: fab
+    link: https://www.github.com/juanduranmcgill
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +67,5 @@ user_groups:
   - Students (Ph. D.)
 ---
 
-[//]: # (i is a PhD student in the MEDomicsLab since 2022. )
+Juan is a PhD student in biomedical engineering at McGill, merging physics, computer science and machine learning to build AI-powered survival models in oncology. He specializes in integrating whole-slide histopathology images with clinical data, designing c pipelines for embedding refinement, and enforcing rigorous benchmarking to ensure both performance and interpretability with the goal of translating technology into tangible patient benefit.
 
